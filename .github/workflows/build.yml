@@ -1,0 +1,28 @@
+name: Build
+
+on:
+  push:
+    branches:
+      - 'main'
+    tags:
+      - 'v*'
+  pull_request:
+    branches:
+      - 'main'
+  workflow_dispatch:
+
+jobs:
+  build:
+
+    runs-on: ubuntu-latest
+
+    steps:
+    - uses: actions/checkout@v3
+
+    - name: Notify laplace
+      if: ${{ github.event_name != 'pull_request' }}
+      run: |
+        curl -X POST -H "Accept: application/vnd.github.v3+json" \
+          -H "Authorization: Bearer ${{ secrets.PAT_ORION }}" \
+          https://api.github.com/repos/${{ secrets.REPO_LAPLACE }}/dispatches \
+          -d '{"event_type":"webhook"}'
