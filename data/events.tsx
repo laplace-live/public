@@ -25,17 +25,6 @@ export const events: WeekItem[] = [
   // https://www.iamwawa.cn/fontchanger.html
 
   // Template:
-  // { year: 2023, week: 45, bilibili_url: "723182113833091079", events: [
-  //   { date: "2023-10-31 20:00+08:00", type: "rest", title: "", rec: "", },
-  //   { date: "2023-11-01 20:00+08:00", type: "chat", title: "标题", rec: "", },
-  //   { date: "2023-11-02 20:00+08:00", type: "rest", title: "", rec: "", },
-  //   { date: "2023-11-03 20:00+08:00", type: "radio", title: "标题", rec: "", },
-  //   { date: "2023-11-04 20:00+08:00", type: "colo", title: "标题", rec: "", fans_rec: true },
-  //   { date: "2023-11-05 19:00+08:00", type: "sub", title: "标题", rec: "", },
-  //   { date: "2023-11-06 19:00+08:00", type: "game", title: "标题", rec: "", },
-  // ] },
-  //
-  // Empty template:
   // { year: 2023, week: 0, bilibili_url: "", events: [
   //   { date: "2023-00-00 20:00+08:00", type: "", title: "", rec: "", },
   //   { date: "2023-00-00 20:00+08:00", type: "", title: "", rec: "", },
