@@ -48,7 +48,7 @@ export const events: WeekItem[] = [
 
    { year: 2023, week: 45, bilibili_url: "861564491053137960", events: [
      { date: "2023-11-06 20:00+08:00", type: "rest", title: "", rec: "", },
-     { date: "2023-11-07 20:00+08:00", type: "watch", title: "视频鉴赏会！", rec: "BV1fw411K7GR", },
+     { date: "2023-11-07 20:00+08:00", type: "watch", title: "视频鉴赏会！1", rec: "BV1fw411K7GR", },
      { date: "2023-11-08 20:00+08:00", type: "rest", title: "", rec: "", },
      { date: "2023-11-09 20:00+08:00", type: "game", title: "GAME TIME", rec: "", },
      { date: "2023-11-10 20:00+08:00", type: "sub", title: "提问棉花糖", rec: "", },
