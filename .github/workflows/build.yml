@@ -15,7 +15,7 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Check if vup.json updated
+    - name: Check if data updated
       id: git
       run: |
         echo "$(git --no-pager diff --name-only | grep -E '^(data/events.tsx)')"
