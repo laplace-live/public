@@ -16,7 +16,7 @@ jobs:
 
     steps:
     - name: Notify laplace
-      if: ${{ github.event_name != 'pull_request' && steps.git.outputs.file_changes }}
+      if: ${{ github.event_name != 'pull_request' }}
       run: |
         curl -X POST -H "Accept: application/vnd.github.v3+json" \
           -H "Authorization: Bearer ${{ secrets.PAT_ORION }}" \
