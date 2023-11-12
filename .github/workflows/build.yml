@@ -15,14 +15,6 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - uses: actions/checkout@v4
-
-    - name: Check if data updated
-      id: git
-      run: |
-        echo "$(git --no-pager diff --name-only | grep -E '^(data/events.tsx)')"
-        echo "file_changes=$(git --no-pager diff --name-only | grep -E '^(data/events.tsx)')" >> $GITHUB_OUTPUT
-
     - name: Notify laplace
       if: ${{ github.event_name != 'pull_request' && steps.git.outputs.file_changes }}
       run: |
