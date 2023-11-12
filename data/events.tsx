@@ -21,7 +21,7 @@ export type WeekItem = {
 
 export const events: WeekItem[] = [
 
-  // Tools:
+  // Tools: test
   // https://www.iamwawa.cn/fontchanger.html
 
   // Template:
