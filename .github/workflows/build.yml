@@ -15,8 +15,14 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
+    - name: Check if vup.json updated
+      id: git
+      run: |
+        echo "$(git --no-pager diff --name-only | grep -E '^(data/events.tsx)')"
+        echo "file_changes=$(git --no-pager diff --name-only | grep -E '^(data/events.tsx)')" >> $GITHUB_OUTPUT
+
     - name: Notify laplace
-      if: ${{ github.event_name != 'pull_request' }}
+      if: ${{ github.event_name != 'pull_request' && steps.git.outputs.file_changes }}
       run: |
         curl -X POST -H "Accept: application/vnd.github.v3+json" \
           -H "Authorization: Bearer ${{ secrets.PAT_ORION }}" \
