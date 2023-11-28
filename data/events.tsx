@@ -47,32 +47,32 @@ export const events: WeekItem[] = [
 
   { year: 2023, week: 47, bilibili_url: "866417602235203602", events: [
     { date: "2023-11-20 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2023-11-21 20:00+08:00", type: "game", title: "牢里，真好", rec: "", },
-    { date: "2023-11-22 20:00+08:00", type: "watch", title: "毒师有毒", rec: "", },
-    { date: "2023-11-23 20:00+08:00", type: "watch", title: "有毒毒师", rec: "", },
-    { date: "2023-11-24 20:00+08:00", type: "game", title: "随机PVZ？", rec: "", },
+    { date: "2023-11-21 20:00+08:00", type: "game", title: "牢里，真好", rec: "BV1av411c713", },
+    { date: "2023-11-22 20:00+08:00", type: "watch", title: "毒师有毒", rec: "BV1Sc411B7CJ", },
+    { date: "2023-11-23 20:00+08:00", type: "watch", title: "有毒毒师", rec: "BV1pM411f7EG", },
+    { date: "2023-11-24 20:00+08:00", type: "game", title: "随机PVZ？", rec: "BV1xN411M7V5", },
     { date: "2023-11-25 19:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2023-11-26 19:00+08:00", type: "sub", title: "梦境之花", rec: "", },
+    { date: "2023-11-26 19:00+08:00", type: "sub", title: "梦境之花", rec: "BV1pQ4y1t71D", },
   ] },
 
   { year: 2023, week: 46, bilibili_url: "864167503242199045", events: [
     { date: "2023-11-13 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2023-11-14 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2023-11-15 20:00+08:00", type: "radio", title: "梦游电台", rec: "", },
-    { date: "2023-11-16 20:00+08:00", type: "sub", title: "视频推荐回", rec: "", },
-    { date: "2023-11-17 20:00+08:00", type: "game", title: "天台刷沥青", rec: "", },
-    { date: "2023-11-18 19:00+08:00", type: "fitness", title: "健！身！环！", rec: "", },
-    { date: "2023-11-19 19:00+08:00", type: "watch", title: "有蚂蚁在爬", rec: "", },
+    { date: "2023-11-15 20:00+08:00", type: "radio", title: "梦游电台", rec: "BV1LG411X7ob", },
+    { date: "2023-11-16 20:00+08:00", type: "sub", title: "视频推荐回", rec: "BV16N411u7WE", },
+    { date: "2023-11-17 20:00+08:00", type: "game", title: "天台刷沥青", rec: "BV1Jv411c7hc", },
+    { date: "2023-11-18 19:00+08:00", type: "fitness", title: "健！身！环！", rec: "BV1Vg4y1X72F", },
+    { date: "2023-11-19 19:00+08:00", type: "watch", title: "有蚂蚁在爬", rec: "BV11a4y1U7GU", },
   ] },
 
    { year: 2023, week: 45, bilibili_url: "861564491053137960", events: [
      { date: "2023-11-06 20:00+08:00", type: "rest", title: "", rec: "", },
      { date: "2023-11-07 20:00+08:00", type: "watch", title: "视频鉴赏会！", rec: "BV1fw411K7GR", },
      { date: "2023-11-08 20:00+08:00", type: "rest", title: "", rec: "", },
-     { date: "2023-11-09 20:00+08:00", type: "game", title: "GAME TIME", rec: "", },
-     { date: "2023-11-10 20:00+08:00", type: "sub", title: "提问棉花糖", rec: "", },
-     { date: "2023-11-11 19:00+08:00", type: "fitness", title: "健身环", rec: "", },
-     { date: "2023-11-12 19:00+08:00", type: "game", title: "糖豆人！", rec: "", },
+     { date: "2023-11-09 20:00+08:00", type: "game", title: "GAME TIME", rec: "BV1Vc411R73x", },
+     { date: "2023-11-10 20:00+08:00", type: "sub", title: "提问棉花糖", rec: "BV1MC4y1E7ws", },
+     { date: "2023-11-11 19:00+08:00", type: "fitness", title: "健身环", rec: "BV1ig4y197dT", },
+     { date: "2023-11-12 19:00+08:00", type: "game", title: "糖豆人！", rec: "BV1au4y1N7g7", },
    ] },
 
    { year: 2023, week: 44, bilibili_url: "", events: [
