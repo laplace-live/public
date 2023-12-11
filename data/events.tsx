@@ -38,11 +38,11 @@ export const events: WeekItem[] = [
   { year: 2023, week: 49, bilibili_url: "871551067404369956", events: [
     { date: "2023-12-04 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2023-12-05 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2023-12-06 20:00+08:00", type: "watch", title: "JoJo的奇妙冒险", rec: "", },
-    { date: "2023-12-07 20:00+08:00", type: "game", title: "逃离橘子大作战", rec: "", },
-    { date: "2023-12-08 20:00+08:00", type: "radio", title: "好久不见的闲聊电台", rec: "", },
-    { date: "2023-12-09 19:00+08:00", type: "sub", title: "煮锅海龟汤", rec: "", },
-    { date: "2023-12-10 19:00+08:00", type: "game", title: "GAME TIME", rec: "", },
+    { date: "2023-12-06 20:00+08:00", type: "watch", title: "JoJo的奇妙冒险", rec: "BV15Q4y1V7Kj", },
+    { date: "2023-12-07 20:00+08:00", type: "game", title: "逃离橘子大作战", rec: "BV1wb4y1j7fX", },
+    { date: "2023-12-08 20:00+08:00", type: "radio", title: "好久不见的闲聊电台", rec: "BV1UN4y1a7cw", },
+    { date: "2023-12-09 19:00+08:00", type: "sub", title: "煮锅海龟汤", rec: "BV1oi4y1v7bZ", },
+    { date: "2023-12-10 19:00+08:00", type: "game", title: "GAME TIME", rec: "BV1eu4y1u7Hs", },
   ] },
 
   { year: 2023, week: 48, bilibili_url: "868980117162950661", events: [
