@@ -34,6 +34,25 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
+  { year: 2023, week: 51, bilibili_url: "876799899693219874", events: [
+    { date: "2023-12-18 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2023-12-19 20:00+08:00", type: "watch", title: "视频鉴赏会", rec: "", },
+    { date: "2023-12-20 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2023-12-21 20:00+08:00", type: "game", title: "GAME TIME", rec: "", },
+    { date: "2023-12-22 20:00+08:00", type: "watch", title: "JoJo的奇妙冒险", rec: "", },
+    { date: "2023-12-23 19:00+08:00", type: "fitness", title: "健身环", rec: "", },
+    { date: "2023-12-24 19:00+08:00", type: "radio", title: "腰酸背痛的电台(大概", rec: "", },
+  ] },
+
+  { year: 2023, week: 50, bilibili_url: "", events: [
+    { date: "2023-12-11 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2023-12-12 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2023-12-13 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2023-12-14 20:00+08:00", type: "watch", title: "绝命毒师完鸟！！！", rec: "BV1ng4y117Uf", },
+    { date: "2023-12-15 20:00+08:00", type: "game", title: "改过自新！从头做人！", rec: "BV1Jc41127pz", },
+    { date: "2023-12-16 19:00+08:00", type: "watch", title: "看会~", rec: "BV1T94y1A754", },
+    { date: "2023-12-17 19:00+08:00", type: "game", title: "玩会~", rec: "BV1Ec411o7zz", },
+  ] },
   
   { year: 2023, week: 49, bilibili_url: "871551067404369956", events: [
     { date: "2023-12-04 20:00+08:00", type: "rest", title: "", rec: "", },
