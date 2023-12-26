@@ -35,14 +35,14 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
   
-  { year: 2023, week: 52, bilibili_url: "", events: [
-    { date: "2023-12-25 20:00+08:00", type: "special", title: "圣诞快乐！", rec: "BV1194y1F7dw", },
+  { year: 2023, week: 52, bilibili_url: "879400893262331961", events: [
+    { date: "2023-12-25 20:00+08:00", type: "special", title: "【圣诞新衣回】圣诞快乐！", rec: "BV1194y1F7dw", },
     { date: "2023-12-26 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2023-12-27 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2023-12-28 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2023-12-29 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2023-12-30 19:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2023-12-31 19:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2023-12-28 20:00+08:00", type: "chat", title: "谢礼物时间", rec: "", },
+    { date: "2023-12-29 20:00+08:00", type: "game", title: "打电动啦", rec: "", },
+    { date: "2023-12-30 19:00+08:00", type: "watch", title: "我推荐视频回💢", rec: "", },
+    { date: "2023-12-31 19:00+08:00", type: "game", title: "糖！豆！人！（不元）", rec: "", },
   ] },
 
   { year: 2023, week: 51, bilibili_url: "876799899693219874", events: [
