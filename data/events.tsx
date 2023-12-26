@@ -34,14 +34,25 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
+  
+  { year: 2023, week: 52, bilibili_url: "", events: [
+    { date: "2023-12-25 20:00+08:00", type: "special", title: "圣诞快乐！", rec: "BV1194y1F7dw", },
+    { date: "2023-12-26 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2023-12-27 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2023-12-28 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2023-12-29 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2023-12-30 19:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2023-12-31 19:00+08:00", type: "rest", title: "", rec: "", },
+  ] },
+
   { year: 2023, week: 51, bilibili_url: "876799899693219874", events: [
     { date: "2023-12-18 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2023-12-19 20:00+08:00", type: "watch", title: "视频鉴赏会", rec: "", },
+    { date: "2023-12-19 20:00+08:00", type: "watch", title: "视频鉴赏会", rec: "https://laplace.mov/web/index.html#!/item?id=13055&serverId=94ce735c826b4584ad48e501e538366d", fans_rec: true },
     { date: "2023-12-20 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2023-12-21 20:00+08:00", type: "game", title: "GAME TIME", rec: "", },
-    { date: "2023-12-22 20:00+08:00", type: "watch", title: "JoJo的奇妙冒险", rec: "", },
-    { date: "2023-12-23 19:00+08:00", type: "fitness", title: "健身环", rec: "", },
-    { date: "2023-12-24 19:00+08:00", type: "radio", title: "腰酸背痛的电台(大概", rec: "", },
+    { date: "2023-12-21 20:00+08:00", type: "game", title: "GAME TIME", rec: "BV1bg4y1C7LV", },
+    { date: "2023-12-22 20:00+08:00", type: "watch", title: "JoJo的奇妙冒险", rec: "BV1j94y1w7dF", },
+    { date: "2023-12-23 19:00+08:00", type: "fitness", title: "健身环", rec: "BV1Mg4y1y7dG", },
+    { date: "2023-12-24 19:00+08:00", type: "radio", title: "腰酸背痛的电台(大概", rec: "BV1cj411p72B", },
   ] },
 
   { year: 2023, week: 50, bilibili_url: "", events: [
