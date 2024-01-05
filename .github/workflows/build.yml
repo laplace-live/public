@@ -15,10 +15,23 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-    - name: Notify laplace
-      if: ${{ github.event_name != 'pull_request' }}
-      run: |
-        curl -X POST -H "Accept: application/vnd.github.v3+json" \
-          -H "Authorization: Bearer ${{ secrets.PAT_ORION }}" \
-          https://api.github.com/repos/${{ secrets.REPO_LAPLACE }}/dispatches \
-          -d '{"event_type":"webhook"}'
+      # https://bun.sh/docs/cli/install#ci-cd
+      - name: Checkout repo
+        uses: actions/checkout@v4
+
+      - name: Install bun
+        uses: oven-sh/setup-bun@v1
+
+      - name: Install dependencies
+        run: bun install
+
+      - name: Test app
+        run: bun run test
+
+      - name: Notify laplace
+        if: ${{ github.event_name != 'pull_request' }}
+        run: |
+          curl -X POST -H "Accept: application/vnd.github.v3+json" \
+            -H "Authorization: Bearer ${{ secrets.PAT_ORION }}" \
+            https://api.github.com/repos/${{ secrets.REPO_LAPLACE }}/dispatches \
+            -d '{"event_type":"webhook"}'
