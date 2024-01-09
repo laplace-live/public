@@ -35,14 +35,24 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
   
+  { year: 2024, week: 2, bilibili_url: "884573816268783616", events: [
+    { date: "2024-01-08 20:00+08:00", type: "rest", title: "！", rec: "", },
+    { date: "2024-01-09 20:00+08:00", type: "watch", title: "我流视频推荐", rec: "", },
+    { date: "2024-01-10 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-01-11 20:00+08:00", type: "game", title: "打电动，少话", rec: "", },
+    { date: "2024-01-12 20:00+08:00", type: "sub", title: "看看二创", rec: "", },
+    { date: "2024-01-13 19:00+08:00", type: "sub", title: "梦境之花", rec: "", },
+    { date: "2024-01-14 19:00+08:00", type: "game", title: "心理测试大挑战！", rec: "", },
+  ] },
+
   { year: 2024, week: 1, bilibili_url: "882003351383834660", events: [
     { date: "2024-01-01 20:00+08:00", type: "radio", title: "新年第一电台！", rec: "BV1G64y1E7Hi", },
     { date: "2024-01-02 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-01-03 20:00+08:00", type: "game", title: "打电动，少话", rec: "BV1bW4y1P7mL", },
     { date: "2024-01-04 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-01-05 20:00+08:00", type: "sub", title: "看看二创/棉花糖", rec: "", cancelled: true, reason: "https://t.bilibili.com/883119643446738962" },
-    { date: "2024-01-06 19:00+08:00", type: "watch", title: "JOJO完结篇（大概？", rec: "", },
-    { date: "2024-01-07 19:00+08:00", type: "game", title: "打电动，话少", rec: "", },
+    { date: "2024-01-06 19:00+08:00", type: "watch", title: "JOJO完结篇（大概？", rec: "BV18W4y1N7j8", },
+    { date: "2024-01-07 19:00+08:00", type: "game", title: "打电动，话少", rec: "BV1Ck4y1X77K", },
   ] },
 
   { year: 2023, week: 52, bilibili_url: "879400893262331961", events: [
