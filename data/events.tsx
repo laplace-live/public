@@ -35,6 +35,16 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
+  { year: 2024, week: 3, bilibili_url: "887570702725546005", events: [
+    { date: "2024-01-15 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-01-16 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-01-17 20:00+08:00", type: "watch", title: "奶姑娘", rec: "BV1xQ4y1w7Sc", },
+    { date: "2024-01-18 20:00+08:00", type: "game", title: "打电动，少话", rec: "BV19a4y1C7Wx", },
+    { date: "2024-01-19 20:00+08:00", type: "watch", title: "JOJO第四部", rec: "", },
+    { date: "2024-01-20 19:00+08:00", type: "fitness", title: "健身环", rec: "", },
+    { date: "2024-01-21 19:00+08:00", type: "game", title: "糖豆人", rec: "", },
+  ] },
+
   { year: 2024, week: 2, bilibili_url: "884573816268783616", events: [
     { date: "2024-01-08 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-01-09 20:00+08:00", type: "watch", title: "我流视频推荐", rec: "", },
