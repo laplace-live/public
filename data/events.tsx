@@ -35,24 +35,34 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
+  { year: 2024, week: 4, bilibili_url: "889692287708168195", events: [
+    { date: "2024-01-22 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-01-23 20:00+08:00", type: "game", title: "先玩玩幻兽帕鲁", rec: "", },
+    { date: "2024-01-24 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-01-25", type: "radio", title: "不定时电台", rec: "", },
+    { date: "2024-01-26 20:00+08:00", type: "watch", title: "看看风骚律师", rec: "", },
+    { date: "2024-01-27 19:00+08:00", type: "sub", title: "粉丝歌会~", rec: "", },
+    { date: "2024-01-28 19:00+08:00", type: "sub", title: "海龟汤！！！", rec: "", },
+  ] },
+
   { year: 2024, week: 3, bilibili_url: "887570702725546005", events: [
     { date: "2024-01-15 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-01-16 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-01-17 20:00+08:00", type: "watch", title: "奶姑娘", rec: "BV1xQ4y1w7Sc", },
     { date: "2024-01-18 20:00+08:00", type: "game", title: "打电动，少话", rec: "BV19a4y1C7Wx", },
-    { date: "2024-01-19 20:00+08:00", type: "watch", title: "JOJO第四部", rec: "", },
-    { date: "2024-01-20 19:00+08:00", type: "fitness", title: "健身环", rec: "", },
-    { date: "2024-01-21 19:00+08:00", type: "game", title: "糖豆人", rec: "", },
+    { date: "2024-01-19 20:00+08:00", type: "watch", title: "JOJO第四部", rec: "BV1va4y1y7Zw", },
+    { date: "2024-01-20 19:00+08:00", type: "fitness", title: "健身环", rec: "BV1D5411C7zm", },
+    { date: "2024-01-21 19:00+08:00", type: "game", title: "糖豆人", rec: "BV1zN4y1n7ya", },
   ] },
 
   { year: 2024, week: 2, bilibili_url: "884573816268783616", events: [
-    { date: "2024-01-08 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-01-08 20:00+08:00", type: "rest", title: "", rec: "BV1Ne411v7Hp", },
     { date: "2024-01-09 20:00+08:00", type: "watch", title: "我流视频推荐", rec: "", },
     { date: "2024-01-10 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-01-11 20:00+08:00", type: "game", title: "打电动，少话", rec: "", },
-    { date: "2024-01-12 20:00+08:00", type: "sub", title: "看看二创", rec: "", },
-    { date: "2024-01-13 19:00+08:00", type: "sub", title: "梦境之花", rec: "", },
-    { date: "2024-01-14 19:00+08:00", type: "game", title: "心理测试大挑战！", rec: "", },
+    { date: "2024-01-11 20:00+08:00", type: "game", title: "打电动，少话", rec: "BV1Jg4y1S7tc", },
+    { date: "2024-01-12 20:00+08:00", type: "sub", title: "看看二创", rec: "BV1vQ4y157bm", },
+    { date: "2024-01-13 19:00+08:00", type: "sub", title: "梦境之花", rec: "https://laplace.mov/web/index.html#!/item?id=13170&serverId=94ce735c826b4584ad48e501e538366d", fans_rec: true },
+    { date: "2024-01-14 19:00+08:00", type: "game", title: "心理测试大挑战！", rec: "BV19a4y117nf", },
   ] },
 
   { year: 2024, week: 1, bilibili_url: "882003351383834660", events: [
