@@ -35,14 +35,24 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
+  { year: 2024, week: 5, bilibili_url: "892396562357944321", events: [
+    { date: "2024-01-29 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-01-30 20:00+08:00", type: "game", title: "LLL的帕鲁生活", rec: "BV1oF4m1M7hY", },
+    { date: "2024-01-31 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-02-01 20:00+08:00", type: "radio", title: "GAME TIME", rec: "", },
+    { date: "2024-02-21 12:00+08:00", type: "watch", title: "白日梦闲聊", rec: "", },
+    { date: "2024-02-21 12:00+08:00", type: "sub", title: "jojo的奇妙冒险", rec: "", },
+    { date: "2024-02-21 19:00+08:00", type: "sub", title: "粉丝歌回（续）", rec: "", },
+  ] },
+
   { year: 2024, week: 4, bilibili_url: "889692287708168195", events: [
     { date: "2024-01-22 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-01-23 20:00+08:00", type: "game", title: "先玩玩幻兽帕鲁", rec: "", },
+    { date: "2024-01-23 20:00+08:00", type: "game", title: "先玩玩幻兽帕鲁", rec: "BV1P64y1w7C3", },
     { date: "2024-01-24 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-01-25", type: "radio", title: "不定时电台", rec: "", },
-    { date: "2024-01-26 20:00+08:00", type: "watch", title: "看看风骚律师", rec: "", },
-    { date: "2024-01-27 19:00+08:00", type: "sub", title: "粉丝歌会~", rec: "", },
-    { date: "2024-01-28 19:00+08:00", type: "sub", title: "海龟汤！！！", rec: "", },
+    { date: "2024-01-25", type: "radio", title: "不定时电台", rec: "BV14V411Q7yE", },
+    { date: "2024-01-26 20:00+08:00", type: "watch", title: "看看风骚律师", rec: "BV1764y1w7xf", },
+    { date: "2024-01-27 19:00+08:00", type: "sub", title: "粉丝歌会~", rec: "BV1Ai4y1p7ah", },
+    { date: "2024-01-28 19:00+08:00", type: "sub", title: "海龟汤！！！", rec: "BV1Lk4y1f7U5", },
   ] },
 
   { year: 2024, week: 3, bilibili_url: "887570702725546005", events: [
