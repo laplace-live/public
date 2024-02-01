@@ -40,9 +40,9 @@ export const events: WeekItem[] = [
     { date: "2024-01-30 20:00+08:00", type: "game", title: "LLL的帕鲁生活", rec: "BV1oF4m1M7hY", },
     { date: "2024-01-31 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-02-01 20:00+08:00", type: "radio", title: "GAME TIME", rec: "", },
-    { date: "2024-02-21 12:00+08:00", type: "watch", title: "白日梦闲聊", rec: "", },
-    { date: "2024-02-21 12:00+08:00", type: "sub", title: "jojo的奇妙冒险", rec: "", },
-    { date: "2024-02-21 19:00+08:00", type: "sub", title: "粉丝歌回（续）", rec: "", },
+    { date: "2024-02-02 12:00+08:00", type: "watch", title: "白日梦闲聊", rec: "", },
+    { date: "2024-02-03 12:00+08:00", type: "sub", title: "jojo的奇妙冒险", rec: "", },
+    { date: "2024-02-04 19:00+08:00", type: "sub", title: "粉丝歌回（续）", rec: "", },
   ] },
 
   { year: 2024, week: 4, bilibili_url: "889692287708168195", events: [
