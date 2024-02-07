@@ -35,14 +35,34 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
+  { year: 2024, week: 6, bilibili_url: "895331760192094295", events: [
+    { date: "2024-02-12 20:00+08:00", type: "sub", title: "粉丝歌回（终（大概", rec: "", },
+    { date: "2024-02-13 20:00+08:00", type: "game", title: "玩玩新游戏", rec: "", },
+    { date: "2024-02-14 20:00+08:00", type: "sing", title: "我的歌回", rec: "", },
+    { date: "2024-02-15 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-02-16 20:00+08:00", type: "sub", title: "粉丝视频推荐", rec: "", },
+    { date: "2024-02-17 20:00+08:00", type: "game", title: "博！", rec: "", },
+    { date: "2024-02-18 20:00+08:00", type: "rest", title: "", rec: "", },
+  ] },
+
+  { year: 2024, week: 6, bilibili_url: "895331760192094295", events: [
+    { date: "2024-02-05 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-02-06 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-02-07 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-02-08 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-02-09 20:00+08:00", type: "special", title: "新年画新头像", rec: "", },
+    { date: "2024-02-10 20:00+08:00", type: "watch", title: "过年必看西游记～", rec: "", },
+    { date: "2024-02-11 20:00+08:00", type: "radio", title: "双人厨房", rec: "", },
+  ] },
+
   { year: 2024, week: 5, bilibili_url: "892396562357944321", events: [
     { date: "2024-01-29 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-01-30 20:00+08:00", type: "game", title: "LLL的帕鲁生活", rec: "BV1oF4m1M7hY", },
     { date: "2024-01-31 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-02-01 20:00+08:00", type: "game", title: "GAME TIME", rec: "", },
-    { date: "2024-02-02 12:00+08:00", type: "chat", title: "白日梦闲聊", rec: "", },
-    { date: "2024-02-03 12:00+08:00", type: "watch", title: "jojo的奇妙冒险", rec: "", },
-    { date: "2024-02-04 19:00+08:00", type: "sub", title: "粉丝歌回（续）", rec: "", },
+    { date: "2024-02-01 20:00+08:00", type: "game", title: "GAME TIME", rec: "BV1pt421H7QB", },
+    { date: "2024-02-02 12:00+08:00", type: "chat", title: "白日梦闲聊", rec: "BV1Gx42197F4", },
+    { date: "2024-02-03 12:00+08:00", type: "watch", title: "jojo的奇妙冒险", rec: "BV1jC411r79Z", },
+    { date: "2024-02-04 19:00+08:00", type: "sub", title: "粉丝歌回（续）", rec: "BV1gx4y1f7KP", },
   ] },
 
   { year: 2024, week: 4, bilibili_url: "889692287708168195", events: [
