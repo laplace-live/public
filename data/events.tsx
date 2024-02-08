@@ -35,7 +35,7 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
-  { year: 2024, week: 6, bilibili_url: "895331760192094295", events: [
+  { year: 2024, week: 7, bilibili_url: "895331760192094295", events: [
     { date: "2024-02-12 20:00+08:00", type: "sub", title: "粉丝歌回（终（大概", rec: "", },
     { date: "2024-02-13 20:00+08:00", type: "game", title: "玩玩新游戏", rec: "", },
     { date: "2024-02-14 20:00+08:00", type: "sing", title: "我的歌回", rec: "", },
