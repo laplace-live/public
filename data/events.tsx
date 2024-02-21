@@ -36,13 +36,13 @@ export const events: WeekItem[] = [
   // ] },
 
   { year: 2024, week: 8, bilibili_url: "899855679309742084", events: [
-    { date: "2024-02-12 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-02-13 20:00+08:00", type: "game", title: "山河旅探", rec: "", },
-    { date: "2024-02-14 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-02-15 20:00+08:00", type: "game", title: "索尔的奇妙冒险", rec: "", },
-    { date: "2024-02-16 20:00+08:00", type: "game", title: "糖豆人～", rec: "", },
-    { date: "2024-02-17 19:00+08:00", type: "sub", title: "梦境之花", rec: "", },
-    { date: "2024-02-18 19:00+08:00", type: "radio", title: "心理测试电台", rec: "", },
+    { date: "2024-02-19 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-02-20 20:00+08:00", type: "game", title: "山河旅探", rec: "", },
+    { date: "2024-02-21 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-02-22 20:00+08:00", type: "game", title: "索尔的奇妙冒险", rec: "", },
+    { date: "2024-02-23 20:00+08:00", type: "game", title: "糖豆人～", rec: "", },
+    { date: "2024-02-24 19:00+08:00", type: "sub", title: "梦境之花", rec: "", },
+    { date: "2024-02-25 19:00+08:00", type: "radio", title: "心理测试电台", rec: "", },
   ] },
 
   { year: 2024, week: 7, bilibili_url: "895331760192094295", events: [
