@@ -35,23 +35,33 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
-  { year: 2024, week: 8, bilibili_url: "899855679309742084", events: [
+  { year: 2024, week: 9, bilibili_url: "902736537210322962", events: [
     { date: "2024-02-19 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-02-20 20:00+08:00", type: "game", title: "山河旅探", rec: "", },
     { date: "2024-02-21 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-02-22 20:00+08:00", type: "watch", title: "索尔的奇妙冒险", rec: "", },
-    { date: "2024-02-23 20:00+08:00", type: "game", title: "糖豆人～", rec: "", },
-    { date: "2024-02-24 19:00+08:00", type: "sub", title: "梦境之花", rec: "", },
-    { date: "2024-02-25 19:00+08:00", type: "radio", title: "心理测试电台", rec: "", },
+    { date: "2024-02-22 20:00+08:00", type: "fitness", title: "健身环", rec: "", },
+    { date: "2024-02-23 20:00+08:00", type: "watch", title: "JOJO的奇妙冒险", rec: "", },
+    { date: "2024-02-24 19:00+08:00", type: "game", title: "帕鲁复建", rec: "", },
+    { date: "2024-02-25 19:00+08:00", type: "watch", title: "Better call nine！", rec: "", },
+  ] },
+
+  { year: 2024, week: 8, bilibili_url: "899855679309742084", events: [
+    { date: "2024-02-19 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-02-20 20:00+08:00", type: "game", title: "山河旅探", rec: "BV1VZ42127FR", },
+    { date: "2024-02-21 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-02-22 20:00+08:00", type: "watch", title: "索尔的奇妙冒险", rec: "BV192421F7bi", },
+    { date: "2024-02-23 20:00+08:00", type: "game", title: "糖豆人～", rec: "BV1qz42197mP", },
+    { date: "2024-02-24 19:00+08:00", type: "sub", title: "梦境之花", rec: "BV1ax421f7cw", },
+    { date: "2024-02-25 19:00+08:00", type: "radio", title: "心理测试电台", rec: "BV11x421f7SH", },
   ] },
 
   { year: 2024, week: 7, bilibili_url: "895331760192094295", events: [
-    { date: "2024-02-12 20:00+08:00", type: "sub", title: "粉丝歌回（终（大概", rec: "", },
-    { date: "2024-02-13 20:00+08:00", type: "game", title: "玩玩新游戏", rec: "", },
-    { date: "2024-02-14 20:00+08:00", type: "sing", title: "我的歌回", rec: "", },
+    { date: "2024-02-12 20:00+08:00", type: "sub", title: "粉丝歌回（终（大概", rec: "BV1aC411s7GM", },
+    { date: "2024-02-13 20:00+08:00", type: "game", title: "玩玩新游戏", rec: "BV1cx4y1272m", },
+    { date: "2024-02-14 20:00+08:00", type: "sing", title: "不全是情歌的情人节歌回（。", rec: "BV1US421K7F7", },
     { date: "2024-02-15 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-02-16 20:00+08:00", type: "sub", title: "粉丝视频推荐", rec: "", },
-    { date: "2024-02-17 20:00+08:00", type: "game", title: "博！", rec: "", },
+    { date: "2024-02-16 20:00+08:00", type: "sub", title: "粉丝视频推荐", rec: "BV1oH4y1h7W1", },
+    { date: "2024-02-17 20:00+08:00", type: "game", title: "博！", rec: "BV1gA4m1V7Td", },
     { date: "2024-02-18 20:00+08:00", type: "rest", title: "", rec: "", },
   ] },
 
@@ -60,9 +70,9 @@ export const events: WeekItem[] = [
     { date: "2024-02-06 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-02-07 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-02-08 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-02-09 20:00+08:00", type: "special", title: "新年画新头像", rec: "", },
-    { date: "2024-02-10 20:00+08:00", type: "watch", title: "过年必看西游记～", rec: "", },
-    { date: "2024-02-11 20:00+08:00", type: "collab", title: "双人厨房", rec: "", },
+    { date: "2024-02-09 20:00+08:00", type: "special", title: "新年画新头像", rec: "BV1Ju4m1K7er", },
+    { date: "2024-02-10 20:00+08:00", type: "watch", title: "过年必看西游记～", rec: "BV1VF4m177r4", },
+    { date: "2024-02-11 20:00+08:00", type: "collab", title: "双人厨房", rec: "BV1SH4y1h7Bf", },
   ] },
 
   { year: 2024, week: 5, bilibili_url: "892396562357944321", events: [
