@@ -58,7 +58,7 @@ export const events: WeekItem[] = [
   { year: 2024, week: 7, bilibili_url: "895331760192094295", events: [
     { date: "2024-02-12 20:00+08:00", type: "sub", title: "粉丝歌回（终（大概", rec: "BV1aC411s7GM", },
     { date: "2024-02-13 20:00+08:00", type: "game", title: "玩玩新游戏", rec: "BV1cx4y1272m", },
-    { date: "2024-02-14 20:00+08:00", type: "sing", title: "不全是情歌的情人节歌回（。", rec: "BV1US421K7F7", },
+    { date: "2024-02-14 20:00+08:00", type: "sing", title: "我的歌回", rec: "BV1US421K7F7", },
     { date: "2024-02-15 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-02-16 20:00+08:00", type: "sub", title: "粉丝视频推荐", rec: "BV1oH4y1h7W1", },
     { date: "2024-02-17 20:00+08:00", type: "game", title: "博！", rec: "BV1gA4m1V7Td", },
