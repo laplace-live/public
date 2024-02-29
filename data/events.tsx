@@ -36,13 +36,13 @@ export const events: WeekItem[] = [
   // ] },
 
   { year: 2024, week: 9, bilibili_url: "902736537210322962", events: [
-    { date: "2024-02-19 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-02-20 20:00+08:00", type: "game", title: "山河旅探", rec: "", },
-    { date: "2024-02-21 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-02-22 20:00+08:00", type: "fitness", title: "健身环", rec: "", },
-    { date: "2024-02-23 20:00+08:00", type: "watch", title: "JOJO的奇妙冒险", rec: "", },
-    { date: "2024-02-24 19:00+08:00", type: "game", title: "帕鲁复建", rec: "", },
-    { date: "2024-02-25 19:00+08:00", type: "watch", title: "Better call nine！", rec: "", },
+    { date: "2024-02-26 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-02-27 20:00+08:00", type: "game", title: "山河旅探", rec: "", },
+    { date: "2024-02-28 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-02-29 20:00+08:00", type: "fitness", title: "健身环", rec: "", },
+    { date: "2024-03-01 20:00+08:00", type: "watch", title: "JOJO的奇妙冒险", rec: "", },
+    { date: "2024-03-02 19:00+08:00", type: "game", title: "帕鲁复建", rec: "", },
+    { date: "2024-03-03 19:00+08:00", type: "watch", title: "Better call nine！", rec: "", },
   ] },
 
   { year: 2024, week: 8, bilibili_url: "899855679309742084", events: [
