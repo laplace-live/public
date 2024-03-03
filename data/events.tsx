@@ -42,7 +42,7 @@ export const events: WeekItem[] = [
     { date: "2024-02-29 20:00+08:00", type: "fitness", title: "健身环", rec: "", },
     { date: "2024-03-01 20:00+08:00", type: "watch", title: "JOJO的奇妙冒险", rec: "", },
     { date: "2024-03-02 19:00+08:00", type: "watch", title: "Better call nine！", rec: "", },
-    { date: "2024-03-03 19:00+08:00", type: "collab", title: "帕鲁复建", rec: "", },
+    { date: "2024-03-03 20:00+08:00", type: "collab", title: "帕鲁复建", rec: "", },
   ] },
 
   { year: 2024, week: 8, bilibili_url: "899855679309742084", events: [
