@@ -42,7 +42,7 @@ export const events: WeekItem[] = [
     { date: "2024-03-06 20:00+08:00", type: "tbd", title: "", rec: "", },
     { date: "2024-03-07 20:00+08:00", type: "tbd", title: "", rec: "", },
     { date: "2024-03-08 20:00+08:00", type: "tbd", title: "", rec: "", },
-    { date: "2024-03-09 19:00+08:00", type: "tbd", title: " rec: "", },
+    { date: "2024-03-09 19:00+08:00", type: "tbd", title: "", rec: "", },
     { date: "2024-03-10 19:00+08:00", type: "tbd", title: "", rec: "", },
   ] },
 
