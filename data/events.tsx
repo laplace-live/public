@@ -36,24 +36,24 @@ export const events: WeekItem[] = [
   // ] },
 
 
-  { year: 2024, week: 10, bilibili_url: "", events: [
-    { date: "2024-03-04 20:00+08:00", type: "special", title: "生日会", rec: "", },
-    { date: "2024-03-05 20:00+08:00", type: "tbd", title: "", rec: "", },
-    { date: "2024-03-06 20:00+08:00", type: "tbd", title: "", rec: "", },
-    { date: "2024-03-07 20:00+08:00", type: "tbd", title: "", rec: "", },
-    { date: "2024-03-08 20:00+08:00", type: "tbd", title: "", rec: "", },
-    { date: "2024-03-09 19:00+08:00", type: "tbd", title: "", rec: "", },
-    { date: "2024-03-10 19:00+08:00", type: "tbd", title: "", rec: "", },
+  { year: 2024, week: 10, bilibili_url: "905753648652353621", events: [
+    { date: "2024-03-04 20:00+08:00", type: "special", title: "生日会", rec: "BV1Lj421U7MZ", },
+    { date: "2024-03-05 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-03-06 20:00+08:00", type: "chat", title: "谢礼物回", rec: "BV1nm411Z7P1", },
+    { date: "2024-03-07 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-03-08 20:00+08:00", type: "sub", title: "好有品味的推荐", rec: "", },
+    { date: "2024-03-09 19:00+08:00", type: "game", title: "山河旅探！", rec: "", },
+    { date: "2024-03-10 19:00+08:00", type: "radio", title: "怪谈电台", rec: "", },
   ] },
 
   { year: 2024, week: 9, bilibili_url: "902736537210322962", events: [
     { date: "2024-02-26 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-02-27 20:00+08:00", type: "game", title: "山河旅探", rec: "", },
+    { date: "2024-02-27 20:00+08:00", type: "game", title: "山河旅探", rec: "BV1YF4m1575P", },
     { date: "2024-02-28 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-02-29 20:00+08:00", type: "fitness", title: "健身环", rec: "", },
-    { date: "2024-03-01 20:00+08:00", type: "watch", title: "JOJO的奇妙冒险", rec: "", },
-    { date: "2024-03-02 19:00+08:00", type: "watch", title: "Better call nine！", rec: "", },
-    { date: "2024-03-03 20:00+08:00", type: "collab", title: "帕鲁复建", rec: "", },
+    { date: "2024-02-29 20:00+08:00", type: "fitness", title: "健身环", rec: "BV1bw4m1f77c", },
+    { date: "2024-03-01 20:00+08:00", type: "watch", title: "JOJO的奇妙冒险", rec: "BV1VJ4m1Y7ny", },
+    { date: "2024-03-02 19:00+08:00", type: "watch", title: "Better call nine！", rec: "BV1xH4y1j7S9", },
+    { date: "2024-03-03 20:00+08:00", type: "collab", title: "帕鲁复建", rec: "BV1FZ421a7BS", },
   ] },
 
   { year: 2024, week: 8, bilibili_url: "899855679309742084", events: [
