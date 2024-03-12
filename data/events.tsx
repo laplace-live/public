@@ -35,15 +35,24 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
+  { year: 2024, week: 11, bilibili_url: "907979944935555091", events: [
+    { date: "2024-03-11 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-03-12 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-03-13 20:00+08:00", type: "game", title: "最后一次破案了！", rec: "", },
+    { date: "2024-03-14 20:00+08:00", type: "watch", title: "better call 奶！", rec: "", },
+    { date: "2024-03-15 20:00+08:00", type: "game", title: "GAME TIME", rec: "", },
+    { date: "2024-03-16 19:00+08:00", type: "sub", title: "梦境之花", rec: "", },
+    { date: "2024-03-17 19:00+08:00", type: "sub", title: "我玩海龟汤！", rec: "", },
+  ] },
 
   { year: 2024, week: 10, bilibili_url: "905753648652353621", events: [
     { date: "2024-03-04 20:00+08:00", type: "special", title: "生日会", rec: "BV1Lj421U7MZ", },
     { date: "2024-03-05 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-03-06 20:00+08:00", type: "chat", title: "谢礼物回", rec: "BV1nm411Z7P1", },
     { date: "2024-03-07 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-03-08 20:00+08:00", type: "sub", title: "好有品味的推荐", rec: "", },
-    { date: "2024-03-09 19:00+08:00", type: "game", title: "山河旅探！", rec: "", },
-    { date: "2024-03-10 19:00+08:00", type: "radio", title: "怪谈电台", rec: "", },
+    { date: "2024-03-08 20:00+08:00", type: "watch", title: "好有品味的推荐", rec: "BV1AZ421h7AG", },
+    { date: "2024-03-09 19:00+08:00", type: "game", title: "山河旅探！", rec: "BV1Bu4m1g72M", },
+    { date: "2024-03-10 19:00+08:00", type: "radio", title: "怪谈电台", rec: "BV1kx4y1Q7UZ", },
   ] },
 
   { year: 2024, week: 9, bilibili_url: "902736537210322962", events: [
