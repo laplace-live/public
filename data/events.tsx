@@ -35,14 +35,24 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
+  { year: 2024, week: 13, bilibili_url: "913148272376283139", events: [
+    { date: "2024-03-25 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-03-26 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-03-27 20:00+08:00", type: "game", title: "开！往宇宙尽头开！", rec: "", },
+    { date: "2024-03-28 20:00+08:00", type: "radio", title: "聊聊电台", rec: "", },
+    { date: "2024-03-29 20:00+08:00", type: "game", title: "GAME TIME", rec: "", },
+    { date: "2024-03-30 19:00+08:00", type: "sub", title: "梦境之花（续）", rec: "", },
+    { date: "2024-03-31 19:00+08:00", type: "fitness", title: "运动小能手！", rec: "", },
+  ] },
+
   { year: 2024, week: 12, bilibili_url: "910569178860093476", events: [
     { date: "2024-03-18 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-03-19 20:00+08:00", type: "game", title: "继续龟", rec: "", },
+    { date: "2024-03-19 20:00+08:00", type: "game", title: "继续龟", rec: "BV1bp421U7gx", },
     { date: "2024-03-20 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-03-21 20:00+08:00", type: "watch", title: "我流推荐回", rec: "", },
-    { date: "2024-03-22 20:00+08:00", type: "game", title: "GAME TIME", rec: "", },
-    { date: "2024-03-23 19:00+08:00", type: "watch", title: "JOJO的奇妙冒险", rec: "", },
-    { date: "2024-03-24 19:00+08:00", type: "sub", title: "奶味棉花糖", rec: "", },
+    { date: "2024-03-21 20:00+08:00", type: "watch", title: "我流推荐回", rec: "BV121421Q7nZ", },
+    { date: "2024-03-22 20:00+08:00", type: "game", title: "GAME TIME", rec: "BV1aH4y1p7ho", },
+    { date: "2024-03-23 19:00+08:00", type: "watch", title: "JOJO的奇妙冒险", rec: "BV19t421G7LN", },
+    { date: "2024-03-24 19:00+08:00", type: "sub", title: "奶味棉花糖", rec: "BV1y1421Q7qM", },
   ] },
 
   { year: 2024, week: 11, bilibili_url: "907979944935555091", events: [
