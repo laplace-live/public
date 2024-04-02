@@ -1,1 +1,1 @@
-console.log("Nothing here, use bun test for testing");
+console.log('Nothing here, use bun test for testing')

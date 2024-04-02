@@ -1,4 +1,4 @@
-import { describe, expect, test } from "bun:test"
+import { describe, expect, test } from 'bun:test'
 import { z } from 'zod'
 import { events } from '@/data/events'
 

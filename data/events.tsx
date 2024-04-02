@@ -1,24 +1,25 @@
-import { eventTypeMap } from '@/data/maps';
+import type { eventTypeMap } from '@/data/maps'
 
-export type EventType = keyof typeof eventTypeMap;
+export type EventType = keyof typeof eventTypeMap
 
 export type EventItem = {
-  date: string;
-  type: EventType;
-  title: string;
-  rec?: string;
-  cancelled?: boolean;
-  reason?: string;
+  date: string
+  type: EventType
+  title: string
+  rec?: string
+  cancelled?: boolean
+  reason?: string
   fans_rec?: boolean
 }
 
 export type WeekItem = {
-  year: number;
-  week: number;
-  bilibili_url?: string;
-  events: EventItem[];
+  year: number
+  week: number
+  bilibili_url?: string
+  events: EventItem[]
 }
 
+// prettier-ignore
 export const events: WeekItem[] = [
 
   // Tools
