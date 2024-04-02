@@ -42,8 +42,8 @@ export const events: WeekItem[] = [
     { date: "2024-04-03 20:00+08:00", type: "game", title: "逆转裁判！", rec: "", },
     { date: "2024-04-04 20:00+08:00", type: "special", title: "画画画头像！", rec: "", },
     { date: "2024-04-05 20:00+08:00", type: "watch", title: "西北老汉一动不动", rec: "", },
-    { date: "2024-04-06 19:00+08:00", type: "sub", title: "", rec: "海~龟~汤~", },
-    { date: "2024-04-07 19:00+08:00", type: "game", title: "", rec: "谁是新の卡比", },
+    { date: "2024-04-06 19:00+08:00", type: "sub", title: "海~龟~汤~", rec: "", },
+    { date: "2024-04-07 19:00+08:00", type: "game", title: "谁是新の卡比", rec: "", },
   ] },
 
   { year: 2024, week: 13, bilibili_url: "913148272376283139", events: [
