@@ -35,14 +35,24 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
+  { year: 2024, week: 14, bilibili_url: "915775568302047238", events: [
+    { date: "2024-04-01 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-04-02 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-04-03 20:00+08:00", type: "game", title: "逆转裁判！", rec: "", },
+    { date: "2024-04-04 20:00+08:00", type: "special", title: "画画画头像！", rec: "", },
+    { date: "2024-04-05 20:00+08:00", type: "watch", title: "西北老汉一动不动", rec: "", },
+    { date: "2024-04-06 19:00+08:00", type: "sub", title: "", rec: "海~龟~汤~", },
+    { date: "2024-04-07 19:00+08:00", type: "game", title: "", rec: "谁是新の卡比", },
+  ] },
+
   { year: 2024, week: 13, bilibili_url: "913148272376283139", events: [
     { date: "2024-03-25 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-03-26 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-03-27 20:00+08:00", type: "game", title: "开！往宇宙尽头开！", rec: "", },
-    { date: "2024-03-28 20:00+08:00", type: "radio", title: "聊聊电台", rec: "", },
-    { date: "2024-03-29 20:00+08:00", type: "game", title: "GAME TIME", rec: "", },
-    { date: "2024-03-30 19:00+08:00", type: "sub", title: "梦境之花（续）", rec: "", },
-    { date: "2024-03-31 19:00+08:00", type: "fitness", title: "运动小能手！", rec: "", },
+    { date: "2024-03-27 20:00+08:00", type: "game", title: "开！往宇宙尽头开！", rec: "BV1oM4m197ku", },
+    { date: "2024-03-28 20:00+08:00", type: "radio", title: "聊聊电台", rec: "BV1mq421A7hd", },
+    { date: "2024-03-29 20:00+08:00", type: "game", title: "GAME TIME", rec: "BV1Cr42147Nw", },
+    { date: "2024-03-30 19:00+08:00", type: "sub", title: "梦境之花（续）", rec: "BV17x4y1m7qU", },
+    { date: "2024-03-31 19:00+08:00", type: "fitness", title: "运动小能手！", rec: "BV1Kz421f7hP", },
   ] },
 
   { year: 2024, week: 12, bilibili_url: "910569178860093476", events: [
