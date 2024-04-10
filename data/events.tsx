@@ -36,14 +36,24 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
+  { year: 2024, week: 15, bilibili_url: "918373817330434054", events: [
+    { date: "2024-04-08 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-04-09 20:00+08:00", type: "watch", title: "络新妇之谜（续）", rec: "", },
+    { date: "2024-04-10 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-04-11 20:00+08:00", type: "game", title: "逆转裁判", rec: "", },
+    { date: "2024-04-12 20:00+08:00", type: "radio", title: "电台一下", rec: "", },
+    { date: "2024-04-13 19:00+08:00", type: "game", title: "速通流海龟汤", rec: "", },
+    { date: "2024-04-14 19:00+08:00", type: "watch", title: "开个视频新坑", rec: "", },
+  ] },
+
   { year: 2024, week: 14, bilibili_url: "915775568302047238", events: [
     { date: "2024-04-01 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-04-02 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-04-03 20:00+08:00", type: "game", title: "逆转裁判！", rec: "", },
-    { date: "2024-04-04 20:00+08:00", type: "special", title: "画画画头像！", rec: "", },
-    { date: "2024-04-05 20:00+08:00", type: "watch", title: "西北老汉一动不动", rec: "", },
-    { date: "2024-04-06 19:00+08:00", type: "sub", title: "海~龟~汤~", rec: "", },
-    { date: "2024-04-07 19:00+08:00", type: "game", title: "谁是新の卡比", rec: "", },
+    { date: "2024-04-03 20:00+08:00", type: "game", title: "逆转裁判！", rec: "BV1HZ421B7Zs", },
+    { date: "2024-04-04 20:00+08:00", type: "special", title: "画画画头像！", rec: "BV1fM4m1R7V9", },
+    { date: "2024-04-05 20:00+08:00", type: "watch", title: "西北老汉一动不动", rec: "BV13Z421i7ZD", },
+    { date: "2024-04-06 19:00+08:00", type: "sub", title: "海~龟~汤~", rec: "BV1om411z76h", },
+    { date: "2024-04-07 19:00+08:00", type: "game", title: "谁是新の卡比", rec: "BV1Kq421A7QU", },
   ] },
 
   { year: 2024, week: 13, bilibili_url: "913148272376283139", events: [
