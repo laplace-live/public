@@ -35,15 +35,24 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
+  { year: 2024, week: 16, bilibili_url: "920963931706490930", events: [
+    { date: "2024-04-15 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-04-16 20:00+08:00", type: "watch", title: "MyGO!", rec: "", },
+    { date: "2024-04-17 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-04-18 20:00+08:00", type: "game", title: "我要开超市", rec: "", },
+    { date: "2024-04-19 20:00+08:00", type: "sub", title: "大家的视频推荐~", rec: "", },
+    { date: "2024-04-20 19:00+08:00", type: "sub", title: "梦境之花", rec: "", },
+    { date: "2024-04-21 19:00+08:00", type: "game", title: "新的卡比", rec: "", },
+  ] },
 
   { year: 2024, week: 15, bilibili_url: "918373817330434054", events: [
     { date: "2024-04-08 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-04-09 20:00+08:00", type: "watch", title: "络新妇之谜（续）", rec: "", },
+    { date: "2024-04-09 20:00+08:00", type: "watch", title: "络新妇之谜（续）", rec: "BV1Xx421U7kJ", },
     { date: "2024-04-10 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-04-11 20:00+08:00", type: "game", title: "逆转裁判", rec: "", },
-    { date: "2024-04-12 20:00+08:00", type: "radio", title: "电台一下", rec: "", },
-    { date: "2024-04-13 19:00+08:00", type: "game", title: "速通流海龟汤", rec: "", },
-    { date: "2024-04-14 19:00+08:00", type: "watch", title: "开个视频新坑", rec: "", },
+    { date: "2024-04-11 20:00+08:00", type: "game", title: "逆转裁判", rec: "BV12m42177Di", },
+    { date: "2024-04-12 20:00+08:00", type: "radio", title: "电台一下", rec: "BV19z421C75R", },
+    { date: "2024-04-13 19:00+08:00", type: "game", title: "速通流海龟汤", rec: "BV1mE421u73h", },
+    { date: "2024-04-14 19:00+08:00", type: "watch", title: "开个视频新坑", rec: "BV1Mm421j79P", },
   ] },
 
   { year: 2024, week: 14, bilibili_url: "915775568302047238", events: [
