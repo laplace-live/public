@@ -35,14 +35,24 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
+  { year: 2024, week: 17, bilibili_url: "923564744871247872", events: [
+    { date: "2024-04-22 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-04-23 20:00+08:00", type: "watch", title: "大时代", rec: "", },
+    { date: "2024-04-24 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-04-25 20:00+08:00", type: "game", title: "新的卡比", rec: "", },
+    { date: "2024-04-26 20:00+08:00", type: "sub", title: "电台时间", rec: "", },
+    { date: "2024-04-27 19:00+08:00", type: "sub", title: "GAME TIME", rec: "", },
+    { date: "2024-04-28 19:00+08:00", type: "game", title: "健身环", rec: "", },
+  ] },
+
   { year: 2024, week: 16, bilibili_url: "920963931706490930", events: [
     { date: "2024-04-15 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-04-16 20:00+08:00", type: "watch", title: "MyGO!", rec: "", },
+    { date: "2024-04-16 20:00+08:00", type: "watch", title: "MyGO!", rec: "BV14t421j7R2", },
     { date: "2024-04-17 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-04-18 20:00+08:00", type: "game", title: "我要开超市", rec: "", },
-    { date: "2024-04-19 20:00+08:00", type: "sub", title: "大家的视频推荐~", rec: "", },
-    { date: "2024-04-20 19:00+08:00", type: "sub", title: "梦境之花", rec: "", },
-    { date: "2024-04-21 19:00+08:00", type: "game", title: "新的卡比", rec: "", },
+    { date: "2024-04-18 20:00+08:00", type: "game", title: "我要开超市", rec: "BV1Hi42127vp", },
+    { date: "2024-04-19 20:00+08:00", type: "sub", title: "大家的视频推荐~", rec: "BV1Et421j7AH", },
+    { date: "2024-04-20 19:00+08:00", type: "sub", title: "梦境之花", rec: "BV1Di42127Hg", },
+    { date: "2024-04-21 19:00+08:00", type: "game", title: "新的卡比", rec: "BV1iF4m1P7Ww", },
   ] },
 
   { year: 2024, week: 15, bilibili_url: "918373817330434054", events: [
