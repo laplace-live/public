@@ -41,7 +41,7 @@ export const events: WeekItem[] = [
     { date: "2024-04-24 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-04-25 20:00+08:00", type: "game", title: "新的卡比", rec: "", },
     { date: "2024-04-26 20:00+08:00", type: "sub", title: "电台时间", rec: "", },
-    { date: "2024-04-27 19:00+08:00", type: "sub", title: "GAME TIME", rec: "", },
+    { date: "2024-04-27 19:00+08:00", type: "game", title: "GAME TIME", rec: "", },
     { date: "2024-04-28 19:00+08:00", type: "game", title: "健身环", rec: "", },
   ] },
 
