@@ -35,14 +35,24 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
+  { year: 2024, week: 18, bilibili_url: "926148137643409411", events: [
+    { date: "2024-04-29 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-04-30 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-05-01 19:00+08:00", type: "game", title: "饿殍", rec: "", },
+    { date: "2024-05-02 19:00+08:00", type: "tbd", title: "来点开心的缓缓", rec: "", },
+    { date: "2024-05-03 19:00+08:00", type: "watch", title: "终于有JOJO了", rec: "", },
+    { date: "2024-05-04 19:00+08:00", type: "game", title: "我和你赌命", rec: "", },
+    { date: "2024-05-05 19:00+08:00", type: "sub", title: "棉花糖！", rec: "", },
+  ] },
+
   { year: 2024, week: 17, bilibili_url: "923564744871247872", events: [
     { date: "2024-04-22 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-04-23 20:00+08:00", type: "watch", title: "大时代", rec: "", },
+    { date: "2024-04-23 20:00+08:00", type: "watch", title: "大时代", rec: "BV18t421A7gA", },
     { date: "2024-04-24 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-04-25 20:00+08:00", type: "game", title: "新的卡比", rec: "", },
-    { date: "2024-04-26 20:00+08:00", type: "sub", title: "电台时间", rec: "", },
-    { date: "2024-04-27 19:00+08:00", type: "sub", title: "GAME TIME", rec: "", },
-    { date: "2024-04-28 19:00+08:00", type: "game", title: "健身环", rec: "", },
+    { date: "2024-04-25 20:00+08:00", type: "game", title: "新的卡比", rec: "BV1iD421J7mp", },
+    { date: "2024-04-26 20:00+08:00", type: "radio", title: "电台时间", rec: "BV14p421Q7GH", },
+    { date: "2024-04-27 19:00+08:00", type: "game", title: "GAME TIME", rec: "BV1cT421y76Q", },
+    { date: "2024-04-28 19:00+08:00", type: "fitness", title: "健身环", rec: "BV1Kb421e7KA", },
   ] },
 
   { year: 2024, week: 16, bilibili_url: "920963931706490930", events: [
