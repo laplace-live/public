@@ -39,7 +39,7 @@ export const events: WeekItem[] = [
     { date: "2024-04-29 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-04-30 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-05-01 19:00+08:00", type: "game", title: "饿殍", rec: "", },
-    { date: "2024-05-02 19:00+08:00", type: "tbd", title: "来点开心的缓缓", rec: "", },
+    { date: "2024-05-02 19:00+08:00", type: "watch", title: "来点开心的缓缓", rec: "", },
     { date: "2024-05-03 19:00+08:00", type: "watch", title: "终于有JOJO了", rec: "", },
     { date: "2024-05-04 19:00+08:00", type: "game", title: "我和你赌命", rec: "", },
     { date: "2024-05-05 19:00+08:00", type: "sub", title: "棉花糖！", rec: "", },
