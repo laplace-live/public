@@ -35,14 +35,24 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
+  { year: 2024, week: 19, bilibili_url: "929106146049916947", events: [
+    { date: "2024-05-06 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-05-07 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-05-08 20:00+08:00", type: "radio", title: "电台一下", rec: "", },
+    { date: "2024-05-09 20:00+08:00", type: "watch", title: "鹿鼎记（续）", rec: "", },
+    { date: "2024-05-10 20:00+08:00", type: "game", title: "只蟹（壳逝二度）", rec: "", },
+    { date: "2024-05-11 19:00+08:00", type: "sub", title: "梦境之花（续）", rec: "", },
+    { date: "2024-05-12 19:00+08:00", type: "game", title: "GAME TIME", rec: "", },
+  ] },
+
   { year: 2024, week: 18, bilibili_url: "926148137643409411", events: [
     { date: "2024-04-29 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-04-30 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-05-01 19:00+08:00", type: "game", title: "饿殍", rec: "", },
-    { date: "2024-05-02 19:00+08:00", type: "watch", title: "来点开心的缓缓", rec: "", },
-    { date: "2024-05-03 19:00+08:00", type: "watch", title: "终于有JOJO了", rec: "", },
-    { date: "2024-05-04 19:00+08:00", type: "game", title: "我和你赌命", rec: "", },
-    { date: "2024-05-05 19:00+08:00", type: "sub", title: "棉花糖！", rec: "", },
+    { date: "2024-05-01 19:00+08:00", type: "game", title: "饿殍", rec: "BV1di42117UA", },
+    { date: "2024-05-02 19:00+08:00", type: "watch", title: "来点开心的缓缓", rec: "BV1Fb421e7v2", },
+    { date: "2024-05-03 19:00+08:00", type: "watch", title: "终于有JOJO了", rec: "BV17t421F7JR", },
+    { date: "2024-05-04 19:00+08:00", type: "game", title: "我和你赌命", rec: "BV1BE421G7wz", },
+    { date: "2024-05-05 19:00+08:00", type: "sub", title: "棉花糖！", rec: "BV1Tm411y7gK", },
   ] },
 
   { year: 2024, week: 17, bilibili_url: "923564744871247872", events: [
