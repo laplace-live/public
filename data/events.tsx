@@ -35,14 +35,24 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
+  { year: 2024, week: 20, bilibili_url: "931360720409329685", events: [
+    { date: "2024-05-13 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-05-14 20:00+08:00", type: "watch", title: "BV1fy411Y7aT", rec: "视频推荐填坑", },
+    { date: "2024-05-15 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-05-16 20:00+08:00", type: "game", title: "愿望单都是恐怖游戏", rec: "", },
+    { date: "2024-05-17 20:00+08:00", type: "watch", title: "JOJOJOJO", rec: "", },
+    { date: "2024-05-18 19:00+08:00", type: "game", title: "GAME TIME", rec: "", },
+    { date: "2024-05-19 19:00+08:00", type: "fitness", title: "锻炼身体", rec: "", },
+  ] },
+
   { year: 2024, week: 19, bilibili_url: "929106146049916947", events: [
     { date: "2024-05-06 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-05-07 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-05-08 20:00+08:00", type: "radio", title: "电台一下", rec: "", },
     { date: "2024-05-09 20:00+08:00", type: "watch", title: "鹿鼎记（续）", rec: "", },
-    { date: "2024-05-10 20:00+08:00", type: "game", title: "只蟹（壳逝二度）", rec: "", },
-    { date: "2024-05-11 19:00+08:00", type: "sub", title: "梦境之花（续）", rec: "", },
-    { date: "2024-05-12 19:00+08:00", type: "game", title: "GAME TIME", rec: "", },
+    { date: "2024-05-10 20:00+08:00", type: "game", title: "只蟹（壳逝二度）", rec: "BV1HJ4m1N7Sh", },
+    { date: "2024-05-11 19:00+08:00", type: "sub", title: "梦境之花（续）", rec: "BV1jM4m1C7oh", },
+    { date: "2024-05-12 19:00+08:00", type: "game", title: "GAME TIME", rec: "BV1h7421f7kn", },
   ] },
 
   { year: 2024, week: 18, bilibili_url: "926148137643409411", events: [
