@@ -37,7 +37,7 @@ export const events: WeekItem[] = [
   // ] },
   { year: 2024, week: 20, bilibili_url: "931360720409329685", events: [
     { date: "2024-05-13 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-05-14 20:00+08:00", type: "watch", title: "BV1fy411Y7aT", rec: "视频推荐填坑", },
+    { date: "2024-05-14 20:00+08:00", type: "watch", title: "视频推荐填坑", rec: "BV1fy411Y7aT", },
     { date: "2024-05-15 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-05-16 20:00+08:00", type: "game", title: "愿望单都是恐怖游戏", rec: "", },
     { date: "2024-05-17 20:00+08:00", type: "watch", title: "JOJOJOJO", rec: "", },
