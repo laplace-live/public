@@ -35,14 +35,24 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
+  { year: 2024, week: 21, bilibili_url: "933543693395165289", events: [
+    { date: "2024-05-20 20:00+08:00", type: "game", title: "女鬼啊啊啊啊", rec: "", },
+    { date: "2024-05-21 20:00+08:00", type: "radio", title: "电台歌回！", rec: "", },
+    { date: "2024-05-22 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-05-23 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-05-24 20:00+08:00", type: "game", title: "潜水哥斯拉", rec: "", },
+    { date: "2024-05-25 19:00+08:00", type: "watch", title: "看会视频！", rec: "", },
+    { date: "2024-05-26 19:00+08:00", type: "fitness", title: "锻炼身体！", rec: "", },
+  ] },
+
   { year: 2024, week: 20, bilibili_url: "931360720409329685", events: [
     { date: "2024-05-13 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-05-14 20:00+08:00", type: "watch", title: "视频推荐填坑", rec: "BV1fy411Y7aT", },
     { date: "2024-05-15 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-05-16 20:00+08:00", type: "game", title: "愿望单都是恐怖游戏", rec: "", },
-    { date: "2024-05-17 20:00+08:00", type: "watch", title: "JOJOJOJO", rec: "", },
-    { date: "2024-05-18 19:00+08:00", type: "game", title: "GAME TIME", rec: "", },
-    { date: "2024-05-19 19:00+08:00", type: "fitness", title: "锻炼身体", rec: "", },
+    { date: "2024-05-16 20:00+08:00", type: "game", title: "愿望单都是恐怖游戏", rec: "BV1zZ42147Mt", },
+    { date: "2024-05-17 20:00+08:00", type: "watch", title: "JOJOJOJO", rec: "BV1uM4m1y7nt", },
+    { date: "2024-05-18 19:00+08:00", type: "game", title: "GAME TIME", rec: "BV1Em421K7HK", },
+    { date: "2024-05-19 19:00+08:00", type: "fitness", title: "锻炼身体", rec: "BV1sy411e7Pp", },
   ] },
 
   { year: 2024, week: 19, bilibili_url: "929106146049916947", events: [
