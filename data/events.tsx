@@ -35,14 +35,24 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
+  { year: 2024, week: 22, bilibili_url: "936553584961519651", events: [
+    { date: "2024-05-27 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-05-28 20:00+08:00", type: "game", title: "本所七大不可思议", rec: "", },
+    { date: "2024-05-29 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-05-30 20:00+08:00", type: "sub", title: "大家给我推荐视频~", rec: "", },
+    { date: "2024-05-31 20:00+08:00", type: "game", title: "PVZ杂交版", rec: "", },
+    { date: "2024-06-01 19:00+08:00", type: "game", title: "啊啊啊还是有鬼！", rec: "", },
+    { date: "2024-06-02 19:00+08:00", type: "radio", title: "小知识电台", rec: "", },
+  ] },
+
   { year: 2024, week: 21, bilibili_url: "933543693395165289", events: [
-    { date: "2024-05-20 20:00+08:00", type: "game", title: "女鬼啊啊啊啊", rec: "", },
-    { date: "2024-05-21 20:00+08:00", type: "radio", title: "电台歌回！", rec: "", },
+    { date: "2024-05-20 20:00+08:00", type: "game", title: "女鬼啊啊啊啊", rec: "BV1hy411e7t1", },
+    { date: "2024-05-21 20:00+08:00", type: "radio", title: "电台歌回！", rec: "BV1ty411e7Qw", },
     { date: "2024-05-22 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-05-23 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-05-24 20:00+08:00", type: "game", title: "潜水哥斯拉", rec: "", },
-    { date: "2024-05-25 19:00+08:00", type: "watch", title: "看会视频！", rec: "", },
-    { date: "2024-05-26 19:00+08:00", type: "fitness", title: "锻炼身体！", rec: "", },
+    { date: "2024-05-24 20:00+08:00", type: "game", title: "潜水哥斯拉", rec: "BV1xm421T78v", },
+    { date: "2024-05-25 19:00+08:00", type: "watch", title: "看会视频！", rec: "BV11y411a7b8", },
+    { date: "2024-05-26 19:00+08:00", type: "fitness", title: "锻炼身体！", rec: "BV1ds421u72v", },
   ] },
 
   { year: 2024, week: 20, bilibili_url: "931360720409329685", events: [
