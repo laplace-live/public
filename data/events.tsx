@@ -35,14 +35,24 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
+  { year: 2024, week: 23, bilibili_url: "939518662883147847", events: [
+    { date: "2024-06-03 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-06-04 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-06-05 20:00+08:00", type: "game", title: "本所不可思议", rec: "", },
+    { date: "2024-06-06 20:00+08:00", type: "watch", title: "开个视频新坑", rec: "", },
+    { date: "2024-06-07 20:00+08:00", type: "game", title: "GAME TIME", rec: "", },
+    { date: "2024-06-08 19:00+08:00", type: "watch", title: "JOJOJOJO", rec: "", },
+    { date: "2024-06-09 19:00+08:00", type: "fitness", title: "健身环！", rec: "", },
+  ] },
+
   { year: 2024, week: 22, bilibili_url: "936553584961519651", events: [
     { date: "2024-05-27 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-05-28 20:00+08:00", type: "game", title: "本所七大不可思议", rec: "", },
+    { date: "2024-05-28 20:00+08:00", type: "game", title: "本所七大不可思议", rec: "BV1rM4m167tn", },
     { date: "2024-05-29 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-05-30 20:00+08:00", type: "sub", title: "大家给我推荐视频~", rec: "", },
-    { date: "2024-05-31 20:00+08:00", type: "game", title: "PVZ杂交版", rec: "", },
-    { date: "2024-06-01 19:00+08:00", type: "game", title: "啊啊啊还是有鬼！", rec: "", },
-    { date: "2024-06-02 19:00+08:00", type: "radio", title: "小知识电台", rec: "", },
+    { date: "2024-05-30 20:00+08:00", type: "sub", title: "大家给我推荐视频~", rec: "BV1js421G7sv", },
+    { date: "2024-05-31 20:00+08:00", type: "game", title: "PVZ杂交版", rec: "BV1HJ4m1G7q4", },
+    { date: "2024-06-01 19:00+08:00", type: "watch", title: "啊啊啊还是有鬼！", rec: "BV1Ub421e7vD", },
+    { date: "2024-06-02 19:00+08:00", type: "radio", title: "小知识电台", rec: "BV16D421g7eP", },
   ] },
 
   { year: 2024, week: 21, bilibili_url: "933543693395165289", events: [
