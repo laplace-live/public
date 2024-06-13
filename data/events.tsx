@@ -35,14 +35,24 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
+  { year: 2024, week: 24, bilibili_url: "942090802869305361", events: [
+    { date: "2024-06-10 20:00+08:00", type: "radio", title: "端午电台", rec: "BV1Fm421L7w2", },
+    { date: "2024-06-11 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-06-12 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-06-13 20:00+08:00", type: "watch", title: "康康好看的", rec: "", },
+    { date: "2024-06-14 20:00+08:00", type: "game", title: "女鬼桥续", rec: "", },
+    { date: "2024-06-15 19:00+08:00", type: "sub", title: "梦境之花", rec: "", },
+    { date: "2024-06-16 19:00+08:00", type: "game", title: "对马岛の奶绿", rec: "", },
+  ] },
+
   { year: 2024, week: 23, bilibili_url: "939518662883147847", events: [
     { date: "2024-06-03 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-06-04 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-06-05 20:00+08:00", type: "game", title: "本所不可思议", rec: "", },
-    { date: "2024-06-06 20:00+08:00", type: "watch", title: "开个视频新坑", rec: "", },
-    { date: "2024-06-07 20:00+08:00", type: "game", title: "GAME TIME", rec: "", },
-    { date: "2024-06-08 19:00+08:00", type: "watch", title: "JOJOJOJO", rec: "", },
-    { date: "2024-06-09 19:00+08:00", type: "fitness", title: "健身环！", rec: "", },
+    { date: "2024-06-05 20:00+08:00", type: "game", title: "本所不可思议", rec: "BV1Gb421i7rC", },
+    { date: "2024-06-06 20:00+08:00", type: "watch", title: "开个视频新坑", rec: "BV1PM4m167rM", },
+    { date: "2024-06-07 20:00+08:00", type: "game", title: "GAME TIME", rec: "BV1nT421e7a4", },
+    { date: "2024-06-08 19:00+08:00", type: "watch", title: "JOJOJOJO", rec: "BV1o1421k739", },
+    { date: "2024-06-09 19:00+08:00", type: "fitness", title: "健身环！", rec: "BV13Z421g7XZ", },
   ] },
 
   { year: 2024, week: 22, bilibili_url: "936553584961519651", events: [
