@@ -35,14 +35,24 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
+  { year: 2024, week: 25, bilibili_url: "944659828968521735", events: [
+    { date: "2024-06-17 20:00+08:00", type: "collab", title: "有鬼（？", rec: "BV1pS411A7iY", },
+    { date: "2024-06-18 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-06-19 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-06-20 20:00+08:00", type: "game", title: "对马岛了吗", rec: "", },
+    { date: "2024-06-21 20:00+08:00", type: "watch", title: "看看我的推荐", rec: "", },
+    { date: "2024-06-22 19:00+08:00", type: "watch", title: "JOJOJOJO", rec: "", },
+    { date: "2024-06-23 19:00+08:00", type: "game", title: "好久没糖了，糖一下吧", rec: "", },
+  ] },
+
   { year: 2024, week: 24, bilibili_url: "942090802869305361", events: [
     { date: "2024-06-10 20:00+08:00", type: "radio", title: "端午电台", rec: "BV1Fm421L7w2", },
     { date: "2024-06-11 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-06-12 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-06-13 20:00+08:00", type: "watch", title: "康康好看的", rec: "", },
-    { date: "2024-06-14 20:00+08:00", type: "game", title: "女鬼桥续", rec: "", },
-    { date: "2024-06-15 19:00+08:00", type: "sub", title: "梦境之花", rec: "", },
-    { date: "2024-06-16 19:00+08:00", type: "game", title: "对马岛の奶绿", rec: "", },
+    { date: "2024-06-13 20:00+08:00", type: "watch", title: "康康好看的", rec: "BV1KZ421g7Ma", },
+    { date: "2024-06-14 20:00+08:00", type: "game", title: "女鬼桥续", rec: "BV1K4421Q7aN", },
+    { date: "2024-06-15 19:00+08:00", type: "sub", title: "梦境之花", rec: "BV1Pw4m1e731", },
+    { date: "2024-06-16 19:00+08:00", type: "game", title: "对马岛の奶绿", rec: "BV1CS421d7ui", },
   ] },
 
   { year: 2024, week: 23, bilibili_url: "939518662883147847", events: [
