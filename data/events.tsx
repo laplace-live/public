@@ -36,13 +36,13 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
   { year: 2024, week: 26, bilibili_url: "946897399767367701", events: [
-    { date: "2024-06-17 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-06-18 20:00+08:00", type: "watch", title: "看看我的！", rec: "", },
-    { date: "2024-06-19 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-06-20 20:00+08:00", type: "game", title: "岛？岛！", rec: "", },
-    { date: "2024-06-21 20:00+08:00", type: "tbd", title: "棉", rec: "", },
-    { date: "2024-06-22 19:00+08:00", type: "sub", title: "花", rec: "", },
-    { date: "2024-06-23 19:00+08:00", type: "game", title: "糖", rec: "", },
+    { date: "2024-06-24 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-06-25 20:00+08:00", type: "watch", title: "看看我的！", rec: "", },
+    { date: "2024-06-26 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-06-27 20:00+08:00", type: "game", title: "岛？岛！", rec: "", },
+    { date: "2024-06-28 20:00+08:00", type: "tbd", title: "棉", rec: "", },
+    { date: "2024-06-29 19:00+08:00", type: "sub", title: "花", rec: "", },
+    { date: "2024-06-30 19:00+08:00", type: "game", title: "糖", rec: "", },
   ] },
 
   { year: 2024, week: 25, bilibili_url: "944659828968521735", events: [
