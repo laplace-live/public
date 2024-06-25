@@ -35,14 +35,24 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
+  { year: 2024, week: 26, bilibili_url: "946897399767367701", events: [
+    { date: "2024-06-17 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-06-18 20:00+08:00", type: "watch", title: "看看我的！", rec: "", },
+    { date: "2024-06-19 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-06-20 20:00+08:00", type: "game", title: "岛？岛！", rec: "", },
+    { date: "2024-06-21 20:00+08:00", type: "tbd", title: "棉", rec: "", },
+    { date: "2024-06-22 19:00+08:00", type: "sub", title: "花", rec: "", },
+    { date: "2024-06-23 19:00+08:00", type: "game", title: "糖", rec: "", },
+  ] },
+
   { year: 2024, week: 25, bilibili_url: "944659828968521735", events: [
     { date: "2024-06-17 20:00+08:00", type: "collab", title: "有鬼（？", rec: "BV1pS411A7iY", },
     { date: "2024-06-18 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-06-19 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-06-20 20:00+08:00", type: "game", title: "对马岛了吗", rec: "", },
-    { date: "2024-06-21 20:00+08:00", type: "watch", title: "看看我的推荐", rec: "", },
-    { date: "2024-06-22 19:00+08:00", type: "watch", title: "JOJOJOJO", rec: "", },
-    { date: "2024-06-23 19:00+08:00", type: "game", title: "好久没糖了，糖一下吧", rec: "", },
+    { date: "2024-06-20 20:00+08:00", type: "game", title: "对马岛了吗", rec: "BV1yz421B7qo", },
+    { date: "2024-06-21 20:00+08:00", type: "watch", title: "看看我的推荐", rec: "BV1wx4y187T3", },
+    { date: "2024-06-22 19:00+08:00", type: "watch", title: "JOJOJOJO", rec: "BV1Z4421S72Q", },
+    { date: "2024-06-23 19:00+08:00", type: "game", title: "好久没糖了，糖一下吧", rec: "BV1GS421o7RN", },
   ] },
 
   { year: 2024, week: 24, bilibili_url: "942090802869305361", events: [
