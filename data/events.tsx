@@ -38,7 +38,7 @@ export const events: WeekItem[] = [
 
   { year: 2024, week: 28, bilibili_url: "952123073379696664", events: [
     { date: "2024-07-08 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-07-09 20:00+08:00", type: "game", title: "", rec: "戴夫之旅", },
+    { date: "2024-07-09 20:00+08:00", type: "game", title: "戴夫之旅", rec: "", },
     { date: "2024-07-10 20:00+08:00", type: "watch", title: "康康我的", rec: "", },
     { date: "2024-07-11 12:00+08:00", type: "chat", title: "喝奶茶先聊一会", rec: "", },
     { date: "2024-07-12 20:00+08:00", type: "radio", title: "主舞台日后谈（电台）", rec: "", },
