@@ -35,24 +35,35 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
+
+  { year: 2024, week: 28, bilibili_url: "952123073379696664", events: [
+    { date: "2024-07-08 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-07-09 20:00+08:00", type: "game", title: "", rec: "戴夫之旅", },
+    { date: "2024-07-10 20:00+08:00", type: "watch", title: "康康我的", rec: "", },
+    { date: "2024-07-11 12:00+08:00", type: "chat", title: "喝奶茶先聊一会", rec: "", },
+    { date: "2024-07-12 20:00+08:00", type: "radio", title: "主舞台日后谈（电台）", rec: "", },
+    { date: "2024-07-13 09:00+08:00", type: "special", title: "早安BW（游场）", rec: "", },
+    { date: "2024-07-14 13:00+08:00", type: "special", title: "午安BW（游场）", rec: "", },
+  ] },
+
   { year: 2024, week: 27, bilibili_url: "949875967923322886", events: [
     { date: "2024-07-01 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-07-02 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-07-03 20:00+08:00", type: "watch", title: "看点什么好呢", rec: "", },
-    { date: "2024-07-04 20:00+08:00", type: "game", title: "挖坑不填不是好习惯", rec: "", },
-    { date: "2024-07-05 20:00+08:00", type: "radio", title: "电台一下", rec: "", },
+    { date: "2024-07-03 20:00+08:00", type: "watch", title: "看点什么好呢", rec: "BV12i421a7dD", },
+    { date: "2024-07-04 20:00+08:00", type: "game", title: "挖坑不填不是好习惯", rec: "BV1bW421R7qZ", },
+    { date: "2024-07-05 20:00+08:00", type: "radio", title: "电台一下", rec: "BV1M1421k7C3", },
     { date: "2024-07-06 19:00+08:00", type: "watch", title: "JOJO", rec: "", },
-    { date: "2024-07-07 19:00+08:00", type: "fitness", title: "健身环", rec: "", },
+    { date: "2024-07-07 19:00+08:00", type: "fitness", title: "健身环", rec: "", cancelled: true },
   ] },
 
   { year: 2024, week: 26, bilibili_url: "946897399767367701", events: [
     { date: "2024-06-24 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-06-25 20:00+08:00", type: "watch", title: "看看我的！", rec: "", },
+    { date: "2024-06-25 20:00+08:00", type: "watch", title: "看看我的！", rec: "BV18i421e7bN", },
     { date: "2024-06-26 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-06-27 20:00+08:00", type: "game", title: "岛？岛！", rec: "", },
-    { date: "2024-06-28 20:00+08:00", type: "tbd", title: "棉", rec: "", },
-    { date: "2024-06-29 19:00+08:00", type: "sub", title: "花", rec: "", },
-    { date: "2024-06-30 19:00+08:00", type: "game", title: "糖", rec: "", },
+    { date: "2024-06-27 20:00+08:00", type: "game", title: "岛？岛！", rec: "BV12E421N7d1", },
+    { date: "2024-06-28 20:00+08:00", type: "tbd", title: "棉", rec: "BV1En4y1X7uw", },
+    { date: "2024-06-29 19:00+08:00", type: "sub", title: "花", rec: "BV1VT421Y727", },
+    { date: "2024-06-30 19:00+08:00", type: "game", title: "糖", rec: "BV11M4m1m7p4", },
   ] },
 
   { year: 2024, week: 25, bilibili_url: "944659828968521735", events: [
