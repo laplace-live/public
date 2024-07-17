@@ -36,14 +36,24 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
+  { year: 2024, week: 29, bilibili_url: "954728782741110820", events: [
+    { date: "2024-07-15 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-07-16 20:00+08:00", type: "game", title: "文字规则怪谈", rec: "BV1am421g784", },
+    { date: "2024-07-17 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-07-18 12:00+08:00", type: "watch", title: "康康我的", rec: "", },
+    { date: "2024-07-19 20:00+08:00", type: "game", title: "GAME TIME", rec: "", },
+    { date: "2024-07-20 09:00+08:00", type: "watch", title: "JOJO", rec: "", },
+    { date: "2024-07-21 13:00+08:00", type: "fitness", title: "锻炼时间", rec: "", },
+  ] },
+
   { year: 2024, week: 28, bilibili_url: "952123073379696664", events: [
     { date: "2024-07-08 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-07-09 20:00+08:00", type: "game", title: "戴夫之旅", rec: "", },
-    { date: "2024-07-10 20:00+08:00", type: "watch", title: "康康我的", rec: "", },
-    { date: "2024-07-11 12:00+08:00", type: "chat", title: "喝奶茶先聊一会", rec: "", },
-    { date: "2024-07-12 20:00+08:00", type: "radio", title: "主舞台日后谈（电台）", rec: "", },
-    { date: "2024-07-13 09:00+08:00", type: "special", title: "早安BW（游场）", rec: "", },
-    { date: "2024-07-14 13:00+08:00", type: "special", title: "午安BW（游场）", rec: "", },
+    { date: "2024-07-09 20:00+08:00", type: "game", title: "戴夫之旅", rec: "BV1Dr421T7rp", },
+    { date: "2024-07-10 20:00+08:00", type: "watch", title: "康康我的", rec: "BV11x4y1x7cc", },
+    { date: "2024-07-11 12:00+08:00", type: "chat", title: "喝奶茶先聊一会", rec: "BV1n6421f7rr", },
+    { date: "2024-07-12 20:00+08:00", type: "radio", title: "主舞台日后谈（电台）", rec: "BV19J4m1T7dZ", },
+    { date: "2024-07-13 09:00+08:00", type: "special", title: "早安BW（游场）", rec: "BV1tT421k79x", },
+    { date: "2024-07-14 13:00+08:00", type: "special", title: "午安BW（游场）", rec: "BV1Lw4m1Y7XF", },
   ] },
 
   { year: 2024, week: 27, bilibili_url: "949875967923322886", events: [
