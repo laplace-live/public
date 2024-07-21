@@ -43,7 +43,7 @@ export const events: WeekItem[] = [
     { date: "2024-07-18 20:00+08:00", type: "watch", title: "康康我的", rec: "", },
     { date: "2024-07-19 20:00+08:00", type: "game", title: "GAME TIME", rec: "", },
     { date: "2024-07-20 19:00+08:00", type: "watch", title: "JOJO", rec: "", cancelled: true, reason: "https://t.bilibili.com/956207020304760884" },
-    { date: "2024-07-21 19:00+08:00", type: "fitness", title: "锻炼时间", rec: "", },
+    { date: "2024-07-21 19:00+08:00", type: "fitness", title: "锻炼时间", rec: "", cancelled: true, reason: "https://t.bilibili.com/956566809713049672" },
   ] },
 
   { year: 2024, week: 28, bilibili_url: "952123073379696664", events: [
