@@ -36,12 +36,22 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
+  { year: 2024, week: 30, bilibili_url: "", events: [
+    { date: "2024-07-22 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-07-23 20:00+08:00", type: "radio", title: "我来啦！！", rec: "BV1PM4m117JR", },
+    { date: "2024-07-24 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-07-25 20:00+08:00", type: "tbd", title: "", rec: "", },
+    { date: "2024-07-26 20:00+08:00", type: "tbd", title: "", rec: "", },
+    { date: "2024-07-27 19:00+08:00", type: "tbd", title: "", rec: "", },
+    { date: "2024-07-28 19:00+08:00", type: "tbd", title: "", rec: "", },
+  ] },
+
   { year: 2024, week: 29, bilibili_url: "954728782741110820", events: [
     { date: "2024-07-15 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-07-16 20:00+08:00", type: "game", title: "文字规则怪谈", rec: "BV1am421g784", },
     { date: "2024-07-17 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-07-18 20:00+08:00", type: "watch", title: "康康我的", rec: "", },
-    { date: "2024-07-19 20:00+08:00", type: "game", title: "GAME TIME", rec: "", },
+    { date: "2024-07-18 20:00+08:00", type: "watch", title: "康康我的", rec: "BV1dm421g7fV", },
+    { date: "2024-07-19 20:00+08:00", type: "game", title: "GAME TIME", rec: "BV1GS42197Fu", },
     { date: "2024-07-20 19:00+08:00", type: "watch", title: "JOJO", rec: "", cancelled: true, reason: "https://t.bilibili.com/956207020304760884" },
     { date: "2024-07-21 19:00+08:00", type: "fitness", title: "锻炼时间", rec: "", cancelled: true, reason: "https://t.bilibili.com/956566809713049672" },
   ] },
