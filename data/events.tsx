@@ -41,8 +41,8 @@ export const events: WeekItem[] = [
     { date: "2024-07-23 20:00+08:00", type: "radio", title: "我来啦！！", rec: "BV1PM4m117JR", },
     { date: "2024-07-24 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-07-25 20:00+08:00", type: "watch", title: "生病少话（真的吗", rec: "BV1eE421w7DX", },
-    { date: "2024-07-26 20:00+08:00", type: "game", title: "生病少话（真的吗", rec: "", },
-    { date: "2024-07-27 19:00+08:00", type: "tbd", title: "待确认", rec: "", },
+    { date: "2024-07-26 20:00+08:00", type: "game", title: "生病少话（真的吗", rec: "BV1iE421w7H5", },
+    { date: "2024-07-27 19:00+08:00", type: "watch", title: "生病少话（真的吗", rec: "BV12y411e7i1", },
     { date: "2024-07-28 19:00+08:00", type: "tbd", title: "待确认", rec: "", },
   ] },
 
