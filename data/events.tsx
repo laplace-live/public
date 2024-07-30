@@ -36,6 +36,16 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
+  { year: 2024, week: 31, bilibili_url: "959926797241155605", events: [
+    { date: "2024-07-29 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-07-30 20:00+08:00", type: "watch", title: "康康我的", rec: "", },
+    { date: "2024-07-31 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-08-01 20:00+08:00", type: "game", title: "中国式网游", rec: "", },
+    { date: "2024-08-02 20:00+08:00", type: "watch", title: "看JO7漫画解说", rec: "", },
+    { date: "2024-08-03 19:00+08:00", type: "watch", title: "能看 JOJO了（泪", rec: "", },
+    { date: "2024-08-04 19:00+08:00", type: "special", title: "花店神秘来客！", rec: "", },
+  ] },
+
   { year: 2024, week: 30, bilibili_url: "", events: [
     { date: "2024-07-22 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-07-23 20:00+08:00", type: "radio", title: "我来啦！！", rec: "BV1PM4m117JR", },
@@ -43,7 +53,7 @@ export const events: WeekItem[] = [
     { date: "2024-07-25 20:00+08:00", type: "watch", title: "生病少话（真的吗", rec: "BV1eE421w7DX", },
     { date: "2024-07-26 20:00+08:00", type: "game", title: "生病少话（真的吗", rec: "BV1iE421w7H5", },
     { date: "2024-07-27 19:00+08:00", type: "watch", title: "生病少话（真的吗", rec: "BV12y411e7i1", },
-    { date: "2024-07-28 19:00+08:00", type: "game", title: "我来了", rec: "", },
+    { date: "2024-07-28 19:00+08:00", type: "game", title: "我来了", rec: "BV1pn4y1f7B1", },
   ] },
 
   { year: 2024, week: 29, bilibili_url: "954728782741110820", events: [
