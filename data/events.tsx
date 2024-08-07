@@ -37,13 +37,13 @@ export const events: WeekItem[] = [
   // ] },
 
   { year: 2024, week: 32, bilibili_url: "962608913868390407", events: [
-    { date: "2024-07-29 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-07-30 20:00+08:00", type: "chat", title: "谢谢大家的继续啦", rec: "", },
-    { date: "2024-07-31 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-08-01 20:00+08:00", type: "game", title: "看二创～", rec: "", },
-    { date: "2024-08-02 20:00+08:00", type: "watch", title: "中国式网游（完结？", rec: "", },
-    { date: "2024-08-03 19:00+08:00", type: "watch", title: "祖国人祖国混", rec: "", },
-    { date: "2024-08-04 19:00+08:00", type: "special", title: "糖一下！", rec: "", },
+    { date: "2024-08-05 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-08-06 20:00+08:00", type: "chat", title: "谢谢大家的继续啦", rec: "", },
+    { date: "2024-08-07 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-08-08 20:00+08:00", type: "game", title: "看二创～", rec: "", },
+    { date: "2024-08-09 20:00+08:00", type: "watch", title: "中国式网游（完结？", rec: "", },
+    { date: "2024-08-10 19:00+08:00", type: "watch", title: "祖国人祖国混", rec: "", },
+    { date: "2024-08-11 19:00+08:00", type: "special", title: "糖一下！", rec: "", },
   ] },
 
   { year: 2024, week: 31, bilibili_url: "959926797241155605", events: [
