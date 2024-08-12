@@ -42,7 +42,7 @@ export const events: WeekItem[] = [
     { date: "2024-08-07 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-08-08 20:00+08:00", type: "sub", title: "看二创～", rec: "", },
     { date: "2024-08-09 20:00+08:00", type: "game", title: "中国式网游（完结？", rec: "", },
-    { date: "2024-08-10 19:00+08:00", type: "watch", title: "祖国人祖国魂", rec: "", },
+    { date: "2024-08-10 18:00+08:00", type: "watch", title: "祖国人祖国魂", rec: "", },
     { date: "2024-08-11 19:00+08:00", type: "game", title: "糖一下！", rec: "", },
   ] },
 
