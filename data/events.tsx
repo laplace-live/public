@@ -48,22 +48,22 @@ export const events: WeekItem[] = [
 
   { year: 2024, week: 32, bilibili_url: "962608913868390407", events: [
     { date: "2024-08-05 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-08-06 20:00+08:00", type: "chat", title: "谢谢大家的继续啦", rec: "", },
+    { date: "2024-08-06 20:00+08:00", type: "chat", title: "谢谢大家的继续啦", rec: "BV1br421K7Y8", },
     { date: "2024-08-07 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-08-08 20:00+08:00", type: "sub", title: "看二创～", rec: "", },
+    { date: "2024-08-08 20:00+08:00", type: "sub", title: "看二创～", rec: "BV13x4y1479R", },
     { date: "2024-08-09 20:00+08:00", type: "game", title: "中国式网游（完结？", rec: "", },
-    { date: "2024-08-10 18:00+08:00", type: "watch", title: "祖国人祖国魂", rec: "", },
-    { date: "2024-08-11 19:00+08:00", type: "game", title: "糖一下！", rec: "", },
+    { date: "2024-08-10 18:00+08:00", type: "watch", title: "祖国人祖国魂", rec: "BV1Lr421K7q2", },
+    { date: "2024-08-11 19:00+08:00", type: "game", title: "糖一下！", rec: "BV1KW42197sf", },
   ] },
 
   { year: 2024, week: 31, bilibili_url: "959926797241155605", events: [
     { date: "2024-07-29 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-07-30 20:00+08:00", type: "watch", title: "康康我的", rec: "", },
+    { date: "2024-07-30 20:00+08:00", type: "watch", title: "康康我的", rec: "BV1mS411w7ZS", },
     { date: "2024-07-31 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-08-01 20:00+08:00", type: "game", title: "中国式网游", rec: "", },
-    { date: "2024-08-02 20:00+08:00", type: "watch", title: "看JO7漫画解说", rec: "", },
-    { date: "2024-08-03 19:00+08:00", type: "watch", title: "能看 JOJO了（泪", rec: "", },
-    { date: "2024-08-04 20:00+08:00", type: "special", title: "花店神秘来客！", rec: "", },
+    { date: "2024-08-01 20:00+08:00", type: "game", title: "中国式网游", rec: "BV1V142187k6", },
+    { date: "2024-08-02 20:00+08:00", type: "watch", title: "看JO7漫画解说", rec: "BV1iS42197hH", },
+    { date: "2024-08-03 19:00+08:00", type: "watch", title: "能看 JOJO了（泪", rec: "BV1iS4219783", },
+    { date: "2024-08-04 20:00+08:00", type: "special", title: "花店神秘来客！", rec: "BV18H4y1c78Z", },
   ] },
 
   { year: 2024, week: 30, bilibili_url: "", events: [
