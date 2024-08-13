@@ -36,6 +36,16 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
+  { year: 2024, week: 33, bilibili_url: "965124785495343145", events: [
+    { date: "2024-08-12 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-08-13 20:00+08:00", type: "game", title: "Still Wakes the Deep", rec: "", },
+    { date: "2024-08-14 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-08-15 20:00+08:00", type: "sub", title: "康康大家的！", rec: "", },
+    { date: "2024-08-16 20:00+08:00", type: "radio", title: "晚间电台", rec: "", },
+    { date: "2024-08-17 19:00+08:00", type: "watch", title: "白2使人快乐", rec: "", },
+    { date: "2024-08-18 19:00+08:00", type: "game", title: "GAME TIME", rec: "", },
+  ] },
+
   { year: 2024, week: 32, bilibili_url: "962608913868390407", events: [
     { date: "2024-08-05 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-08-06 20:00+08:00", type: "chat", title: "谢谢大家的继续啦", rec: "", },
