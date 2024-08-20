@@ -36,14 +36,24 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
+    { year: 2024, week: 34, bilibili_url: "967706739456606211", events: [
+    { date: "2024-08-18 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-08-19 20:00+08:00", type: "game", title: "黑神话 悟空", rec: "", },
+    { date: "2024-08-20 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-08-21 20:00+08:00", type: "sub", title: "GAME TIME", rec: "", },
+    { date: "2024-08-22 20:00+08:00", type: "radio", title: "弹丸论破", rec: "", },
+    { date: "2024-08-23 19:00+08:00", type: "watch", title: "梦境之花", rec: "", },
+    { date: "2024-08-24 19:00+08:00", type: "game", title: "运动使人快乐", rec: "", },
+  ] },
+
   { year: 2024, week: 33, bilibili_url: "965124785495343145", events: [
     { date: "2024-08-12 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-08-13 20:00+08:00", type: "game", title: "Still Wakes the Deep", rec: "", },
+    { date: "2024-08-13 20:00+08:00", type: "game", title: "Still Wakes the Deep", rec: "BV1zM4m1y7Fc", },
     { date: "2024-08-14 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-08-15 20:00+08:00", type: "sub", title: "康康大家的！", rec: "", },
-    { date: "2024-08-16 20:00+08:00", type: "radio", title: "晚间电台", rec: "", },
-    { date: "2024-08-17 19:00+08:00", type: "watch", title: "白2使人快乐", rec: "", },
-    { date: "2024-08-18 19:00+08:00", type: "game", title: "GAME TIME", rec: "", },
+    { date: "2024-08-15 20:00+08:00", type: "sub", title: "康康大家的！", rec: "BV1eZ421N7Vv", },
+    { date: "2024-08-16 20:00+08:00", type: "radio", title: "晚间电台", rec: "BV1Yi421a7zN", },
+    { date: "2024-08-17 19:00+08:00", type: "watch", title: "白2使人快乐", rec: "BV1Vm42137zk", },
+    { date: "2024-08-18 19:00+08:00", type: "game", title: "GAME TIME", rec: "BV1Cz421i7iR", },
   ] },
 
   { year: 2024, week: 32, bilibili_url: "962608913868390407", events: [
