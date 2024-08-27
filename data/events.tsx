@@ -36,14 +36,24 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
-    { year: 2024, week: 34, bilibili_url: "967706739456606211", events: [
+  { year: 2024, week: 35, bilibili_url: "970289668302045205", events: [
+    { date: "2024-08-26 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-08-27 20:00+08:00", type: "game", title: "黑", rec: "", },
+    { date: "2024-08-28 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-08-29 20:00+08:00", type: "game", title: "神 TIME", rec: "", },
+    { date: "2024-08-30 20:00+08:00", type: "game", title: "话", rec: "", },
+    { date: "2024-08-31 19:00+08:00", type: "game", title: "悟", rec: "", },
+    { date: "2024-09-01 19:00+08:00", type: "watch", title: "没想到是JO吧！", rec: "", },
+  ] },
+
+  { year: 2024, week: 34, bilibili_url: "967706739456606211", events: [
     { date: "2024-08-19 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-08-20 20:00+08:00", type: "game", title: "黑神话 悟空", rec: "", },
+    { date: "2024-08-20 20:00+08:00", type: "game", title: "黑神话 悟空", rec: "BV1j1421878f", },
     { date: "2024-08-21 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2024-08-22 20:00+08:00", type: "game", title: "GAME TIME", rec: "", },
-    { date: "2024-08-23 20:00+08:00", type: "watch", title: "弹丸论破", rec: "", },
-    { date: "2024-08-24 19:00+08:00", type: "sub", title: "梦境之花", rec: "", },
-    { date: "2024-08-25 19:00+08:00", type: "fitness", title: "运动使人快乐", rec: "", },
+    { date: "2024-08-22 20:00+08:00", type: "game", title: "GAME TIME", rec: "BV1sZ421K7ax", },
+    { date: "2024-08-23 20:00+08:00", type: "watch", title: "弹丸论破", rec: "BV18w4m1r733", },
+    { date: "2024-08-24 19:00+08:00", type: "sub", title: "梦境之花", rec: "BV1YT421z72J", },
+    { date: "2024-08-25 19:00+08:00", type: "fitness", title: "运动使人快乐", rec: "BV1qz421e74k", },
   ] },
 
   { year: 2024, week: 33, bilibili_url: "965124785495343145", events: [
