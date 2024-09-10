@@ -36,6 +36,16 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
+  { year: 2024, week: 37, bilibili_url: "975520844023332921", events: [
+    { date: "2024-09-09 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-09-10 20:00+08:00", type: "game", title: "影神图一览", rec: "", },
+    { date: "2024-09-11 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-09-12 20:00+08:00", type: "game", title: "弹丸论破（游戏", rec: "", },
+    { date: "2024-09-13 20:00+08:00", type: "watch", title: "哭泣少女乐队", rec: "", },
+    { date: "2024-09-14 19:00+08:00", type: "watch", title: "看看JO7解说", rec: "", },
+    { date: "2024-09-15 19:00+08:00", type: "sing", title: "周年歌回", rec: "", },
+  ] },
+
   { year: 2024, week: 36, bilibili_url: "972922444641730563", events: [
     { date: "2024-09-02 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-09-03 20:00+08:00", type: "game", title: "黑", rec: "", },
