@@ -36,13 +36,23 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
+  { year: 2024, week: 41, bilibili_url: "985912865264238599", events: [
+    { date: "2024-10-07 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-10-08 20:00+08:00", type: "watch", title: "继续水浒水浒", rec: "", },
+    { date: "2024-10-09 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-10-10 20:00+08:00", type: "game", title: "GAME TIME", rec: "", },
+    { date: "2024-10-11 20:00+08:00", type: "game", title: "弹丸论破！", rec: "", },
+    { date: "2024-10-12 19:00+08:00", type: "watch", title: "JOJOJOJO", rec: "", },
+    { date: "2024-10-13 19:00+08:00", type: "sub", title: "粉丝歌回", rec: "", },
+  ] },
+
   { year: 2024, week: 40, bilibili_url: "983302152226078720", events: [
     { date: "2024-09-30 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-10-01 20:00+08:00", type: "game", title: "哦沙威玛沙威玛～", rec: "", },
     { date: "2024-10-02 19:00+08:00", type: "watch", title: "心惊胆跳观影时间", rec: "", },
     { date: "2024-10-03 19:00+08:00", type: "game", title: "大家一起糖豆人", rec: "", },
     { date: "2024-10-04 19:00+08:00", type: "watch", title: "碧蓝之海", rec: "", },
-    { date: "2024-10-05 19:00+08:00", type: "sub", title: "粉丝歌回", rec: "", },
+    { date: "2024-10-05 19:00+08:00", type: "sub", title: "粉丝歌回", rec: "", reason: "与粉丝协商已改为游戏回（沙威玛传奇）" },
     { date: "2024-10-06 19:00+08:00", type: "watch", title: "我推的视频", rec: "", },
   ] },
 
