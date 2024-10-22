@@ -36,6 +36,16 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
+  { year: 2024, week: 43, bilibili_url: "991107108522950690", events: [
+    { date: "2024-10-21 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-10-22 20:00+08:00", type: "watch", title: "水浒虎虎生风", rec: "", },
+    { date: "2024-10-23 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-10-24 20:00+08:00", type: "game", title: "GAME TIME", rec: "", },
+    { date: "2024-10-25 20:00+08:00", type: "game", title: "比宇宙更远的地方", rec: "", },
+    { date: "2024-10-26 19:00+08:00", type: "sub", title: "粉丝歌回（续）", rec: "", },
+    { date: "2024-10-27 19:00+08:00", type: "fitness", title: "锻炼锻炼！", rec: "", },
+  ] },
+
   { year: 2024, week: 42, bilibili_url: "988850897748492296", events: [
     { date: "2024-10-14 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-10-15 20:00+08:00", type: "rest", title: "", rec: "", },
