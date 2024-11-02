@@ -42,7 +42,7 @@ export const events: WeekItem[] = [
     { date: "2024-10-30 20:00+08:00", type: "watch", title: "水浒虎虎生风", rec: "", },
     { date: "2024-10-31 20:00+08:00", type: "game", title: "弹丸论破", rec: "", },
     { date: "2024-11-01 20:00+08:00", type: "radio", title: "神秘电台", rec: "", },
-    { date: "2024-11-02 19:00+08:00", type: "sub", title: "不神秘梦境之花", rec: "", },
+    { date: "2024-11-02 19:00+08:00", type: "collab", title: "不神秘梦境之花", rec: "", },
     { date: "2024-11-03 19:00+08:00", type: "watch", title: "JOJO的奇妙冒险", rec: "", },
   ] },
 
