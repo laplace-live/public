@@ -36,6 +36,56 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
+  { year: 2025, week: 1, bilibili_url: "", events: [
+    { date: "2024-12-30 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-12-31 20:00+08:00", type: "radio", title: "冷冬！！", rec: "", },
+    { date: "2025-01-01 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-01-02 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-01-03 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-01-04 19:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-01-05 19:00+08:00", type: "rest", title: "", rec: "", },
+  ] },
+
+  { year: 2024, week: 52, bilibili_url: "", events: [
+    { date: "2024-12-23 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-12-24 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-12-25 20:00+08:00", type: "radio", title: "在这么冷的天~", rec: "", },
+    { date: "2024-12-26 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-12-27 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-12-28 19:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-12-29 19:00+08:00", type: "rest", title: "", rec: "", },
+  ] },
+
+  { year: 2024, week: 51, bilibili_url: "", events: [
+    { date: "2024-12-16 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-12-17 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-12-18 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-12-19 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-12-20 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-12-21 19:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-12-22 19:00+08:00", type: "rest", title: "", rec: "", },
+  ] },
+
+  { year: 2024, week: 50, bilibili_url: "", events: [
+    { date: "2024-12-09 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-12-10 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-12-11 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-12-12 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-12-13 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-12-14 19:00+08:00", type: "radio", title: "冻天", rec: "", },
+    { date: "2024-12-15 19:00+08:00", type: "rest", title: "", rec: "", },
+  ] },
+
+  { year: 2024, week: 49, bilibili_url: "", events: [
+    { date: "2024-12-02 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-12-03 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-12-04 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-12-05 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-12-06 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-12-07 19:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2024-12-08 19:00+08:00", type: "rest", title: "", rec: "", },
+  ] },
+
   { year: 2024, week: 48, bilibili_url: "1004077544667873280", events: [
     { date: "2024-11-25 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-11-26 20:00+08:00", type: "rest", title: "", rec: "", },
