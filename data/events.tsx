@@ -42,7 +42,7 @@ export const events: WeekItem[] = [
     { date: "2025-01-01 20:00+08:00", type: "game", title: "【米塔】据说是电子女友？", rec: "", },
     { date: "2025-01-02 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-01-03 20:00+08:00", type: "game", title: "米塔", rec: "", },
-    { date: "2025-01-04 19:00+08:00", type: "tbd", title: "", rec: "", },
+    { date: "2025-01-04 19:00+08:00", type: "watch", title: "看视频", rec: "", },
     { date: "2025-01-05 19:00+08:00", type: "tbd", title: "", rec: "", },
   ] },
 
