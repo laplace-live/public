@@ -36,14 +36,24 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
+  { year: 2025, week: 2, bilibili_url: "", events: [
+    { date: "2025-01-06 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-01-07 20:00+08:00", type: "radio", title: "想电台了", rec: "", },
+    { date: "2025-01-08 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-01-09 20:00+08:00", type: "game", title: "夺宝奇兵", rec: "", },
+    { date: "2025-01-10 20:00+08:00", type: "watch", title: "双城1", rec: "", },
+    { date: "2025-01-11 19:00+08:00", type: "watch", title: "剑风传奇", rec: "", },
+    { date: "2025-01-12 19:00+08:00", type: "sub", title: "棉花糖", rec: "", },
+  ] },
+
   { year: 2025, week: 1, bilibili_url: "", events: [
     { date: "2024-12-30 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-12-31 20:00+08:00", type: "radio", title: "冷冬！！", rec: "", },
     { date: "2025-01-01 20:00+08:00", type: "game", title: "【米塔】据说是电子女友？", rec: "", },
     { date: "2025-01-02 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-01-03 20:00+08:00", type: "game", title: "米塔", rec: "", },
-    { date: "2025-01-04 19:00+08:00", type: "watch", title: "看视频", rec: "", },
-    { date: "2025-01-05 19:00+08:00", type: "tbd", title: "", rec: "", },
+    { date: "2025-01-04 19:00+08:00", type: "watch", title: "_(:з)∠)_看点好的", rec: "", },
+    { date: "2025-01-05 19:00+08:00", type: "watch", title: "_(:з)∠)_看看剑风传奇", rec: "", },
   ] },
 
   { year: 2024, week: 52, bilibili_url: "", events: [
