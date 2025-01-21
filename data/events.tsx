@@ -36,7 +36,17 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
-  { year: 2025, week: 3, bilibili_url: "", events: [
+  { year: 2025, week: 4, bilibili_url: "1024835714320171014", events: [
+    { date: "2025-01-20 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-01-21 20:00+08:00", type: "watch", title: "剑风传奇", rec: "", },
+    { date: "2025-01-22 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-01-23 20:00+08:00", type: "game", title: "吾去脱他衣", rec: "", },
+    { date: "2025-01-24 20:00+08:00", type: "chat", title: "冰火结束聊聊", rec: "", },
+    { date: "2025-01-25 19:00+08:00", type: "sub", title: "梦境之花", rec: "", },
+    { date: "2025-01-26 19:00+08:00", type: "watch", title: "剑风传奇", rec: "", },
+  ] },
+
+  { year: 2025, week: 3, bilibili_url: "1022247786092953601", events: [
     { date: "2025-01-13 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-01-14 20:00+08:00", type: "watch", title: "剑风传奇", rec: "", },
     { date: "2025-01-15 20:00+08:00", type: "rest", title: "", rec: "", },
@@ -46,7 +56,7 @@ export const events: WeekItem[] = [
     { date: "2025-01-19 19:00+08:00", type: "fitness", title: "健身环", rec: "", },
   ] },
 
-  { year: 2025, week: 2, bilibili_url: "", events: [
+  { year: 2025, week: 2, bilibili_url: "1019628281248350244", events: [
     { date: "2025-01-06 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-01-07 20:00+08:00", type: "radio", title: "想电台了", rec: "", },
     { date: "2025-01-08 20:00+08:00", type: "rest", title: "", rec: "", },
