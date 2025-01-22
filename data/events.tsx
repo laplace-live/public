@@ -41,7 +41,7 @@ export const events: WeekItem[] = [
     { date: "2025-01-21 20:00+08:00", type: "watch", title: "剑风传奇", rec: "", },
     { date: "2025-01-22 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-01-23 20:00+08:00", type: "game", title: "吾去脱他衣", rec: "", },
-    { date: "2025-01-24 20:00+08:00", type: "chat", title: "冰火结束聊聊", rec: "", },
+    { date: "2025-01-24 23:00+08:00", type: "chat", title: "冰火结束聊聊", rec: "", },
     { date: "2025-01-25 19:00+08:00", type: "sub", title: "梦境之花", rec: "", },
     { date: "2025-01-26 19:00+08:00", type: "watch", title: "剑风传奇", rec: "", },
   ] },
