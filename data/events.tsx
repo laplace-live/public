@@ -36,6 +36,16 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
+  { year: 2025, week: 5, bilibili_url: "1027451564168577027", events: [
+    { date: "2025-01-27 20:00+08:00", type: "watch", title: "剑", rec: "", },
+    { date: "2025-01-28 19:00+08:00", type: "watch", title: "除夕夜", rec: "", },
+    { date: "2025-01-29 19:00+08:00", type: "tbd", title: "春节快乐", rec: "", },
+    { date: "2025-01-30 19:00+08:00", type: "special", title: "画头像试试", rec: "", },
+    { date: "2025-01-31 19:00+08:00", type: "sing", title: "歌回～", rec: "", },
+    { date: "2025-02-01 19:00+08:00", type: "sub", title: "梦境之花", rec: "", },
+    { date: "2025-02-02 19:00+08:00", type: "game", title: "起源大世界", rec: "", },
+  ] },
+
   { year: 2025, week: 4, bilibili_url: "1024835714320171014", events: [
     { date: "2025-01-20 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-01-21 20:00+08:00", type: "watch", title: "剑风传奇", rec: "", },
@@ -153,7 +163,7 @@ export const events: WeekItem[] = [
     { date: "2024-11-07 20:00+08:00", type: "game", title: "弹丸论破", rec: "", },
     { date: "2024-11-08 20:00+08:00", type: "watch", title: "双城之战", rec: "", },
     { date: "2024-11-09 19:00+08:00", type: "sub", title: "梦境之花续", rec: "", },
-    { date: "2024-11-10 19:00+08:00", type: "sub", title: "粉丝歌回续", rec: "", },
+    { date: "2024-11-10 19:00+08:00", type: "sub", title: "粉丝回续", rec: "", },
   ] },
 
   { year: 2024, week: 44, bilibili_url: "993689784034525189", events: [
@@ -172,7 +182,7 @@ export const events: WeekItem[] = [
     { date: "2024-10-23 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-10-24 20:00+08:00", type: "game", title: "GAME TIME", rec: "", },
     { date: "2024-10-25 20:00+08:00", type: "game", title: "比宇宙更远的地方", rec: "", },
-    { date: "2024-10-26 19:00+08:00", type: "sub", title: "粉丝歌回（续）", rec: "", },
+    { date: "2024-10-26 19:00+08:00", type: "sub", title: "粉丝回（续）", rec: "", },
     { date: "2024-10-27 19:00+08:00", type: "fitness", title: "锻炼锻炼！", rec: "", },
   ] },
 
@@ -183,7 +193,7 @@ export const events: WeekItem[] = [
     { date: "2024-10-17 20:00+08:00", type: "game", title: "弹丸论破！", rec: "", },
     { date: "2024-10-18 20:00+08:00", type: "watch", title: "JOJO7", rec: "", },
     { date: "2024-10-19 19:00+08:00", type: "radio", title: "电台时间", rec: "", },
-    { date: "2024-10-20 19:00+08:00", type: "sub", title: "粉丝歌回2", rec: "", },
+    { date: "2024-10-20 19:00+08:00", type: "sub", title: "粉丝回2", rec: "", },
   ] },
 
   { year: 2024, week: 41, bilibili_url: "985912865264238599", events: [
@@ -193,7 +203,7 @@ export const events: WeekItem[] = [
     { date: "2024-10-10 20:00+08:00", type: "game", title: "GAME TIME", rec: "", },
     { date: "2024-10-11 20:00+08:00", type: "game", title: "弹丸论破！", rec: "", },
     { date: "2024-10-12 19:00+08:00", type: "watch", title: "JOJOJOJO", rec: "", },
-    { date: "2024-10-13 19:00+08:00", type: "sub", title: "粉丝歌回", rec: "", },
+    { date: "2024-10-13 19:00+08:00", type: "sub", title: "粉丝回", rec: "", },
   ] },
 
   { year: 2024, week: 40, bilibili_url: "983302152226078720", events: [
@@ -202,7 +212,7 @@ export const events: WeekItem[] = [
     { date: "2024-10-02 19:00+08:00", type: "watch", title: "心惊胆跳观影时间", rec: "", },
     { date: "2024-10-03 19:00+08:00", type: "game", title: "大家一起糖豆人", rec: "", },
     { date: "2024-10-04 19:00+08:00", type: "watch", title: "碧蓝之海", rec: "", },
-    { date: "2024-10-05 19:00+08:00", type: "sub", title: "粉丝歌回", rec: "", reason: "与粉丝协商已改为游戏回（沙威玛传奇）" },
+    { date: "2024-10-05 19:00+08:00", type: "sub", title: "粉丝回", rec: "", reason: "与粉丝协商已改为游戏回（沙威玛传奇）" },
     { date: "2024-10-06 19:00+08:00", type: "watch", title: "我推的视频", rec: "", },
   ] },
 
