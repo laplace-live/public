@@ -49,7 +49,7 @@ export const events: WeekItem[] = [
   { year: 2025, week: 5, bilibili_url: "1027451564168577027", events: [
     { date: "2025-01-27 20:00+08:00", type: "watch", title: "剑", rec: "", },
     { date: "2025-01-28 19:00+08:00", type: "watch", title: "除夕夜", rec: "", },
-    { date: "2025-01-29 19:00+08:00", type: "tbd", title: "春节快乐", rec: "", },
+    { date: "2025-01-29 19:00+08:00", type: "watch", title: "春节快乐", rec: "", },
     { date: "2025-01-30 19:00+08:00", type: "special", title: "画头像试试", rec: "", },
     { date: "2025-01-31 19:00+08:00", type: "sing", title: "歌回～", rec: "", },
     { date: "2025-02-01 19:00+08:00", type: "sub", title: "梦境之花", rec: "", },
