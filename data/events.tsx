@@ -36,6 +36,16 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
+  { year: 2025, week: 14, bilibili_url: "1051221150114250757", events: [
+    { date: "2025-03-31 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-04-01 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-04-02 20:00+08:00", type: "collab", title: "双L奇境", rec: "", },
+    { date: "2025-04-03 20:00+08:00", type: "watch", title: "四海兄弟", rec: "", cancelled: true, reason: "https://t.bilibili.com/1051539458760900616" },
+    { date: "2025-04-04 20:00+08:00", type: "watch", title: "乒乓来了", rec: "", },
+    { date: "2025-04-05 19:00+08:00", type: "watch", title: "看会三国！！", rec: "", },
+    { date: "2025-04-06 19:00+08:00", type: "watch", title: "想看九品芝麻官", rec: "", },
+  ] },
+
   { year: 2025, week: 13, bilibili_url: "1048253757195812868", events: [
     { date: "2025-03-24 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-03-25 20:00+08:00", type: "watch", title: "好久没看电影解说了", rec: "", },
