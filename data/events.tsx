@@ -36,11 +36,21 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
+  { year: 2025, week: 16, bilibili_url: "1056038574446608386", events: [
+    { date: "2025-04-14 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-04-15 20:00+08:00", type: "watch", title: "玩游戏不如看恐怖片", rec: "", },
+    { date: "2025-04-16 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-04-17 20:00+08:00", type: "game", title: "四海兄弟", rec: "", },
+    { date: "2025-04-18 20:00+08:00", type: "sub", title: "看二创续！", rec: "", },
+    { date: "2025-04-19 19:00+08:00", type: "watch", title: "我的好皇叔", rec: "", },
+    { date: "2025-04-20 19:00+08:00", type: "fitness", title: "健身环！", rec: "", },
+  ] },
+
   { year: 2025, week: 15, bilibili_url: "1053442876580560902", events: [
     { date: "2025-04-07 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-04-08 20:00+08:00", type: "radio", title: "电台时间", rec: "", },
     { date: "2025-04-09 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-04-10 20:00+08:00", type: "watch", title: "四海兄弟", rec: "", },
+    { date: "2025-04-10 20:00+08:00", type: "game", title: "四海兄弟", rec: "", },
     { date: "2025-04-11 20:00+08:00", type: "sub", title: "看二创来了！", rec: "", },
     { date: "2025-04-12 19:00+08:00", type: "watch", title: "皇叔我的好皇叔T T", rec: "", },
     { date: "2025-04-13 19:00+08:00", type: "game", title: "黑暗世界因与果", rec: "", },
