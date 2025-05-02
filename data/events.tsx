@@ -36,6 +36,36 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
+  // { year: 2025, week: 19, bilibili_url: "", events: [
+  //   { date: "2025-05-05 20:00+08:00", type: "watch", title: "恐怖片是假期结束", rec: "", },
+  //   { date: "2025-04-06 20:00+08:00", type: "tbd", title: "", rec: "", },
+  //   { date: "2025-04-07 20:00+08:00", type: "rest", title: "", rec: "", },
+  //   { date: "2025-05-08 20:00+08:00", type: "tbd", title: "", rec: "", },
+  //   { date: "2025-05-09 20:00+08:00", type: "tbd", title: "", rec: "", },
+  //   { date: "2025-05-10 19:00+08:00", type: "tbd", title: "", rec: "", },
+  //   { date: "2025-05-11 19:00+08:00", type: "tbd", title: "", rec: "", },
+  // ] },
+
+  { year: 2025, week: 18, bilibili_url: "1061237808406986761", events: [
+    { date: "2025-04-28 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-04-29 20:00+08:00", type: "radio", title: "假期前的电台杂谈", rec: "", },
+    { date: "2025-04-30 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-05-01 19:00+08:00", type: "watch", title: "五一快乐～看会三国", rec: "", },
+    { date: "2025-05-02 19:00+08:00", type: "special", title: "抽个倒霉蛋被我画头像！", rec: "", },
+    { date: "2025-05-03 19:00+08:00", type: "game", title: "GAME TIME", rec: "", },
+    { date: "2025-05-04 19:00+08:00", type: "watch", title: "还是想看三国T T", rec: "", },
+  ] },
+
+  { year: 2025, week: 17, bilibili_url: "1058643016798961686", events: [
+    { date: "2025-04-21 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-04-22 20:00+08:00", type: "watch", title: "腰酸背疼看会三国", rec: "", },
+    { date: "2025-04-23 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-04-24 20:00+08:00", type: "game", title: "四海兄弟", rec: "", },
+    { date: "2025-04-25 20:00+08:00", type: "sub", title: "电台一下！", rec: "", },
+    { date: "2025-04-26 19:00+08:00", type: "watch", title: "不想看别的还得是三国", rec: "", },
+    { date: "2025-04-27 19:00+08:00", type: "game", title: "GAME TIME", rec: "", },
+  ] },
+
   { year: 2025, week: 16, bilibili_url: "1056038574446608386", events: [
     { date: "2025-04-14 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-04-15 20:00+08:00", type: "watch", title: "玩游戏不如看恐怖片", rec: "", },
