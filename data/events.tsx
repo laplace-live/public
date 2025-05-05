@@ -36,15 +36,15 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
-  // { year: 2025, week: 19, bilibili_url: "", events: [
-  //   { date: "2025-05-05 20:00+08:00", type: "watch", title: "恐怖片是假期结束", rec: "", },
-  //   { date: "2025-04-06 20:00+08:00", type: "tbd", title: "", rec: "", },
-  //   { date: "2025-04-07 20:00+08:00", type: "rest", title: "", rec: "", },
-  //   { date: "2025-05-08 20:00+08:00", type: "tbd", title: "", rec: "", },
-  //   { date: "2025-05-09 20:00+08:00", type: "tbd", title: "", rec: "", },
-  //   { date: "2025-05-10 19:00+08:00", type: "tbd", title: "", rec: "", },
-  //   { date: "2025-05-11 19:00+08:00", type: "tbd", title: "", rec: "", },
-  // ] },
+  { year: 2025, week: 19, bilibili_url: "", events: [
+    { date: "2025-05-05 20:00+08:00", type: "watch", title: "恐怖片是假期结束", rec: "", },
+    { date: "2025-04-06 20:00+08:00", type: "tbd", title: "", rec: "", },
+    { date: "2025-04-07 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-05-08 20:00+08:00", type: "tbd", title: "", rec: "", },
+    { date: "2025-05-09 20:00+08:00", type: "tbd", title: "", rec: "", },
+    { date: "2025-05-10 19:00+08:00", type: "tbd", title: "", rec: "", },
+    { date: "2025-05-11 19:00+08:00", type: "tbd", title: "", rec: "", },
+  ] },
 
   { year: 2025, week: 18, bilibili_url: "1061237808406986761", events: [
     { date: "2025-04-28 20:00+08:00", type: "rest", title: "", rec: "", },
