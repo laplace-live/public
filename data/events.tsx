@@ -41,9 +41,9 @@ export const events: WeekItem[] = [
     { date: "2025-05-06 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-05-07 20:00+08:00", type: "watch", title: "节后综合症了（？", rec: "", },
     { date: "2025-05-08 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-05-09 20:00+08:00", type: "watch", title: "", rec: "看三国", },
-    { date: "2025-05-10 19:00+08:00", type: "game", title: "", rec: "无限机兵", },
-    { date: "2025-05-11 19:00+08:00", type: "sub", title: "", rec: "棉花糖_(:з)∠)_", },
+    { date: "2025-05-09 20:00+08:00", type: "watch", title: "看三国", rec: "", },
+    { date: "2025-05-10 19:00+08:00", type: "game", title: "无限机兵", rec: "", },
+    { date: "2025-05-11 19:00+08:00", type: "sub", title: "棉花糖_(:з)∠)_", rec: "", },
   ] },
 
   { year: 2025, week: 18, bilibili_url: "1061237808406986761", events: [
