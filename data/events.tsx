@@ -36,7 +36,7 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
-  { year: 2025, week: 20, bilibili_url: "", events: [
+  { year: 2025, week: 20, bilibili_url: "1066419325717446665", events: [
     { date: "2025-05-12 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-05-13 20:00+08:00", type: "watch", title: "啥也不想干就想看三国", rec: "", },
     { date: "2025-05-14 20:00+08:00", type: "rest", title: "", rec: "", },
@@ -46,7 +46,7 @@ export const events: WeekItem[] = [
     { date: "2025-05-18 19:00+08:00", type: "watch", title: "看会三国qwq", rec: "", },
   ] },
 
-  { year: 2025, week: 19, bilibili_url: "", events: [
+  { year: 2025, week: 19, bilibili_url: "1064208388177526803", events: [
     { date: "2025-05-05 20:00+08:00", type: "watch", title: "恐怖片是假期结束", rec: "", },
     { date: "2025-05-06 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-05-07 20:00+08:00", type: "watch", title: "节后综合症了（？", rec: "", },
