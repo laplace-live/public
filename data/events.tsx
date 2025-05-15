@@ -36,6 +36,16 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
+  { year: 2025, week: 20, bilibili_url: "", events: [
+    { date: "2025-05-12 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-05-13 20:00+08:00", type: "watch", title: "啥也不想看就想看三国", rec: "", },
+    { date: "2025-05-14 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-05-15 20:00+08:00", type: "game", title: "GAME TIME", rec: "", },
+    { date: "2025-05-16 20:00+08:00", type: "game", title: "什么超级键盘侠", rec: "", },
+    { date: "2025-05-17 19:00+08:00", type: "sub", title: "梦境之花", rec: "", },
+    { date: "2025-05-18 19:00+08:00", type: "watch", title: "看会三国qwq", rec: "", },
+  ] },
+
   { year: 2025, week: 19, bilibili_url: "", events: [
     { date: "2025-05-05 20:00+08:00", type: "watch", title: "恐怖片是假期结束", rec: "", },
     { date: "2025-05-06 20:00+08:00", type: "rest", title: "", rec: "", },
@@ -321,7 +331,7 @@ export const events: WeekItem[] = [
     { date: "2024-10-22 20:00+08:00", type: "watch", title: "水浒虎虎生风", rec: "", },
     { date: "2024-10-23 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2024-10-24 20:00+08:00", type: "game", title: "GAME TIME", rec: "", },
-    { date: "2024-10-25 20:00+08:00", type: "game", title: "比宇宙更远的地方", rec: "", },
+    { date: "2024-10-25 20:00+08:00", type: "watch", title: "比宇宙更远的地方", rec: "", },
     { date: "2024-10-26 19:00+08:00", type: "sub", title: "粉丝回（续）", rec: "", },
     { date: "2024-10-27 19:00+08:00", type: "fitness", title: "锻炼锻炼！", rec: "", },
   ] },
