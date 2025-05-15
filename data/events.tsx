@@ -38,7 +38,7 @@ export const events: WeekItem[] = [
 
   { year: 2025, week: 20, bilibili_url: "", events: [
     { date: "2025-05-12 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-05-13 20:00+08:00", type: "watch", title: "啥也不想看就想看三国", rec: "", },
+    { date: "2025-05-13 20:00+08:00", type: "watch", title: "啥也不想干就想看三国", rec: "", },
     { date: "2025-05-14 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-05-15 20:00+08:00", type: "game", title: "GAME TIME", rec: "", },
     { date: "2025-05-16 20:00+08:00", type: "game", title: "什么超级键盘侠", rec: "", },
