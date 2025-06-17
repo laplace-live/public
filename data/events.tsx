@@ -50,7 +50,7 @@ export const events: WeekItem[] = [
     { date: "2025-06-09 19:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-06-10 19:00+08:00", type: "watch", title: "夜神月为什么叫LIGHT", rec: "BV1XaMGztEAo", },
     { date: "2025-06-11 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-06-12 20:00+08:00", type: "game", title: "GAME TIME", rec: "BV1tKMNzAEKj", reason:"游戏:超阈限空间"},
+    { date: "2025-06-12 20:00+08:00", type: "game", title: "GAME TIME", rec: "BV1tKMNzAEKj", reason:"游戏：超阈限空间"},
     { date: "2025-06-13 20:00+08:00", type: "sub", title: "好久没有海龟汤了", rec: "BV15vMzz3EER", },
     { date: "2025-06-14 19:00+08:00", type: "watch", title: "三国能完结吗O.O", rec: "BV1ZxMUzME4D", },
     { date: "2025-06-15 19:00+08:00", type: "fitness", title: "健！身！环！", rec: "BV1QPM8z6ELg", },
