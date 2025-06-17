@@ -61,7 +61,7 @@ export const events: WeekItem[] = [
     { date: "2025-06-03 19:00+08:00", type: "special", title: "赌博警示录", rec: "BV1o57ezQEru", },
     { date: "2025-06-04 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-06-05 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-06-06 20:00+08:00", type: "game", title: "GAME TIME", rec: "BV1FsTgzaEVd", reason:"游戏:超阈限空间"},
+    { date: "2025-06-06 20:00+08:00", type: "game", title: "GAME TIME", rec: "BV1FsTgzaEVd", reason:"游戏：超阈限空间"},
     { date: "2025-06-07 19:00+08:00", type: "watch", title: "给丞相哭丧勿扰", rec: "BV1NnTUzUEZL", },
     { date: "2025-06-08 19:00+08:00", type: "radio", title: "玉玉电台", rec: "BV1byT9zqEGR", },
   ] },
