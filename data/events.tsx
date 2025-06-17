@@ -36,7 +36,7 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
-    { year: 2025, week: 24, bilibili_url: "", events: [
+    { year: 2025, week: 24, bilibili_url: "1079415720640512021", events: [
     { date: "2025-06-16 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-06-17 20:00+08:00", type: "watch", title: "得斯诺特", rec: "", },
     { date: "2025-06-18 20:00+08:00", type: "rest", title: "", rec: "", },
@@ -50,7 +50,7 @@ export const events: WeekItem[] = [
     { date: "2025-06-09 19:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-06-10 19:00+08:00", type: "watch", title: "夜神月为什么叫LIGHT", rec: "BV1XaMGztEAo", },
     { date: "2025-06-11 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-06-12 20:00+08:00", type: "game", title: "GAME TIME", rec: "BV1tKMNzAEKj", reason:"游戏：超阈限空间"},
+    { date: "2025-06-12 20:00+08:00", type: "game", title: "GAME TIME", rec: "BV1tKMNzAEKj", reason:"游戏:超阈限空间"},
     { date: "2025-06-13 20:00+08:00", type: "sub", title: "好久没有海龟汤了", rec: "BV15vMzz3EER", },
     { date: "2025-06-14 19:00+08:00", type: "watch", title: "三国能完结吗O.O", rec: "BV1ZxMUzME4D", },
     { date: "2025-06-15 19:00+08:00", type: "fitness", title: "健！身！环！", rec: "BV1QPM8z6ELg", },
@@ -61,7 +61,7 @@ export const events: WeekItem[] = [
     { date: "2025-06-03 19:00+08:00", type: "special", title: "赌博警示录", rec: "BV1o57ezQEru", },
     { date: "2025-06-04 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-06-05 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-06-06 20:00+08:00", type: "game", title: "GAME TIME", rec: "BV1FsTgzaEVd", reason:"游戏：超阈限空间"},
+    { date: "2025-06-06 20:00+08:00", type: "game", title: "GAME TIME", rec: "BV1FsTgzaEVd", reason:"游戏:超阈限空间"},
     { date: "2025-06-07 19:00+08:00", type: "watch", title: "给丞相哭丧勿扰", rec: "BV1NnTUzUEZL", },
     { date: "2025-06-08 19:00+08:00", type: "radio", title: "玉玉电台", rec: "BV1byT9zqEGR", },
   ] },
