@@ -36,7 +36,7 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
-    { year: 2025, week: 24, bilibili_url: "", events: [
+    { year: 2025, week: 25, bilibili_url: "1079415720640512021", events: [
     { date: "2025-06-16 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-06-17 20:00+08:00", type: "watch", title: "得斯诺特", rec: "", },
     { date: "2025-06-18 20:00+08:00", type: "rest", title: "", rec: "", },
