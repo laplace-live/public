@@ -10,6 +10,9 @@ export type EventItem = {
   cancelled?: boolean
   reason?: string
   fans_rec?: boolean
+  rawg?: string
+  steam?: number
+  bangumi?: number
 }
 
 export type WeekItem = {
@@ -38,39 +41,39 @@ export const events: WeekItem[] = [
 
     { year: 2025, week: 25, bilibili_url: "1079415720640512021", events: [
     { date: "2025-06-16 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-06-17 20:00+08:00", type: "watch", title: "得斯诺特", rec: "", },
+    { date: "2025-06-17 20:00+08:00", type: "watch", title: "得斯诺特", rec: "", bangumi: 1773 },
     { date: "2025-06-18 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-06-19 20:00+08:00", type: "game", title: "GAME TIME", rec: "", },
+    { date: "2025-06-19 20:00+08:00", type: "game", title: "GAME TIME", rec: "", steam: 3350200 },
     { date: "2025-06-20 20:00+08:00", type: "sub", title: "粉丝投稿回", rec: "", },
-    { date: "2025-06-21 19:00+08:00", type: "game", title: "多重人生", rec: "", },
+    { date: "2025-06-21 19:00+08:00", type: "game", title: "多重人生", rec: "", reason: '改播《捞女游戏》', steam: 3350200 },
     { date: "2025-06-22 19:00+08:00", type: "radio", title: "奶绿说书电台版", rec: "", },
   ] },
 
   { year: 2025, week: 24, bilibili_url: "1076827135265472513", events: [
     { date: "2025-06-09 19:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-06-10 19:00+08:00", type: "watch", title: "夜神月为什么叫LIGHT", rec: "BV1XaMGztEAo", },
+    { date: "2025-06-10 19:00+08:00", type: "watch", title: "夜神月为什么叫LIGHT", rec: "BV1XaMGztEAo", bangumi: 1773 },
     { date: "2025-06-11 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-06-12 20:00+08:00", type: "game", title: "GAME TIME", rec: "BV1tKMNzAEKj", reason:"游戏：超阈限空间"},
+    { date: "2025-06-12 20:00+08:00", type: "game", title: "GAME TIME", rec: "BV1tKMNzAEKj", reason:"游戏：超阈限空间", steam: 1049410 },
     { date: "2025-06-13 20:00+08:00", type: "sub", title: "好久没有海龟汤了", rec: "BV15vMzz3EER", },
     { date: "2025-06-14 19:00+08:00", type: "watch", title: "三国能完结吗O.O", rec: "BV1ZxMUzME4D", },
     { date: "2025-06-15 19:00+08:00", type: "fitness", title: "健！身！环！", rec: "BV1QPM8z6ELg", },
   ] },
 
   { year: 2025, week: 23, bilibili_url: "1074576817238573057", events: [
-    { date: "2025-06-02 19:00+08:00", type: "watch", title: "端午最后一天！", rec: "BV1sR7QzEEgh", },
+    { date: "2025-06-02 19:00+08:00", type: "watch", title: "端午最后一天！", rec: "BV1sR7QzEEgh", bangumi: 1773 },
     { date: "2025-06-03 19:00+08:00", type: "special", title: "赌博警示录", rec: "BV1o57ezQEru", },
     { date: "2025-06-04 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-06-05 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-06-06 20:00+08:00", type: "game", title: "GAME TIME", rec: "BV1FsTgzaEVd", reason:"游戏：超阈限空间"},
+    { date: "2025-06-06 20:00+08:00", type: "game", title: "GAME TIME", rec: "BV1FsTgzaEVd", reason:"游戏：超阈限空间", steam: 1049410 },
     { date: "2025-06-07 19:00+08:00", type: "watch", title: "给丞相哭丧勿扰", rec: "BV1NnTUzUEZL", },
     { date: "2025-06-08 19:00+08:00", type: "radio", title: "玉玉电台", rec: "BV1byT9zqEGR", },
   ] },
 
   { year: 2025, week: 22, bilibili_url: "1071632346550108181", events: [
     { date: "2025-05-26 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-05-27 20:00+08:00", type: "watch", title: "你的名字是 ?", rec: "BV1MmjozvEwN", },
+    { date: "2025-05-27 20:00+08:00", type: "watch", title: "你的名字是 ?", rec: "BV1MmjozvEwN", bangumi: 1773 },
     { date: "2025-05-28 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-05-29 20:00+08:00", type: "game", title: "GAME TIME", rec: "BV1uJ7jzxE9a", },
+    { date: "2025-05-29 20:00+08:00", type: "game", title: "GAME TIME", rec: "BV1uJ7jzxE9a", steam: 2719030 },
     { date: "2025-05-30 20:00+08:00", type: "watch", title: "看会三国", rec: "BV1WK7szTEJ5", },
     { date: "2025-05-31 19:00+08:00", type: "watch", title: "还是想看三国qwq", rec: "BV1o87Mz1EBq", },
     { date: "2025-06-01 19:00+08:00", type: "special", title: "节日快乐", rec: "BV1Dy7kzPEuo", },
@@ -78,9 +81,9 @@ export const events: WeekItem[] = [
 
   { year: 2025, week: 21, bilibili_url: "1069017862518079504", events: [
     { date: "2025-05-19 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-05-20 20:00+08:00", type: "watch", title: "你的名字(?", rec: "BV1STJez5EJE", },
+    { date: "2025-05-20 20:00+08:00", type: "watch", title: "你的名字(?", rec: "BV1STJez5EJE", bangumi: 1773 },
     { date: "2025-05-21 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-05-22 20:00+08:00", type: "game", title: "GAME TIME", rec: "BV1AJJpzqEFG", },
+    { date: "2025-05-22 20:00+08:00", type: "game", title: "GAME TIME", rec: "BV1AJJpzqEFG", steam: 1762930 },
     { date: "2025-05-23 20:00+08:00", type: "watch", title: "二哥不要死啊T T", rec: "BV1UHjHzvELK", },
     { date: "2025-05-24 19:00+08:00", type: "sub", title: "梦境之花", rec: "", },
     { date: "2025-05-25 19:00+08:00", type: "radio", title: "电台时间", rec: "BV1JAjGzoEER", },
@@ -90,8 +93,8 @@ export const events: WeekItem[] = [
     { date: "2025-05-12 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-05-13 20:00+08:00", type: "watch", title: "啥也不想干就想看三国", rec: "BV1oDEPzzE4X", },
     { date: "2025-05-14 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-05-15 20:00+08:00", type: "game", title: "GAME TIME", rec: "BV1AhEpzKEmX", },
-    { date: "2025-05-16 20:00+08:00", type: "game", title: "什么超级键盘侠", rec: "BV149EtzREVp", },
+    { date: "2025-05-15 20:00+08:00", type: "game", title: "GAME TIME", rec: "BV1AhEpzKEmX", steam: 1762930 },
+    { date: "2025-05-16 20:00+08:00", type: "game", title: "什么超级键盘侠", rec: "BV149EtzREVp", steam: 2719030 },
     { date: "2025-05-17 19:00+08:00", type: "sub", title: "梦境之花", rec: "BV1hRJKzBEDM", },
     { date: "2025-05-18 19:00+08:00", type: "watch", title: "看会三国qwq", rec: "BV1AJEUzzE3J", },
   ] },
@@ -102,7 +105,7 @@ export const events: WeekItem[] = [
     { date: "2025-05-07 20:00+08:00", type: "watch", title: "节后综合症了（？", rec: "BV1tFVeztEto", },
     { date: "2025-05-08 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-05-09 20:00+08:00", type: "watch", title: "看三国", rec: "BV1ovVQz4EhZ", },
-    { date: "2025-05-10 19:00+08:00", type: "game", title: "无限机兵", rec: "BV1Kh5FzAEnU", },
+    { date: "2025-05-10 19:00+08:00", type: "game", title: "无限机兵", rec: "BV1Kh5FzAEnU", steam: 2407270 },
     { date: "2025-05-11 19:00+08:00", type: "sub", title: "棉花糖_(:з)∠)_", rec: "BV1ZAEVzYEok", },
   ] },
 
@@ -112,7 +115,7 @@ export const events: WeekItem[] = [
     { date: "2025-04-30 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-05-01 19:00+08:00", type: "watch", title: "五一快乐～看会三国", rec: "BV1cLGzzfEuh", },
     { date: "2025-05-02 19:00+08:00", type: "special", title: "抽个倒霉蛋被我画头像！", rec: "BV1XeVVzCEnq", },
-    { date: "2025-05-03 19:00+08:00", type: "game", title: "GAME TIME", rec: "BV1B5GZzGEvk", },
+    { date: "2025-05-03 19:00+08:00", type: "game", title: "GAME TIME", rec: "BV1B5GZzGEvk", steam: 1030840 },
     { date: "2025-05-04 19:00+08:00", type: "watch", title: "还是想看三国T T", rec: "BV11LVKzCEs5", },
   ] },
 
@@ -120,17 +123,17 @@ export const events: WeekItem[] = [
     { date: "2025-04-21 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-04-22 20:00+08:00", type: "watch", title: "腰酸背疼看会三国", rec: "BV1s55dzHECR", },
     { date: "2025-04-23 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-04-24 20:00+08:00", type: "game", title: "四海兄弟", rec: "BV1HuLGzfE8f", },
+    { date: "2025-04-24 20:00+08:00", type: "game", title: "四海兄弟", rec: "BV1HuLGzfE8f", steam: 1030840 },
     { date: "2025-04-25 20:00+08:00", type: "sub", title: "电台一下！", rec: "BV1xoLnzfEQC", },
     { date: "2025-04-26 19:00+08:00", type: "watch", title: "不想看别的还得是三国", rec: "BV1oHLZz7Epe", },
-    { date: "2025-04-27 19:00+08:00", type: "game", title: "GAME TIME", rec: "BV1XBLzz9E5Z", },
+    { date: "2025-04-27 19:00+08:00", type: "game", title: "GAME TIME", rec: "BV1XBLzz9E5Z", steam: 1903340 },
   ] },
 
   { year: 2025, week: 16, bilibili_url: "1056038574446608386", events: [
     { date: "2025-04-14 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-04-15 20:00+08:00", type: "watch", title: "玩游戏不如看恐怖片", rec: "BV1YVocYGEoj", },
     { date: "2025-04-16 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-04-17 20:00+08:00", type: "game", title: "四海兄弟", rec: "BV19w5qz2EGa", },
+    { date: "2025-04-17 20:00+08:00", type: "game", title: "四海兄弟", rec: "BV19w5qz2EGa", steam: 1030840 },
     { date: "2025-04-18 20:00+08:00", type: "sub", title: "看二创续！", rec: "BV1pa5Ez5Ebe", },
     { date: "2025-04-19 19:00+08:00", type: "watch", title: "我的好皇叔", rec: "BV17w58zeE3G", },
     { date: "2025-04-20 19:00+08:00", type: "fitness", title: "健身环！", rec: "BV1TWLPz7E9N", },
@@ -140,10 +143,10 @@ export const events: WeekItem[] = [
     { date: "2025-04-07 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-04-08 20:00+08:00", type: "radio", title: "电台时间", rec: "BV1ZndxYSE1z", },
     { date: "2025-04-09 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-04-10 20:00+08:00", type: "game", title: "四海兄弟", rec: "BV1gBd5YzENB", },
+    { date: "2025-04-10 20:00+08:00", type: "game", title: "四海兄弟", rec: "BV1gBd5YzENB", steam: 1030840 },
     { date: "2025-04-11 20:00+08:00", type: "sub", title: "看二创来了！", rec: "BV1wBdSY4EMC", },
     { date: "2025-04-12 19:00+08:00", type: "watch", title: "皇叔我的好皇叔T T", rec: "BV1nUdYYyERW", },
-    { date: "2025-04-13 19:00+08:00", type: "game", title: "黑暗世界因与果", rec: "BV1sZdrY6E5i", },
+    { date: "2025-04-13 19:00+08:00", type: "game", title: "黑暗世界因与果", rec: "BV1sZdrY6E5i", steam: 1376200 },
   ] },
 
   { year: 2025, week: 14, bilibili_url: "1051221150114250757", events: [
@@ -160,7 +163,7 @@ export const events: WeekItem[] = [
     { date: "2025-03-24 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-03-25 20:00+08:00", type: "watch", title: "好久没看电影解说了", rec: "BV1jyohYYEJX", },
     { date: "2025-03-26 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-03-27 20:00+08:00", type: "game", title: "GAME TIME", rec: "BV1noZLYAEcF", },
+    { date: "2025-03-27 20:00+08:00", type: "collab", title: "GAME TIME", rec: "BV1noZLYAEcF", steam: 2001120 },
     { date: "2025-03-28 20:00+08:00", type: "watch", title: "貌似很好看的INZOL", rec: "BV1veooYKEu1", },
     { date: "2025-03-29 19:00+08:00", type: "watch", title: "看三国", rec: "BV1GHZaYwET9", },
     { date: "2025-03-30 19:00+08:00", type: "sub", title: "棉花糖", rec: "BV1QiZ6YXERb", },
@@ -169,8 +172,8 @@ export const events: WeekItem[] = [
   { year: 2025, week: 12, bilibili_url: "1045635296064962561", events: [
     { date: "2025-03-17 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-03-18 20:00+08:00", type: "watch", title: "看会春晚", rec: "BV1nRXjYREdT", },
-    { date: "2025-03-19 20:00+08:00", type: "game", title: "刺客信条影", rec: "BV1gCQZYnEEq", },
-    { date: "2025-03-20 20:00+08:00", type: "collab", title: "雫绿的双影奇境之旅", rec: "BV1xwXqYQEVi", },
+    { date: "2025-03-19 20:00+08:00", type: "game", title: "刺客信条影", rec: "BV1gCQZYnEEq", steam: 3159330 },
+    { date: "2025-03-20 20:00+08:00", type: "collab", title: "雫绿的双影奇境之旅", rec: "BV1xwXqYQEVi", steam: 2001120 },
     { date: "2025-03-21 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-03-22 19:00+08:00", type: "watch", title: "乒乓", rec: "BV1ruXxY7Exz", },
     { date: "2025-03-23 19:00+08:00", type: "radio", title: "周末晚间电台", rec: "BV1FtoBYtEzP", },
