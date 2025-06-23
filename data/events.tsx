@@ -2,22 +2,35 @@ import type { eventTypeMap } from '@/data/maps'
 
 export type EventType = keyof typeof eventTypeMap
 
-export type EventItem = {
+export interface EventItem {
+  /** 日期字符串，格式 YYYY-MM-DD */
   date: string
+  /** 日程类型 */
   type: EventType
+  /** 日程标题 */
   title: string
+  /** 录播链接，此应填入完整 URL */
   rec?: string
+  /** 是否被取消，此字段用于 iCal 日历 */
   cancelled?: boolean
+  /** 取消原因 */
   reason?: string
+  /** 录播是否为第三方录入 */
   fans_rec?: boolean
+  /** RAWG ID */
   rawg?: string
+  /** Steam 游戏 ID */
   steam?: number
+  /** Bangumi.tv ID */
   bangumi?: number
 }
 
-export type WeekItem = {
+export interface WeekItem {
+  /** 年份，例如 2024 */
   year: number
+  /** 当前周数，例如 19 */
   week: number
+  /** 哔哩哔哩动态对应 ID，只需要填入 ID 即可 */
   bilibili_url?: string
   events: EventItem[]
 }
