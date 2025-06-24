@@ -51,15 +51,25 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
+  
+  { year: 2025, week: 26, bilibili_url: "1082020880301686790", events: [
+    { date: "2025-06-23 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-06-24 20:00+08:00", type: "watch", title: "找点东西看", rec: "",},
+    { date: "2025-06-25 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-06-26 20:00+08:00", type: "game", title: "GAME TIME", rec: "",},
+    { date: "2025-06-27 20:00+08:00", type: "sub", title: "粉丝投稿回", rec: "", },
+    { date: "2025-06-28 19:00+08:00", type: "game", title: "多重人生", rec: "", steam: 1601570 },
+    { date: "2025-06-29 19:00+08:00", type: "sub", title: "棉花糖", rec: "", },
+  ] },
 
-    { year: 2025, week: 25, bilibili_url: "1079415720640512021", events: [
+  { year: 2025, week: 25, bilibili_url: "1079415720640512021", events: [
     { date: "2025-06-16 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-06-17 20:00+08:00", type: "watch", title: "得斯诺特", rec: "", bangumi: 1773 },
+    { date: "2025-06-17 20:00+08:00", type: "watch", title: "得斯诺特", rec: "BV1G9NBzbEB9", bangumi: 1773 },
     { date: "2025-06-18 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-06-19 20:00+08:00", type: "game", title: "GAME TIME", rec: "", steam: 3350200 },
-    { date: "2025-06-20 20:00+08:00", type: "sub", title: "粉丝投稿回", rec: "", },
-    { date: "2025-06-21 19:00+08:00", type: "game", title: "多重人生", rec: "", reason: '改播《捞女游戏》', steam: 3350200 },
-    { date: "2025-06-22 19:00+08:00", type: "radio", title: "奶绿说书电台版", rec: "", },
+    { date: "2025-06-19 20:00+08:00", type: "game", title: "GAME TIME", rec: "BV1H4NozfEyY", steam: 3350200 },
+    { date: "2025-06-20 20:00+08:00", type: "sub", title: "粉丝投稿回", rec: "BV1VcKKzBEGg", },
+    { date: "2025-06-21 19:00+08:00", type: "game", title: "多重人生", rec: "BV1vkNmzoERu", reason: '改播《捞女游戏》', steam: 3350200 },
+    { date: "2025-06-22 19:00+08:00", type: "radio", title: "奶绿说书电台版", rec: "BV1VEN9zBEYt", },
   ] },
 
   { year: 2025, week: 24, bilibili_url: "1076827135265472513", events: [
