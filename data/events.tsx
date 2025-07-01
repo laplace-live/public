@@ -55,7 +55,7 @@ export const events: WeekItem[] = [
     { year: 2025, week: 27, bilibili_url: "1084601507105472516", events: [
     { date: "2025-06-30 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-07-01 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-07-02 20:00+08:00", type: "watch", title: "嗜谎者", rec: "",  bangumi: 67104 },
+    { date: "2025-07-02 20:00+08:00", type: "watch", title: "嗜谎者", rec: "",  bangumi: 67104, reason: "错字，应为噬谎者" },
     { date: "2025-07-03 20:00+08:00", type: "game", title: "多重人生", rec: "", steam: 1601570 },
     { date: "2025-07-04 20:00+08:00", type: "watch", title: "魔法少女小圆", rec: "", },
     { date: "2025-07-05 19:00+08:00", type: "sub", title: "梦境之花", rec: "",reason: "https://www.bilibili.com/opus/1084602933048246280" },
