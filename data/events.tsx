@@ -51,15 +51,25 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
+
+    { year: 2025, week: 27, bilibili_url: "1084601507105472516", events: [
+    { date: "2025-06-30 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-07-01 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-07-02 20:00+08:00", type: "watch", title: "噬谎者", rec: "",  bangumi: 67104 },
+    { date: "2025-07-03 20:00+08:00", type: "game", title: "多重人生", rec: "", steam: 1601570 },
+    { date: "2025-07-04 20:00+08:00", type: "watch", title: "魔法少女小圆", rec: "", },
+    { date: "2025-07-05 19:00+08:00", type: "sub", title: "梦境之花", rec: "",reason: "https://www.bilibili.com/opus/1084602933048246280" },
+    { date: "2025-07-06 19:00+08:00", type: "game", title: "GAME TIME", rec: "", },
+  ] },
   
   { year: 2025, week: 26, bilibili_url: "1082020880301686790", events: [
     { date: "2025-06-23 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-06-24 20:00+08:00", type: "watch", title: "找点东西看", rec: "", bangumi: 67104 },
+    { date: "2025-06-24 20:00+08:00", type: "watch", title: "找点东西看", rec: "BV1VLK5zcEJC", bangumi: 67104 },
     { date: "2025-06-25 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-06-26 20:00+08:00", type: "game", title: "GAME TIME", rec: "",},
-    { date: "2025-06-27 20:00+08:00", type: "sub", title: "粉丝投稿回", rec: "", },
-    { date: "2025-06-28 19:00+08:00", type: "game", title: "多重人生", rec: "", steam: 1601570 },
-    { date: "2025-06-29 19:00+08:00", type: "sub", title: "棉花糖", rec: "", },
+    { date: "2025-06-26 20:00+08:00", type: "game", title: "GAME TIME", rec: "BV1wBKZzNEBn", steam: 1601570 },
+    { date: "2025-06-27 20:00+08:00", type: "sub", title: "粉丝投稿回", rec: "BV17dKrzmEf9", },
+    { date: "2025-06-28 19:00+08:00", type: "game", title: "多重人生", rec: "BV15Bg9zpEUE", steam: 1601570 },
+    { date: "2025-06-29 19:00+08:00", type: "sub", title: "棉花糖", rec: "BV1xb3wzhEzg", },
   ] },
 
   { year: 2025, week: 25, bilibili_url: "1079415720640512021", events: [
