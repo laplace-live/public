@@ -52,14 +52,24 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
-    { year: 2025, week: 27, bilibili_url: "1084601507105472516", events: [
+  { year: 2025, week: 28, bilibili_url: "1087549843251920905", events: [
+    { date: "2025-07-07 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-07-08 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-07-09 20:00+08:00", type: "sub", title: "梦境之花 续", rec: "" },
+    { date: "2025-07-10 10:00+08:00", type: "special", title: "客服小绿为您服务", rec: "" },
+    { date: "2025-07-11 20:00+08:00", type: "watch", title: "我推荐的视频", rec: "" },
+    { date: "2025-07-12 12:00+08:00", type: "special", title: "BILIBILIWORLD", rec: "", reason: "晚七点亦直播"},
+    { date: "2025-07-13 14:00+08:00", type: "special", title: "逛街ING", rec: "" },
+  ] },
+
+  { year: 2025, week: 27, bilibili_url: "1084601507105472516", events: [
     { date: "2025-06-30 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-07-01 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-07-02 20:00+08:00", type: "watch", title: "嗜谎者", rec: "",  bangumi: 67104, reason: "错字，应为噬谎者" },
-    { date: "2025-07-03 20:00+08:00", type: "game", title: "多重人生", rec: "", steam: 1601570 },
-    { date: "2025-07-04 20:00+08:00", type: "watch", title: "魔法少女小圆", rec: "", },
-    { date: "2025-07-05 19:00+08:00", type: "sub", title: "梦境之花", rec: "",reason: "https://www.bilibili.com/opus/1084602933048246280" },
-    { date: "2025-07-06 19:00+08:00", type: "game", title: "GAME TIME", rec: "", },
+    { date: "2025-07-02 20:00+08:00", type: "watch", title: "嗜谎者", rec: "BV1zX3bzfExP",  bangumi: 67104, reason: "错字，应为噬谎者" },
+    { date: "2025-07-03 20:00+08:00", type: "game", title: "多重人生", rec: "BV1jM3VzyE9r", steam: 1601570 },
+    { date: "2025-07-04 20:00+08:00", type: "watch", title: "魔法少女小圆", rec: "BV1qh3Uz1E42", },
+    { date: "2025-07-05 19:00+08:00", type: "sub", title: "梦境之花", rec: "BV1zC3ozzEWQ",reason: "https://www.bilibili.com/opus/1084602933048246280" },
+    { date: "2025-07-06 19:00+08:00", type: "game", title: "GAME TIME", rec: "BV1Dy3qzTE5z", steam: 1601570 },
   ] },
   
   { year: 2025, week: 26, bilibili_url: "1082020880301686790", events: [
