@@ -52,14 +52,24 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
+  { year: 2025, week: 29, bilibili_url: "1089808356108927016", events: [
+    { date: "2025-07-14 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-07-15 20:00+08:00", type: "watch", title: "看会大傻子", rec: "" },
+    { date: "2025-07-16 20:00+08:00", type: "rest", title: "", rec: "" },
+    { date: "2025-07-17 20:00+08:00", type: "game", title: "试试狒狒7", rec: "", steam: 2909400 },
+    { date: "2025-07-18 20:00+08:00", type: "game", title: "GAME TIME", rec: "" },
+    { date: "2025-07-19 19:00+08:00", type: "watch", title: "魔法少女小圆", rec: "", bangumi: 9717 },
+    { date: "2025-07-20 19:00+08:00", type: "fitness", title: "健身环", rec: "" },
+  ] },
+
   { year: 2025, week: 28, bilibili_url: "1087549843251920905", events: [
     { date: "2025-07-07 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-07-08 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-07-09 20:00+08:00", type: "sub", title: "梦境之花 续", rec: "" },
-    { date: "2025-07-10 10:00+08:00", type: "special", title: "客服小绿为您服务", rec: "" },
-    { date: "2025-07-11 20:00+08:00", type: "watch", title: "我推荐的视频", rec: "" },
-    { date: "2025-07-12 12:00+08:00", type: "special", title: "BILIBILIWORLD", rec: "", reason: "晚七点亦直播"},
-    { date: "2025-07-13 14:00+08:00", type: "special", title: "逛街ING", rec: "" },
+    { date: "2025-07-09 20:00+08:00", type: "sub", title: "梦境之花 续", rec: "BV1KwGNz6EZT" },
+    { date: "2025-07-10 10:00+08:00", type: "special", title: "客服小绿为您服务", rec: "BV1qDGgzGESw" },
+    { date: "2025-07-11 20:00+08:00", type: "watch", title: "我推荐的视频", rec: "BV1P9u3zEECJ" },
+    { date: "2025-07-12 12:00+08:00", type: "special", title: "BILIBILIWORLD", rec: "BV1UeujziEam", reason: "晚七点亦直播 BV1LqMXz7ESZ"},
+    { date: "2025-07-13 14:00+08:00", type: "special", title: "逛街ING", rec: "BV1zWuFzuEsN", reason: "另：大舞台后直播了约一小时左右 BV1JyuczyEWL" },
   ] },
 
   { year: 2025, week: 27, bilibili_url: "1084601507105472516", events: [
@@ -67,7 +77,7 @@ export const events: WeekItem[] = [
     { date: "2025-07-01 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-07-02 20:00+08:00", type: "watch", title: "嗜谎者", rec: "BV1zX3bzfExP",  bangumi: 67104, reason: "错字，应为噬谎者" },
     { date: "2025-07-03 20:00+08:00", type: "game", title: "多重人生", rec: "BV1jM3VzyE9r", steam: 1601570 },
-    { date: "2025-07-04 20:00+08:00", type: "watch", title: "魔法少女小圆", rec: "BV1qh3Uz1E42", },
+    { date: "2025-07-04 20:00+08:00", type: "watch", title: "魔法少女小圆", rec: "BV1qh3Uz1E42", bangumi: 9717 },
     { date: "2025-07-05 19:00+08:00", type: "sub", title: "梦境之花", rec: "BV1zC3ozzEWQ",reason: "https://www.bilibili.com/opus/1084602933048246280" },
     { date: "2025-07-06 19:00+08:00", type: "game", title: "GAME TIME", rec: "BV1Dy3qzTE5z", steam: 1601570 },
   ] },
