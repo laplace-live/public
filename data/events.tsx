@@ -58,7 +58,7 @@ export const events: WeekItem[] = [
     { date: "2025-07-16 20:00+08:00", type: "rest", title: "", rec: "" },
     { date: "2025-07-17 20:00+08:00", type: "game", title: "试试狒狒7", rec: "", steam: 2909400 },
     { date: "2025-07-18 20:00+08:00", type: "game", title: "GAME TIME", rec: "" },
-    { date: "2025-07-19 19:00+08:00", type: "watch", title: "魔法少女小圆", rec: "" },
+    { date: "2025-07-19 19:00+08:00", type: "watch", title: "魔法少女小圆", rec: "", bangumi: 9717 },
     { date: "2025-07-20 19:00+08:00", type: "fitness", title: "健身环", rec: "" },
   ] },
 
@@ -77,7 +77,7 @@ export const events: WeekItem[] = [
     { date: "2025-07-01 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-07-02 20:00+08:00", type: "watch", title: "嗜谎者", rec: "BV1zX3bzfExP",  bangumi: 67104, reason: "错字，应为噬谎者" },
     { date: "2025-07-03 20:00+08:00", type: "game", title: "多重人生", rec: "BV1jM3VzyE9r", steam: 1601570 },
-    { date: "2025-07-04 20:00+08:00", type: "watch", title: "魔法少女小圆", rec: "BV1qh3Uz1E42", },
+    { date: "2025-07-04 20:00+08:00", type: "watch", title: "魔法少女小圆", rec: "BV1qh3Uz1E42", bangumi: 9717 },
     { date: "2025-07-05 19:00+08:00", type: "sub", title: "梦境之花", rec: "BV1zC3ozzEWQ",reason: "https://www.bilibili.com/opus/1084602933048246280" },
     { date: "2025-07-06 19:00+08:00", type: "game", title: "GAME TIME", rec: "BV1Dy3qzTE5z", steam: 1601570 },
   ] },
