@@ -56,7 +56,7 @@ export const events: WeekItem[] = [
     { date: "2025-07-14 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-07-15 20:00+08:00", type: "watch", title: "看会大傻子", rec: "" },
     { date: "2025-07-16 20:00+08:00", type: "rest", title: "", rec: "" },
-    { date: "2025-07-17 20:00+08:00", type: "game", title: "试试狒狒7", rec: "" },
+    { date: "2025-07-17 20:00+08:00", type: "game", title: "试试狒狒7", rec: "", steam: 2909400 },
     { date: "2025-07-18 20:00+08:00", type: "game", title: "GAME TIME", rec: "" },
     { date: "2025-07-19 19:00+08:00", type: "watch", title: "魔法少女小圆", rec: "" },
     { date: "2025-07-20 19:00+08:00", type: "fitness", title: "健身环", rec: "" },
