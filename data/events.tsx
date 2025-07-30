@@ -52,14 +52,24 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
+  { year: 2025, week: 31, bilibili_url: "1094822824922578948", events: [
+    { date: "2025-07-28 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-07-29 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-07-30 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-07-31 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-08-01 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-08-02 19:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-08-03 19:00+08:00", type: "rest", title: "", rec: "", },
+  ] },
+
   { year: 2025, week: 30, bilibili_url: "1092392904204222465", events: [
     { date: "2025-07-21 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-07-22 20:00+08:00", type: "watch", title: "看会大傻子", rec: "" },
+    { date: "2025-07-22 20:00+08:00", type: "watch", title: "看会大傻子", rec: "BV1X3gxzTEGh" },
     { date: "2025-07-23 20:00+08:00", type: "rest", title: "", rec: "" },
-    { date: "2025-07-24 20:00+08:00", type: "game", title: "明末渊虚之羽", rec: "", steam: 2277560 },
-    { date: "2025-07-25 20:00+08:00", type: "game", title: "继续明末", rec: "", steam: 22277560 },
+    { date: "2025-07-24 20:00+08:00", type: "game", title: "明末渊虚之羽", rec: "BV15DbCzuEam", steam: 2277560 },
+    { date: "2025-07-25 20:00+08:00", type: "game", title: "继续明末", rec: "BV1otbdzkEVt", steam: 22277560 },
     { date: "2025-07-26 19:00+08:00", type: "sub", title: "梦境之花", rec: "", reason: "https://www.bilibili.com/opus/1092393063124303896" },
-    { date: "2025-07-27 19:00+08:00", type: "watch", title: "再看会大傻子", rec: "" },
+    { date: "2025-07-27 19:00+08:00", type: "watch", title: "再看会大傻子", rec: "BV1oL8GzRErq" },
   ] },
 
   { year: 2025, week: 29, bilibili_url: "1089808356108927016", events: [
