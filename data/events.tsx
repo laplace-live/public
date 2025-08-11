@@ -52,6 +52,16 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
+  { year: 2025, week: 32, bilibili_url: "1094822824922578948", events: [
+    { date: "2025-08-04 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-08-05 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-08-06 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-08-07 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-08-08 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-08-09 19:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-08-10 19:00+08:00", type: "rest", title: "", rec: "", },
+  ] },
+
   { year: 2025, week: 31, bilibili_url: "1094822824922578948", events: [
     { date: "2025-07-28 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-07-29 20:00+08:00", type: "rest", title: "", rec: "", },
