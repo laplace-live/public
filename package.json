@@ -2,16 +2,15 @@
   "name": "laplace-public",
   "module": "index.ts",
   "scripts": {
-    "test": "bunx @biomejs/biome lint data/ && bun test"
+    "test": "biome check data/ && bun test"
   },
   "devDependencies": {
-    "@biomejs/biome": "^1.8.0",
+    "@biomejs/biome": "^2.2.0",
     "@types/bun": "latest",
-    "prettier": "^3.3.1",
-    "zod": "^3.23.8"
+    "zod": "^4.0.17"
   },
   "peerDependencies": {
-    "typescript": "^5.3.3"
+    "typescript": "^5.9.2"
   },
   "packageManager": "bun@1.1.0"
 }

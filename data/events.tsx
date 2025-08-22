@@ -35,7 +35,7 @@ export interface WeekItem {
   events: EventItem[]
 }
 
-// prettier-ignore
+// biome-ignore format: keep long lines for readability
 export const events: WeekItem[] = [
 
   // Tools
@@ -111,7 +111,7 @@ export const events: WeekItem[] = [
     { date: "2025-07-05 19:00+08:00", type: "sub", title: "梦境之花", rec: "BV1zC3ozzEWQ",reason: "https://www.bilibili.com/opus/1084602933048246280" },
     { date: "2025-07-06 19:00+08:00", type: "game", title: "GAME TIME", rec: "BV1Dy3qzTE5z", steam: 1601570 },
   ] },
-  
+
   { year: 2025, week: 26, bilibili_url: "1082020880301686790", events: [
     { date: "2025-06-23 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-06-24 20:00+08:00", type: "watch", title: "找点东西看", rec: "BV1VLK5zcEJC", bangumi: 67104 },
