@@ -53,23 +53,23 @@ export const events: WeekItem[] = [
   // ] },
 
   { year: 2025, week: 36, bilibili_url: "1107940617077391362", events: [
-    { date: "2025-08-31 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-09-01 20:00+08:00", type: "game", title: "渊虚之羽", rec: "", steam: 2277560 },
-    { date: "2025-09-02 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-09-03 20:00+08:00", type: "game", title: "渊虚之羽", rec: "", steam: 2277560 },
-    { date: "2025-09-04 20:00+08:00", type: "watch", title: "红", rec: "", },
-    { date: "2025-09-05 19:00+08:00", type: "watch", title: "楼", rec: "", },
-    { date: "2025-09-06 19:00+08:00", type: "watch", title: "梦", rec: "", },
+    { date: "2025-09-01 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-09-02 20:00+08:00", type: "game", title: "渊虚之羽", rec: "", steam: 2277560 },
+    { date: "2025-09-03 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-09-04 20:00+08:00", type: "game", title: "渊虚之羽", rec: "", steam: 2277560 },
+    { date: "2025-09-05 20:00+08:00", type: "watch", title: "红", rec: "", },
+    { date: "2025-09-06 19:00+08:00", type: "watch", title: "楼", rec: "", },
+    { date: "2025-09-07 19:00+08:00", type: "watch", title: "梦", rec: "", },
   ] },
 
   { year: 2025, week: 35, bilibili_url: "1094822824922578948", events: [
-    { date: "2025-08-24 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-08-25 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-08-26 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-08-27 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-08-28 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-08-29 19:00+08:00", type: "chat", title: "来辣！", rec: "BV14xhZzzEZn", },
     { date: "2025-08-30 19:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-08-31 19:00+08:00", type: "rest", title: "", rec: "", },
   ] },
 
   { year: 2025, week: 30, bilibili_url: "1092392904204222465", events: [
