@@ -52,24 +52,14 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
-  { year: 2025, week: 32, bilibili_url: "1094822824922578948", events: [
-    { date: "2025-08-04 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-08-05 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-08-06 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-08-07 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-08-08 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-08-09 19:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-08-10 19:00+08:00", type: "rest", title: "", rec: "", },
-  ] },
-
-  { year: 2025, week: 31, bilibili_url: "1094822824922578948", events: [
-    { date: "2025-07-28 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-07-29 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-07-30 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-07-31 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-08-01 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-08-02 19:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-08-03 19:00+08:00", type: "rest", title: "", rec: "", },
+  { year: 2025, week: 35, bilibili_url: "1094822824922578948", events: [
+    { date: "2025-08-24 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-08-25 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-08-26 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-08-27 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-08-28 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-08-29 19:00+08:00", type: "chat", title: "来辣！", rec: "BV14xhZzzEZn", },
+    { date: "2025-08-30 19:00+08:00", type: "rest", title: "", rec: "", },
   ] },
 
   { year: 2025, week: 30, bilibili_url: "1092392904204222465", events: [
