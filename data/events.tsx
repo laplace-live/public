@@ -52,6 +52,16 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
+  { year: 2025, week: 37, bilibili_url: "1110549629347299348", events: [
+    { date: "2025-09-08 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-09-09 20:00+08:00", type: "game", title: "明末", rec: "", steam: 2277560 },
+    { date: "2025-09-10 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-09-11 20:00+08:00", type: "game", title: "魔女审判", rec: "", steam: 3101040 },
+    { date: "2025-09-12 20:00+08:00", type: "watch", title: "奶糖花来推荐", rec: "", },
+    { date: "2025-09-13 19:00+08:00", type: "watch", title: "F1飞车", rec: "", },
+    { date: "2025-09-14 19:00+08:00", type: "fitness", title: "健身环", rec: "", },
+  ] },
+
   { year: 2025, week: 36, bilibili_url: "1107940617077391362", events: [
     { date: "2025-09-01 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-09-02 20:00+08:00", type: "game", title: "渊虚之羽", rec: "", steam: 2277560 },
