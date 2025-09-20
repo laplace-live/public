@@ -52,6 +52,16 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
+  { year: 2025, week: 38, bilibili_url: "1113170508561514530", events: [
+    { date: "2025-09-15 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-09-16 20:00+08:00", type: "game", title: "魔法少女的魔女审判", rec: "", steam: 3101040 },
+    { date: "2025-09-17 20:00+08:00", type: "game", title: "明末", rec: "", steam: 2277560 },
+    { date: "2025-09-18 20:00+08:00", type: "rest", title: "", rec: "" },
+    { date: "2025-09-19 20:00+08:00", type: "watch", title: "看看我的品味", rec: "", },
+    { date: "2025-09-20 19:00+08:00", type: "watch", title: "看恐怖片", rec: "", },
+    { date: "2025-09-21 19:00+08:00", type: "radio", title: "电台时间", rec: "", },
+  ] },
+
   { year: 2025, week: 37, bilibili_url: "1110549629347299348", events: [
     { date: "2025-09-08 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-09-09 20:00+08:00", type: "game", title: "明末", rec: "", steam: 2277560 },
