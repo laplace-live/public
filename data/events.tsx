@@ -58,8 +58,8 @@ export const events: WeekItem[] = [
     { date: "2025-09-24 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-09-25 20:00+08:00", type: "game", title: "魔女审判", rec: "", steam: 2277560 },
     { date: "2025-09-26 20:00+08:00", type: "watch", title: "金田一", rec: "", },
-    { date: "2025-09-28 19:00+08:00", type: "watch", title: "少女终末旅行", rec: "", },
-    { date: "2025-09-29 19:00+08:00", type: "chat", title: "无人深空闲聊", rec: "", steam: 275850},
+    { date: "2025-09-27 19:00+08:00", type: "watch", title: "少女终末旅行", rec: "", },
+    { date: "2025-09-28 19:00+08:00", type: "chat", title: "无人深空闲聊", rec: "", steam: 275850},
   ] },
 
   { year: 2025, week: 38, bilibili_url: "1113170508561514530", events: [
