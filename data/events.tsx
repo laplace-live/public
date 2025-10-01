@@ -52,14 +52,34 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
   
+  // { year: 2025, week: 41, bilibili_url: "1118736657340694530", events: [
+  //   { date: "2025-10-06 19:00+08:00", type: "radio", title: "中秋电台", rec: "", },
+  //   { date: "2025-10-07 20:00+08:00", type: "rest", title: "", rec: "", },
+  //   { date: "2025-10-08 20:00+08:00", type: "rest", title: "", rec: "", },
+  //   { date: "2025-10-09 20:00+08:00", type: "rest", title: "", rec: "", },
+  //   { date: "2025-10-10 20:00+08:00", type: "rest", title: "", rec: "", },
+  //   { date: "2025-10-11 19:00+08:00", type: "rest", title: "", rec: "", },
+  //   { date: "2025-10-12 19:00+08:00", type: "rest", title: "", rec: "", },
+  // ] },  
+  
+  { year: 2025, week: 40, bilibili_url: "1118736657340694530", events: [
+    { date: "2025-09-29 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-09-30 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-10-01 19:00+08:00", type: "watch", title: "国庆节快乐！", rec: "", reason:"片名：家有喜事"},
+    { date: "2025-10-02 19:00+08:00", type: "sing", title: "周年歌回", rec: "", },
+    { date: "2025-10-03 19:00+08:00", type: "game", title: "哑巴屯f", rec: "", steam: 2947440 },
+    { date: "2025-10-04 19:00+08:00", type: "watch", title: "大灌篮", rec: "", },
+    { date: "2025-10-05 19:00+08:00", type: "game", title: "魔法少女审判", rec: "", steam: 2277560 },
+  ] },  
+
   { year: 2025, week: 39, bilibili_url: "1115772824995233794", events: [
     { date: "2025-09-22 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-09-23 20:00+08:00", type: "game", title: "怪力JK勇闯哑巴屯", rec: "", steam: 2947440 },
+    { date: "2025-09-23 20:00+08:00", type: "game", title: "怪力JK勇闯哑巴屯", rec: "BV1DuJmznEMc", steam: 2947440 },
     { date: "2025-09-24 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-09-25 20:00+08:00", type: "game", title: "魔女审判", rec: "", steam: 2277560 },
-    { date: "2025-09-26 20:00+08:00", type: "watch", title: "金田一", rec: "", },
-    { date: "2025-09-27 19:00+08:00", type: "watch", title: "少女终末旅行", rec: "", },
-    { date: "2025-09-28 19:00+08:00", type: "game", title: "无人深空闲聊", rec: "", steam: 275850},
+    { date: "2025-09-25 20:00+08:00", type: "game", title: "魔女审判", rec: "BV1w8nYzeE7C", steam: 2277560 },
+    { date: "2025-09-26 20:00+08:00", type: "watch", title: "金田一", rec: "BV1rin5z2Eke", },
+    { date: "2025-09-27 19:00+08:00", type: "watch", title: "少女终末旅行", rec: "BV1NQnSzWERf", bangumi:218707 },
+    { date: "2025-09-28 19:00+08:00", type: "game", title: "无人深空闲聊", rec: "BV1Y3nZzXEU1", steam: 275850 },
   ] },
 
   { year: 2025, week: 38, bilibili_url: "1113170508561514530", events: [
