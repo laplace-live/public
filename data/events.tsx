@@ -55,11 +55,11 @@ export const events: WeekItem[] = [
   { year: 2025, week: 41, bilibili_url: "1118736657340694530", events: [
     { date: "2025-10-06 19:00+08:00", type: "radio", title: "中秋电台", rec: "", },
     { date: "2025-10-07 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-10-08 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-10-09 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-10-10 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-10-11 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-10-11 19:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-10-12 19:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-10-13 19:00+08:00", type: "rest", title: "", rec: "", },
   ] },  
   
   { year: 2025, week: 40, bilibili_url: "1118736657340694530", events: [
