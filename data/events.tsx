@@ -52,24 +52,24 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
   
-  { year: 2025, week: 41, bilibili_url: "1118736657340694530", events: [
-    { date: "2025-10-06 19:00+08:00", type: "radio", title: "中秋电台", rec: "", },
+  { year: 2025, week: 41, bilibili_url: "1121323803923709961", events: [
+    { date: "2025-10-06 19:00+08:00", type: "radio", title: "中秋电台", rec: "BV1FGxJzTET4", },
     { date: "2025-10-07 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-10-08 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-10-09 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-10-10 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-10-11 19:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-10-12 19:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-10-09 20:00+08:00", type: "watch", title: "赌上爷爷的名誉！", rec: "", reason:"金田一"},
+    { date: "2025-10-10 20:00+08:00", type: "collab", title: "LULV小小梦魇3", rec: "", },
+    { date: "2025-10-11 19:00+08:00", type: "game", title: "魔女审判", rec: "", steam: 2277560 },
+    { date: "2025-10-12 19:00+08:00", type: "watch", title: "终极三国", rec: "", },
   ] },  
   
   { year: 2025, week: 40, bilibili_url: "1118736657340694530", events: [
     { date: "2025-09-29 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-09-30 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-10-01 19:00+08:00", type: "watch", title: "国庆节快乐！", rec: "", reason:"片名：家有喜事"},
-    { date: "2025-10-02 19:00+08:00", type: "sing", title: "周年歌回", rec: "", },
-    { date: "2025-10-03 19:00+08:00", type: "game", title: "哑巴屯f", rec: "", steam: 2947440 },
-    { date: "2025-10-04 19:00+08:00", type: "watch", title: "大灌篮", rec: "", },
-    { date: "2025-10-05 19:00+08:00", type: "game", title: "魔法少女审判", rec: "", steam: 2277560 },
+    { date: "2025-10-01 19:00+08:00", type: "watch", title: "国庆节快乐！", rec: "BV1efHszvEMB", reason:"片名：家有喜事"},
+    { date: "2025-10-02 19:00+08:00", type: "sing", title: "周年歌回", rec: "BV1h8HKzkE6y", },
+    { date: "2025-10-03 19:00+08:00", type: "game", title: "哑巴屯f", rec: "BV1rWH5zUEz2", steam: 2947440 },
+    { date: "2025-10-04 19:00+08:00", type: "watch", title: "大灌篮", rec: "BV1RLx4z7EAt", },
+    { date: "2025-10-05 19:00+08:00", type: "game", title: "魔法少女审判", rec: "BV13hxgzAEhm", steam: 2277560 },
   ] },  
 
   { year: 2025, week: 39, bilibili_url: "1115772824995233794", events: [
