@@ -56,7 +56,7 @@ export const events: WeekItem[] = [
     { date: "2025-10-06 19:00+08:00", type: "radio", title: "中秋电台", rec: "BV1FGxJzTET4", },
     { date: "2025-10-07 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-10-08 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-10-09 20:00+08:00", type: "watch", title: "堵上爷爷的名誉！", rec: "", reason:"金田一"},
+    { date: "2025-10-09 20:00+08:00", type: "watch", title: "赌上爷爷的名誉！", rec: "", reason:"金田一"},
     { date: "2025-10-10 20:00+08:00", type: "collab", title: "LULV小小梦魇3", rec: "", },
     { date: "2025-10-11 19:00+08:00", type: "game", title: "魔女审判", rec: "", steam: 2277560 },
     { date: "2025-10-12 19:00+08:00", type: "watch", title: "终极三国", rec: "", },
