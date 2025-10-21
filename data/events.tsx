@@ -76,7 +76,7 @@ export const events: WeekItem[] = [
     { date: "2025-10-06 19:00+08:00", type: "radio", title: "中秋电台", rec: "BV1FGxJzTET4", },
     { date: "2025-10-07 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-10-08 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-10-09 20:00+08:00", type: "watch", title: "赌上爷爷的名誉！", rec: "", },
+    { date: "2025-10-09 20:00+08:00", type: "watch", title: "赌上爷爷的名誉！", rec: "", reason: "金田一" },
     { date: "2025-10-10 20:00+08:00", type: "collab", title: "LULV小小梦魇3", rec: "BV1Z34WzjEMy", steam: 1392860},
     { date: "2025-10-11 19:00+08:00", type: "game", title: "魔女审判", rec: "", steam: 3101040 },
     { date: "2025-10-12 19:00+08:00", type: "watch", title: "终极三国", rec: "BV1LR4GzEECE", },
@@ -85,7 +85,7 @@ export const events: WeekItem[] = [
   { year: 2025, week: 40, bilibili_url: "1118736657340694530", events: [
     { date: "2025-09-29 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-09-30 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-10-01 19:00+08:00", type: "watch", title: "国庆节快乐！", rec: "BV1efHszvEMB", reason:"片名：家有喜事"},
+    { date: "2025-10-01 19:00+08:00", type: "watch", title: "国庆节快乐！", rec: "BV1efHszvEMB", reason: "片名：家有喜事" },
     { date: "2025-10-02 19:00+08:00", type: "sing", title: "周年歌回", rec: "BV1h8HKzkE6y", },
     { date: "2025-10-03 19:00+08:00", type: "game", title: "哑巴屯f", rec: "BV1rWH5zUEz2", steam: 2947440 },
     { date: "2025-10-04 19:00+08:00", type: "watch", title: "大灌篮", rec: "BV1RLx4z7EAt", },
