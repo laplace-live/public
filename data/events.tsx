@@ -62,16 +62,6 @@ export const events: WeekItem[] = [
     { date: "2025-10-26 19:00+08:00", type: "radio", title: "电台TIME", rec: "", },
   ] },  
     
-  { year: 2025, week: 42, bilibili_url: "", events: [
-    { date: "2025-10-13 19:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-10-14 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-10-15 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-10-16 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-10-17 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-10-18 19:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-10-19 19:00+08:00", type: "rest", title: "", rec: "", },
-  ] },  
-    
   { year: 2025, week: 41, bilibili_url: "1121323803923709961", events: [
     { date: "2025-10-06 19:00+08:00", type: "radio", title: "中秋电台", rec: "BV1FGxJzTET4", },
     { date: "2025-10-07 20:00+08:00", type: "rest", title: "", rec: "", },
