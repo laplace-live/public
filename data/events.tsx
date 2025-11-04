@@ -53,13 +53,13 @@ export const events: WeekItem[] = [
   // ] },
   
   { year: 2025, week: 45, bilibili_url: "1131350898960760841", events: [
-    { date: "2025-10-27 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-10-28 20:00+08:00", type: "radio", title: "魔女审判", rec: "", reason:"电脑坏了已改为电台" },
-    { date: "2025-10-29 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-10-30 20:00+08:00", type: "watch", title: "终极三国", rec: "", },
-    { date: "2025-10-31 20:00+08:00", type: "game", title: "鸭科夫", rec: "", bangumi: 3167020 },
-    { date: "2025-11-01 19:00+08:00", type: "watch", title: "王者荣耀赛事", rec: "", },
-    { date: "2025-11-02 19:00+08:00", type: "fitness", title: "健身环", rec: "", },
+    { date: "2025-11-03 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-11-04 20:00+08:00", type: "radio", title: "魔女审判", rec: "", reason: "电脑坏了已改为电台" },
+    { date: "2025-11-05 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-11-06 20:00+08:00", type: "watch", title: "终极三国", rec: "", },
+    { date: "2025-11-07 20:00+08:00", type: "game", title: "鸭科夫", rec: "", steam: 3167020 },
+    { date: "2025-11-08 19:00+08:00", type: "watch", title: "王者荣耀赛事", rec: "", },
+    { date: "2025-11-09 19:00+08:00", type: "fitness", title: "健身环", rec: "", },
   ] },
   
   { year: 2025, week: 44, bilibili_url: "1128772411081097217", events: [
