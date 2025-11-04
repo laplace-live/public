@@ -69,7 +69,7 @@ export const events: WeekItem[] = [
     { date: "2025-10-30 20:00+08:00", type: "watch", title: "金田一", rec: "BV11QyeBDEgL", },
     { date: "2025-10-31 20:00+08:00", type: "game", title: "逃离鸭科夫", rec: "BV1kk1uByEVU", steam: 3167020 },
     { date: "2025-11-01 19:00+08:00", type: "watch", title: "终极三国", rec: "BV15pyDB1ErT", },
-    { date: "2025-11-02 19:00+08:00", type: "radio", title: "健身环", rec: "BV1dp1wB5EKv",reason: "肚子疼已改为电台" },
+    { date: "2025-11-02 19:00+08:00", type: "radio", title: "健身环", rec: "BV1dp1wB5EKv", reason: "肚子疼已改为电台" },
   ] },
 
   { year: 2025, week: 43, bilibili_url: "1126148967743094818", events: [
