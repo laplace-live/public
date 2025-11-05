@@ -52,24 +52,34 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
   
+  { year: 2025, week: 45, bilibili_url: "1131350898960760841", events: [
+    { date: "2025-11-03 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-11-04 20:00+08:00", type: "radio", title: "魔女审判", rec: "", reason: "电脑坏了已改为电台" },
+    { date: "2025-11-05 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-11-06 20:00+08:00", type: "watch", title: "终极三国", rec: "", },
+    { date: "2025-11-07 20:00+08:00", type: "game", title: "鸭科夫", rec: "", steam: 3167020 },
+    { date: "2025-11-08 19:00+08:00", type: "watch", title: "王者荣耀赛事", rec: "", },
+    { date: "2025-11-09 19:00+08:00", type: "fitness", title: "健身环", rec: "", },
+  ] },
+  
   { year: 2025, week: 44, bilibili_url: "1128772411081097217", events: [
     { date: "2025-10-27 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-10-28 20:00+08:00", type: "game", title: "魔女审判", rec: "", steam: 3101040 },
+    { date: "2025-10-28 20:00+08:00", type: "game", title: "魔女审判", rec: "BV15TykB9EQz", steam: 3101040 },
     { date: "2025-10-29 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-10-30 20:00+08:00", type: "watch", title: "金田一", rec: "", },
-    { date: "2025-10-31 20:00+08:00", type: "game", title: "逃离鸭科夫", rec: "", bangumi: 3167020 },
-    { date: "2025-11-01 19:00+08:00", type: "watch", title: "终极三国", rec: "", },
-    { date: "2025-11-02 19:00+08:00", type: "fitness", title: "健身环", rec: "", },
+    { date: "2025-10-30 20:00+08:00", type: "watch", title: "金田一", rec: "BV11QyeBDEgL", },
+    { date: "2025-10-31 20:00+08:00", type: "game", title: "逃离鸭科夫", rec: "BV1kk1uByEVU", steam: 3167020 },
+    { date: "2025-11-01 19:00+08:00", type: "watch", title: "终极三国", rec: "BV15pyDB1ErT", },
+    { date: "2025-11-02 19:00+08:00", type: "radio", title: "健身环", rec: "BV1dp1wB5EKv", reason: "肚子疼已改为电台" },
   ] },
 
   { year: 2025, week: 43, bilibili_url: "1126148967743094818", events: [
     { date: "2025-10-20 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-10-21 20:00+08:00", type: "watch", title: "金田一", rec: "", },
+    { date: "2025-10-21 20:00+08:00", type: "watch", title: "金田一", rec: "BV1x1WRzCE9R", },
     { date: "2025-10-22 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-10-23 20:00+08:00", type: "game", title: "魔法少女二周目", rec: "", steam: 3101040 },
-    { date: "2025-10-24 20:00+08:00", type: "watch", title: "少女终末旅行", rec: "", bangumi: 218707 },
-    { date: "2025-10-25 19:00+08:00", type: "watch", title: "终极三国", rec: "", },
-    { date: "2025-10-26 19:00+08:00", type: "radio", title: "电台TIME", rec: "", },
+    { date: "2025-10-23 20:00+08:00", type: "game", title: "魔法少女二周目", rec: "BV183s5zBErk", steam: 3101040 },
+    { date: "2025-10-24 20:00+08:00", type: "watch", title: "少女终末旅行", rec: "BV1mXsHzXE5i", bangumi: 218707 },
+    { date: "2025-10-25 19:00+08:00", type: "watch", title: "终极三国", rec: "BV1KnsZzHEG5", },
+    { date: "2025-10-26 19:00+08:00", type: "radio", title: "电台TIME", rec: "BV1mWszziEEz", },
   ] },
 
   { year: 2025, week: 41, bilibili_url: "1121323803923709961", events: [
