@@ -68,7 +68,7 @@ export const events: WeekItem[] = [
     { date: "2025-11-05 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-11-06 20:00+08:00", type: "watch", title: "终极三国", rec: "BV1E12wBWEtq", },
     { date: "2025-11-07 20:00+08:00", type: "game", title: "鸭科夫", rec: "BV16311BrEHp", steam: 3167020 },
-    { date: "2025-11-08 19:00+08:00", type: "watch", title: "王者荣耀赛事", rec: "BV1zb19BwEgP", },
+    { date: "2025-11-08 17:30+08:00", type: "watch", title: "王者荣耀赛事", rec: "BV1zb19BwEgP", },
     { date: "2025-11-09 19:00+08:00", type: "fitness", title: "健身环", rec: "BV122kQBcEsy", },
   ] },
   
