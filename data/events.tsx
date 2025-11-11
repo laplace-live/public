@@ -52,14 +52,24 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
   
+  { year: 2025, week: 46, bilibili_url: "1133910789661392903", events: [
+    { date: "2025-11-10 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-11-11 20:00+08:00", type: "game", title: "魔女", rec: "", reason: "前半部分有大量拆BW礼物环节" },
+    { date: "2025-11-12 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-11-13 20:00+08:00", type: "watch", title: "我推的视频", rec: "", },
+    { date: "2025-11-14 20:00+08:00", type: "game", title: "鸭科夫", rec: "", steam: 3167020 },
+    { date: "2025-11-15 19:00+08:00", type: "sub", title: "梦境之花", rec: "", reason: "https://www.bilibili.com/opus/1133912241395990553" },
+    { date: "2025-11-16 19:00+08:00", type: "watch", title: "电锯人", rec: "", },
+  ] },
+    
   { year: 2025, week: 45, bilibili_url: "1131350898960760841", events: [
     { date: "2025-11-03 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-11-04 20:00+08:00", type: "radio", title: "魔女审判", rec: "", reason: "电脑坏了已改为电台" },
+    { date: "2025-11-04 20:00+08:00", type: "radio", title: "魔女审判", rec: "BV1RV1EBxEzK", reason: "电脑坏了已改为电台" },
     { date: "2025-11-05 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-11-06 20:00+08:00", type: "watch", title: "终极三国", rec: "", },
-    { date: "2025-11-07 20:00+08:00", type: "game", title: "鸭科夫", rec: "", steam: 3167020 },
-    { date: "2025-11-08 17:30+08:00", type: "watch", title: "王者荣耀赛事", rec: "", },
-    { date: "2025-11-09 19:00+08:00", type: "fitness", title: "健身环", rec: "", },
+    { date: "2025-11-06 20:00+08:00", type: "watch", title: "终极三国", rec: "BV1E12wBWEtq", },
+    { date: "2025-11-07 20:00+08:00", type: "game", title: "鸭科夫", rec: "BV16311BrEHp", steam: 3167020 },
+    { date: "2025-11-08 17:30+08:00", type: "watch", title: "王者荣耀赛事", rec: "BV1zb19BwEgP", },
+    { date: "2025-11-09 19:00+08:00", type: "fitness", title: "健身环", rec: "BV122kQBcEsy", },
   ] },
   
   { year: 2025, week: 44, bilibili_url: "1128772411081097217", events: [
