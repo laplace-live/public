@@ -52,14 +52,24 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
   
+  { year: 2025, week: 47, bilibili_url: "1136542535211024404", events: [
+    { date: "2025-11-17 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-11-18 20:00+08:00", type: "game", title: "魔女", rec: "", steam: 3101040 },
+    { date: "2025-11-19 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-11-20 20:00+08:00", type: "watch", title: "金田一", rec: "", },
+    { date: "2025-11-21 20:00+08:00", type: "game", title: "鸭科夫", rec: "", steam: 3167020 },
+    { date: "2025-11-22 19:00+08:00", type: "watch", title: "康康历史", rec: "", },
+    { date: "2025-11-23 19:00+08:00", type: "radio", title: "三国电台", rec: "", },
+  ] },  
+
   { year: 2025, week: 46, bilibili_url: "1133910789661392903", events: [
     { date: "2025-11-10 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-11-11 20:00+08:00", type: "game", title: "魔女", rec: "", reason: "前半部分有大量拆BW礼物环节" },
+    { date: "2025-11-11 20:00+08:00", type: "game", title: "魔女", rec: "BV1cCkCBwEgF", reason: "前半部分有大量拆BW礼物环节", steam: 3101040 },
     { date: "2025-11-12 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-11-13 20:00+08:00", type: "watch", title: "我推的视频", rec: "", },
-    { date: "2025-11-14 20:00+08:00", type: "game", title: "鸭科夫", rec: "", steam: 3167020 },
+    { date: "2025-11-13 20:00+08:00", type: "watch", title: "我推的视频", rec: "BV1cjCABHEPz", },
+    { date: "2025-11-14 20:00+08:00", type: "game", title: "鸭科夫", rec: "BV1mJC3BnEPh", steam: 3167020 },
     { date: "2025-11-15 19:00+08:00", type: "sub", title: "梦境之花", rec: "", reason: "https://www.bilibili.com/opus/1133912241395990553" },
-    { date: "2025-11-16 19:00+08:00", type: "watch", title: "电锯人", rec: "", },
+    { date: "2025-11-16 19:00+08:00", type: "watch", title: "电锯人", rec: "BV1CxCRBKEz5", },
   ] },
     
   { year: 2025, week: 45, bilibili_url: "1131350898960760841", events: [
