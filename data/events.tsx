@@ -56,10 +56,10 @@ export const events: WeekItem[] = [
     { date: "2025-11-17 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-11-18 20:00+08:00", type: "game", title: "魔女", rec: "", steam: 3101040 },
     { date: "2025-11-19 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-11-21 20:00+08:00", type: "watch", title: "金田一", rec: "", },
-    { date: "2025-11-22 20:00+08:00", type: "game", title: "鸭科夫", rec: "", steam: 3167020 },
-    { date: "2025-11-23 19:00+08:00", type: "watch", title: "康康历史", rec: "", },
-    { date: "2025-11-24 19:00+08:00", type: "radio", title: "三国电台", rec: "", },
+    { date: "2025-11-20 20:00+08:00", type: "watch", title: "金田一", rec: "", },
+    { date: "2025-11-21 20:00+08:00", type: "game", title: "鸭科夫", rec: "", steam: 3167020 },
+    { date: "2025-11-22 19:00+08:00", type: "watch", title: "康康历史", rec: "", },
+    { date: "2025-11-23 19:00+08:00", type: "radio", title: "三国电台", rec: "", },
   ] },  
 
   { year: 2025, week: 46, bilibili_url: "1133910789661392903", events: [
