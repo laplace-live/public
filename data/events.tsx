@@ -52,14 +52,24 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
   
+  { year: 2025, week: 48, bilibili_url: "1139161683572293632", events: [
+    { date: "2025-11-24 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-11-25 20:00+08:00", type: "watch", title: "金田一", rec: "", },
+    { date: "2025-11-26 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-11-27 20:00+08:00", type: "game", title: "魔女", rec: "", steam: 3101040 },
+    { date: "2025-11-28 20:00+08:00", type: "game", title: "寻找伪人", rec: "", steam: 3180070 },
+    { date: "2025-11-29 19:00+08:00", type: "watch", title: "看会儿↑历史", rec: "", },
+    { date: "2025-11-30 19:00+08:00", type: "fitness", title: "健身环", rec: "", },
+  ] },  
+  
   { year: 2025, week: 47, bilibili_url: "1136542535211024404", events: [
     { date: "2025-11-17 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-11-18 20:00+08:00", type: "game", title: "魔女", rec: "", steam: 3101040 },
+    { date: "2025-11-18 20:00+08:00", type: "game", title: "魔女", rec: "BV115yVBxEJ1", steam: 3101040 },
     { date: "2025-11-19 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-11-20 20:00+08:00", type: "watch", title: "金田一", rec: "", },
-    { date: "2025-11-21 20:00+08:00", type: "game", title: "鸭科夫", rec: "", steam: 3167020 },
-    { date: "2025-11-22 19:00+08:00", type: "watch", title: "康康历史", rec: "", },
-    { date: "2025-11-23 19:00+08:00", type: "radio", title: "三国电台", rec: "", },
+    { date: "2025-11-21 20:00+08:00", type: "game", title: "鸭科夫", rec: "BV1VzU7B8Ezh", steam: 3167020 },
+    { date: "2025-11-22 19:00+08:00", type: "watch", title: "康康历史", rec: "BV1SpUxBVEUV", },
+    { date: "2025-11-23 19:00+08:00", type: "radio", title: "三国电台", rec: "BV1LjUTBvE5U", },
   ] },  
 
   { year: 2025, week: 46, bilibili_url: "1133910789661392903", events: [
