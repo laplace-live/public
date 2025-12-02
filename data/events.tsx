@@ -52,14 +52,24 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
   
+  { year: 2025, week: 49, bilibili_url: "1141751681990524950", events: [
+    { date: "2025-12-01 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-12-02 20:00+08:00", type: "watch", title: "金田一", rec: "", },
+    { date: "2025-12-03 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-12-04 20:00+08:00", type: "game", title: "江山北望", rec: "", steam: 3831120 },
+    { date: "2025-12-05 20:00+08:00", type: "watch", title: "电锯人", rec: "", bangumi: 321885 },
+    { date: "2025-12-06 19:00+08:00", type: "watch", title: "看会儿东晋", rec: "", },
+    { date: "2025-12-07 19:00+08:00", type: "game", title: "江山北望", rec: "", steam: 3831120 },
+  ] },  
+    
   { year: 2025, week: 48, bilibili_url: "1139161683572293632", events: [
     { date: "2025-11-24 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-11-25 20:00+08:00", type: "watch", title: "金田一", rec: "", },
+    { date: "2025-11-25 20:00+08:00", type: "watch", title: "金田一", rec: "BV1ShUXBQEwv", },
     { date: "2025-11-26 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-11-27 20:00+08:00", type: "game", title: "魔女", rec: "", steam: 3101040 },
-    { date: "2025-11-28 20:00+08:00", type: "game", title: "寻找伪人", rec: "", steam: 3180070 },
+    { date: "2025-11-27 20:00+08:00", type: "game", title: "魔女", rec: "BV1zxSGBoEoG", steam: 3101040 },
+    { date: "2025-11-28 20:00+08:00", type: "game", title: "寻找伪人", rec: "BV1aLSnBqEyY", steam: 3180070 },
     { date: "2025-11-29 19:00+08:00", type: "watch", title: "看会儿↑历史", rec: "", },
-    { date: "2025-11-30 19:00+08:00", type: "fitness", title: "健身环", rec: "", },
+    { date: "2025-11-30 19:00+08:00", type: "fitness", title: "健身环", rec: "BV1WkSiBPEuD", },
   ] },  
   
   { year: 2025, week: 47, bilibili_url: "1136542535211024404", events: [
@@ -79,7 +89,7 @@ export const events: WeekItem[] = [
     { date: "2025-11-13 20:00+08:00", type: "watch", title: "我推的视频", rec: "BV1cjCABHEPz", },
     { date: "2025-11-14 20:00+08:00", type: "game", title: "鸭科夫", rec: "BV1mJC3BnEPh", steam: 3167020 },
     { date: "2025-11-15 19:00+08:00", type: "sub", title: "梦境之花", rec: "", reason: "https://www.bilibili.com/opus/1133912241395990553" },
-    { date: "2025-11-16 19:00+08:00", type: "watch", title: "电锯人", rec: "BV1CxCRBKEz5", },
+    { date: "2025-11-16 19:00+08:00", type: "watch", title: "电锯人", rec: "BV1CxCRBKEz5", bangumi: 321885 },
   ] },
     
   { year: 2025, week: 45, bilibili_url: "1131350898960760841", events: [
