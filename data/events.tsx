@@ -52,14 +52,24 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
   
+  { year: 2025, week: 50, bilibili_url: "1144348535201726468", events: [
+    { date: "2025-12-08 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-12-09 20:00+08:00", type: "watch", title: "金田一", rec: "BV14amHBoE4C", },
+    { date: "2025-12-10 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-12-11 20:00+08:00", type: "game", title: "GAME TIME", rec: "", },
+    { date: "2025-12-12 20:00+08:00", type: "sub", title: "看看大家的品味", rec: "", },
+    { date: "2025-12-13 19:00+08:00", type: "watch", title: "魔法晋书目录", rec: "", reason: "特殊日期已确定不播"},
+    { date: "2025-12-14 19:00+08:00", type: "game", title: "糖豆人TIME", rec: "", },
+  ] },  
+      
   { year: 2025, week: 49, bilibili_url: "1141751681990524950", events: [
     { date: "2025-12-01 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-12-02 20:00+08:00", type: "watch", title: "金田一", rec: "", },
+    { date: "2025-12-02 20:00+08:00", type: "watch", title: "金田一", rec: "BV1GSStB4EpT", },
     { date: "2025-12-03 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-12-04 20:00+08:00", type: "game", title: "江山北望", rec: "", steam: 3831120 },
+    { date: "2025-12-04 20:00+08:00", type: "game", title: "江山北望", rec: "BV1S42BB3Ef1", steam: 3831120 },
     { date: "2025-12-05 20:00+08:00", type: "watch", title: "电锯人", rec: "", bangumi: 321885 },
-    { date: "2025-12-06 19:00+08:00", type: "watch", title: "看会儿东晋", rec: "", },
-    { date: "2025-12-07 19:00+08:00", type: "game", title: "江山北望", rec: "", steam: 3831120 },
+    { date: "2025-12-06 19:00+08:00", type: "watch", title: "看会儿东晋", rec: "BV1ci2RBgEcu", },
+    { date: "2025-12-07 19:00+08:00", type: "game", title: "江山北望", rec: "BV1rgmABFEnM", reason: "已改为看历史" },
   ] },  
     
   { year: 2025, week: 48, bilibili_url: "1139161683572293632", events: [
