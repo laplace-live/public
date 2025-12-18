@@ -52,14 +52,24 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
   
+  { year: 2025, week: 51, bilibili_url: "1147666457533874213", events: [
+    { date: "2025-12-08 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-12-09 20:00+08:00", type: "watch", title: "金田一", rec: "BV1gsqvBCEdo", },
+    { date: "2025-12-10 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-12-11 20:00+08:00", type: "game", title: "识质存在", rec: "", },
+    { date: "2025-12-12 20:00+08:00", type: "watch", title: "什么恐怖片我说", rec: "", },
+    { date: "2025-12-13 19:00+08:00", type: "watch", title: "魔法晋书目录", rec: "", },
+    { date: "2025-12-14 19:00+08:00", type: "game", title: "天国拯救", rec: "", steam: 1771300 },
+  ] },  
+      
   { year: 2025, week: 50, bilibili_url: "1144348535201726468", events: [
     { date: "2025-12-08 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-12-09 20:00+08:00", type: "watch", title: "金田一", rec: "BV14amHBoE4C", },
     { date: "2025-12-10 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-12-11 20:00+08:00", type: "game", title: "GAME TIME", rec: "", },
-    { date: "2025-12-12 20:00+08:00", type: "sub", title: "看看大家的品味", rec: "", },
+    { date: "2025-12-11 20:00+08:00", type: "game", title: "GAME TIME", rec: "BV1t3m3BhEhE", },
+    { date: "2025-12-12 20:00+08:00", type: "sub", title: "看看大家的品味", rec: "BV1eTmSBmE6x", reason: "早播：BV1rRmjBiEtM"},
     { date: "2025-12-13 19:00+08:00", type: "watch", title: "魔法晋书目录", rec: "", reason: "特殊日期已确定不播"},
-    { date: "2025-12-14 19:00+08:00", type: "game", title: "糖豆人TIME", rec: "", },
+    { date: "2025-12-14 19:00+08:00", type: "game", title: "糖豆人TIME", rec: "BV16emBB8Erd", },
   ] },  
       
   { year: 2025, week: 49, bilibili_url: "1141751681990524950", events: [
