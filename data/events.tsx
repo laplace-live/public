@@ -52,14 +52,24 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
   
+  { year: 2025, week: 52, bilibili_url: "1149526491904606227", events: [
+    { date: "2025-12-22 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-12-23 20:00+08:00", type: "watch", title: "金田一", rec: "", },
+    { date: "2025-12-24 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-12-25 20:00+08:00", type: "watch", title: "圣诞节又到了", rec: "", bangumi: 1015 },
+    { date: "2025-12-26 20:00+08:00", type: "game", title: "天国拯救  ", rec: "", steam: 1771300 },
+    { date: "2025-12-27 19:00+08:00", type: "watch", title: "魔法晋书目录", rec: "", },
+    { date: "2025-12-28 19:00+08:00", type: "game", title: "天国拯救", rec: "", steam: 1771300 },
+  ] },  
+   
   { year: 2025, week: 51, bilibili_url: "1147666457533874213", events: [
     { date: "2025-12-15 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-12-16 20:00+08:00", type: "watch", title: "金田一", rec: "BV1gsqvBCEdo", },
     { date: "2025-12-17 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-12-18 20:00+08:00", type: "game", title: "识质存在DEMO", rec: "", },
-    { date: "2025-12-19 20:00+08:00", type: "watch", title: "什么恐怖片我说", rec: "", },
-    { date: "2025-12-20 19:00+08:00", type: "watch", title: "魔法晋书目录", rec: "", },
-    { date: "2025-12-21 19:00+08:00", type: "game", title: "天国拯救", rec: "", steam: 1771300 },
+    { date: "2025-12-18 20:00+08:00", type: "game", title: "识质存在DEMO", rec: "BV1m6qDBmEK3", },
+    { date: "2025-12-19 20:00+08:00", type: "watch", title: "什么恐怖片我说", rec: "BV1bBBwBUEKZ", },
+    { date: "2025-12-20 19:00+08:00", type: "watch", title: "魔法晋书目录", rec: "BV1H7qCBnEvM", },
+    { date: "2025-12-21 19:00+08:00", type: "game", title: "天国拯救", rec: "BV1cABEBmEP3", steam: 1771300 },
   ] },  
       
   { year: 2025, week: 50, bilibili_url: "1144348535201726468", events: [
