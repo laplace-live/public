@@ -57,7 +57,7 @@ export const events: WeekItem[] = [
     { date: "2025-12-23 20:00+08:00", type: "watch", title: "金田一", rec: "", },
     { date: "2025-12-24 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-12-25 20:00+08:00", type: "watch", title: "圣诞节又到了", rec: "", bangumi: 1015 },
-    { date: "2025-12-26 20:00+08:00", type: "game", title: "天国拯救  ", rec: "", steam: 1771300 },
+    { date: "2025-12-26 20:00+08:00", type: "game", title: "天国拯救", rec: "", steam: 1771300 },
     { date: "2025-12-27 19:00+08:00", type: "watch", title: "魔法晋书目录", rec: "", },
     { date: "2025-12-28 19:00+08:00", type: "game", title: "天国拯救", rec: "", steam: 1771300 },
   ] },  
