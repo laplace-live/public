@@ -52,14 +52,24 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
   
+  { year: 2025, week: 53, bilibili_url: "1152512988807168007", events: [
+    { date: "2025-12-29 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-12-30 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-12-31 20:00+08:00", type: "watch", title: "哈皮牛爷", rec: "", },
+    { date: "2026-01-01 20:00+08:00", type: "special", title: "过年画点吉利头像", rec: "", },
+    { date: "2026-01-02 20:00+08:00", type: "sing", title: "唱会歌吧", rec: "", },
+    { date: "2026-01-03 19:00+08:00", type: "sub", title: "梦境之花", rec: "", },
+    { date: "2026-01-04 19:00+08:00", type: "watch", title: "魔法晋书目录", rec: "", },
+  ] },
+  
   { year: 2025, week: 52, bilibili_url: "1149526491904606227", events: [
     { date: "2025-12-22 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-12-23 20:00+08:00", type: "watch", title: "金田一", rec: "", },
+    { date: "2025-12-23 20:00+08:00", type: "watch", title: "金田一", rec: "BV1M5BgBMELe", },
     { date: "2025-12-24 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-12-25 20:00+08:00", type: "watch", title: "圣诞节又到了", rec: "", bangumi: 1015 },
-    { date: "2025-12-26 20:00+08:00", type: "game", title: "天国拯救", rec: "", steam: 1771300 },
-    { date: "2025-12-27 19:00+08:00", type: "watch", title: "魔法晋书目录", rec: "", },
-    { date: "2025-12-28 19:00+08:00", type: "game", title: "天国拯救", rec: "", steam: 1771300 },
+    { date: "2025-12-25 20:00+08:00", type: "watch", title: "圣诞节又到了", rec: "BV1UGB9BtETU", bangumi: 1015 },
+    { date: "2025-12-26 20:00+08:00", type: "game", title: "天国拯救", rec: "BV1q2BqBcEgv", steam: 1771300 },
+    { date: "2025-12-27 19:00+08:00", type: "watch", title: "魔法晋书目录", rec: "BV1vAvqBUEFX", },
+    { date: "2025-12-28 19:00+08:00", type: "game", title: "天国拯救", rec: "BV1uMvyBbELt", steam: 1771300 },
   ] },  
    
   { year: 2025, week: 51, bilibili_url: "1147666457533874213", events: [
