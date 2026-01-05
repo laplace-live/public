@@ -3,7 +3,7 @@ import type { eventTypeMap } from '@/data/maps'
 export type EventType = keyof typeof eventTypeMap
 
 export interface EventItem {
-  /** 日期字符串，YYYY-MM-DD HH:MM+TZ:TZ */
+  /** 日期字符串：YYYY-MM-DD HH:MM+TZ:TZ */
   date: string
   /** 日程类型 */
   type: EventType
