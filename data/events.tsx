@@ -3,7 +3,7 @@ import type { eventTypeMap } from '@/data/maps'
 export type EventType = keyof typeof eventTypeMap
 
 export interface EventItem {
-  /** 日期字符串，格式 YYYY-MM-DD */
+  /** 日期字符串，YYYY-MM-DD HH:MM+TZ:TZ */
   date: string
   /** 日程类型 */
   type: EventType
@@ -51,7 +51,7 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
-  
+
   { year: 2025, week: 53, bilibili_url: "1152512988807168007", events: [
     { date: "2025-12-29 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-12-30 20:00+08:00", type: "rest", title: "", rec: "", },
@@ -61,7 +61,7 @@ export const events: WeekItem[] = [
     { date: "2026-01-03 19:00+08:00", type: "sub", title: "梦境之花", rec: "", },
     { date: "2026-01-04 19:00+08:00", type: "watch", title: "魔法晋书目录", rec: "", },
   ] },
-  
+
   { year: 2025, week: 52, bilibili_url: "1149526491904606227", events: [
     { date: "2025-12-22 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-12-23 20:00+08:00", type: "watch", title: "金田一", rec: "BV1M5BgBMELe", },
@@ -70,8 +70,8 @@ export const events: WeekItem[] = [
     { date: "2025-12-26 20:00+08:00", type: "game", title: "天国拯救", rec: "BV1q2BqBcEgv", steam: 1771300 },
     { date: "2025-12-27 19:00+08:00", type: "watch", title: "魔法晋书目录", rec: "BV1vAvqBUEFX", },
     { date: "2025-12-28 19:00+08:00", type: "game", title: "天国拯救", rec: "BV1uMvyBbELt", steam: 1771300 },
-  ] },  
-   
+  ] },
+
   { year: 2025, week: 51, bilibili_url: "1147666457533874213", events: [
     { date: "2025-12-15 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-12-16 20:00+08:00", type: "watch", title: "金田一", rec: "BV1gsqvBCEdo", },
@@ -80,18 +80,19 @@ export const events: WeekItem[] = [
     { date: "2025-12-19 20:00+08:00", type: "watch", title: "什么恐怖片我说", rec: "BV1bBBwBUEKZ", },
     { date: "2025-12-20 19:00+08:00", type: "watch", title: "魔法晋书目录", rec: "BV1H7qCBnEvM", },
     { date: "2025-12-21 19:00+08:00", type: "game", title: "天国拯救", rec: "BV1cABEBmEP3", steam: 1771300 },
-  ] },  
-      
+  ] },
+
   { year: 2025, week: 50, bilibili_url: "1144348535201726468", events: [
     { date: "2025-12-08 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-12-09 20:00+08:00", type: "watch", title: "金田一", rec: "BV14amHBoE4C", },
     { date: "2025-12-10 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-12-11 20:00+08:00", type: "game", title: "GAME TIME", rec: "BV1t3m3BhEhE", },
-    { date: "2025-12-12 20:00+08:00", type: "sub", title: "看看大家的品味", rec: "BV1eTmSBmE6x", reason: "早播TGA：BV1rRmjBiEtM"},
+    { date: "2025-12-12 08:00+08:00", type: "watch", title: "看会TGA", rec: "BV1rRmjBiEtM" },
+    { date: "2025-12-12 20:00+08:00", type: "sub", title: "看看大家的品味", rec: "BV1eTmSBmE6x" },
     { date: "2025-12-13 19:00+08:00", type: "watch", title: "魔法晋书目录", rec: "", reason: "特殊日期已确定不播"},
     { date: "2025-12-14 19:00+08:00", type: "game", title: "糖豆人TIME", rec: "BV16emBB8Erd", },
-  ] },  
-      
+  ] },
+
   { year: 2025, week: 49, bilibili_url: "1141751681990524950", events: [
     { date: "2025-12-01 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-12-02 20:00+08:00", type: "watch", title: "金田一", rec: "BV1GSStB4EpT", },
@@ -100,8 +101,8 @@ export const events: WeekItem[] = [
     { date: "2025-12-05 20:00+08:00", type: "watch", title: "电锯人", rec: "", bangumi: 321885 },
     { date: "2025-12-06 19:00+08:00", type: "watch", title: "看会儿东晋", rec: "BV1ci2RBgEcu", },
     { date: "2025-12-07 19:00+08:00", type: "game", title: "江山北望", rec: "BV1rgmABFEnM", reason: "已改为看历史" },
-  ] },  
-    
+  ] },
+
   { year: 2025, week: 48, bilibili_url: "1139161683572293632", events: [
     { date: "2025-11-24 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-11-25 20:00+08:00", type: "watch", title: "金田一", rec: "BV1ShUXBQEwv", },
@@ -110,8 +111,8 @@ export const events: WeekItem[] = [
     { date: "2025-11-28 20:00+08:00", type: "game", title: "寻找伪人", rec: "BV1aLSnBqEyY", steam: 3180070 },
     { date: "2025-11-29 19:00+08:00", type: "watch", title: "看会儿↑历史", rec: "", },
     { date: "2025-11-30 19:00+08:00", type: "fitness", title: "健身环", rec: "BV1WkSiBPEuD", },
-  ] },  
-  
+  ] },
+
   { year: 2025, week: 47, bilibili_url: "1136542535211024404", events: [
     { date: "2025-11-17 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-11-18 20:00+08:00", type: "game", title: "魔女", rec: "BV115yVBxEJ1", steam: 3101040 },
@@ -120,7 +121,7 @@ export const events: WeekItem[] = [
     { date: "2025-11-21 20:00+08:00", type: "game", title: "鸭科夫", rec: "BV1VzU7B8Ezh", steam: 3167020 },
     { date: "2025-11-22 19:00+08:00", type: "watch", title: "康康历史", rec: "BV1SpUxBVEUV", },
     { date: "2025-11-23 19:00+08:00", type: "radio", title: "三国电台", rec: "BV1LjUTBvE5U", },
-  ] },  
+  ] },
 
   { year: 2025, week: 46, bilibili_url: "1133910789661392903", events: [
     { date: "2025-11-10 20:00+08:00", type: "rest", title: "", rec: "", },
@@ -131,7 +132,7 @@ export const events: WeekItem[] = [
     { date: "2025-11-15 19:00+08:00", type: "sub", title: "梦境之花", rec: "", reason: "https://www.bilibili.com/opus/1133912241395990553" },
     { date: "2025-11-16 19:00+08:00", type: "watch", title: "电锯人", rec: "BV1CxCRBKEz5", bangumi: 321885 },
   ] },
-    
+
   { year: 2025, week: 45, bilibili_url: "1131350898960760841", events: [
     { date: "2025-11-03 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-11-04 20:00+08:00", type: "radio", title: "魔女审判", rec: "BV1RV1EBxEzK", reason: "电脑坏了已改为电台" },
@@ -141,7 +142,7 @@ export const events: WeekItem[] = [
     { date: "2025-11-08 17:30+08:00", type: "watch", title: "王者荣耀赛事", rec: "BV1zb19BwEgP", },
     { date: "2025-11-09 19:00+08:00", type: "fitness", title: "健身环", rec: "BV122kQBcEsy", },
   ] },
-  
+
   { year: 2025, week: 44, bilibili_url: "1128772411081097217", events: [
     { date: "2025-10-27 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-10-28 20:00+08:00", type: "game", title: "魔女审判", rec: "BV15TykB9EQz", steam: 3101040 },
@@ -170,8 +171,8 @@ export const events: WeekItem[] = [
     { date: "2025-10-10 20:00+08:00", type: "collab", title: "LULV小小梦魇3", rec: "BV1Z34WzjEMy", steam: 1392860},
     { date: "2025-10-11 19:00+08:00", type: "game", title: "魔女审判", rec: "", steam: 3101040 },
     { date: "2025-10-12 19:00+08:00", type: "watch", title: "终极三国", rec: "BV1LR4GzEECE", },
-  ] },  
-  
+  ] },
+
   { year: 2025, week: 40, bilibili_url: "1118736657340694530", events: [
     { date: "2025-09-29 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-09-30 20:00+08:00", type: "rest", title: "", rec: "", },
@@ -180,7 +181,7 @@ export const events: WeekItem[] = [
     { date: "2025-10-03 19:00+08:00", type: "game", title: "哑巴屯f", rec: "BV1rWH5zUEz2", steam: 2947440 },
     { date: "2025-10-04 19:00+08:00", type: "watch", title: "大灌篮", rec: "BV1RLx4z7EAt", },
     { date: "2025-10-05 19:00+08:00", type: "game", title: "魔法少女审判", rec: "BV13hxgzAEhm", steam: 3101040 },
-  ] },  
+  ] },
 
   { year: 2025, week: 39, bilibili_url: "1115772824995233794", events: [
     { date: "2025-09-22 20:00+08:00", type: "rest", title: "", rec: "", },
