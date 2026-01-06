@@ -53,13 +53,13 @@ export const events: WeekItem[] = [
   // ] },
 
   { year: 2025, week: 54, bilibili_url: "1154748583742799875", events: [
-    { date: "2025-12-29 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2025-12-30 20:00+08:00", type: "watch", title: "机动刚大木0079", rec: "", bangumi: 2691 },
-    { date: "2025-12-31 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2026-01-01 20:00+08:00", type: "game", title: "天国拯救", rec: "", steam: 1771300 },
-    { date: "2026-01-02 14:00+08:00", type: "special", title: "客服小绿出现", rec: "", },
-    { date: "2026-01-03 19:00+08:00", type: "watch", title: "魔法晋书目录", rec: "", },
-    { date: "2026-01-04 19:00+08:00", type: "game", title: "糖豆人", rec: "", },
+    { date: "2026-01-05 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2026-01-06 20:00+08:00", type: "watch", title: "机动刚大木0079", rec: "", bangumi: 2691 },
+    { date: "2026-01-07 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2026-01-08 20:00+08:00", type: "game", title: "天国拯救", rec: "", steam: 1771300 },
+    { date: "2026-01-09 14:00+08:00", type: "special", title: "客服小绿出现", rec: "", },
+    { date: "2026-01-10 19:00+08:00", type: "watch", title: "魔法晋书目录", rec: "", },
+    { date: "2026-01-11 19:00+08:00", type: "game", title: "糖豆人", rec: "", },
   ] },
 
   { year: 2025, week: 53, bilibili_url: "1152512988807168007", events: [
