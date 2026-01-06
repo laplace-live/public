@@ -57,7 +57,7 @@ export const events: WeekItem[] = [
     { date: "2025-12-30 20:00+08:00", type: "watch", title: "机动刚大木0079", rec: "", bangumi: 2691 },
     { date: "2025-12-31 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2026-01-01 20:00+08:00", type: "game", title: "天国拯救", rec: "", steam: 1771300 },
-    { date: "2026-01-02 20:00+08:00", type: "special", title: "客服小绿出现", rec: "", },
+    { date: "2026-01-02 14:00+08:00", type: "special", title: "客服小绿出现", rec: "", },
     { date: "2026-01-03 19:00+08:00", type: "watch", title: "魔法晋书目录", rec: "", },
     { date: "2026-01-04 19:00+08:00", type: "game", title: "糖豆人", rec: "", },
   ] },
