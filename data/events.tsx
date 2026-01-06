@@ -52,7 +52,7 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
-  { year: 2025, week: 54, bilibili_url: "1154748583742799875", events: [
+  { year: 2026, week: 2, bilibili_url: "1154748583742799875", events: [
     { date: "2026-01-05 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2026-01-06 20:00+08:00", type: "watch", title: "机动刚大木0079", rec: "", bangumi: 2691 },
     { date: "2026-01-07 20:00+08:00", type: "rest", title: "", rec: "", },
