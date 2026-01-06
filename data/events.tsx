@@ -52,14 +52,24 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
   
+  { year: 2026, week: 2, bilibili_url: "1154748583742799875", events: [
+    { date: "2025-12-29 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2025-12-30 20:00+08:00", type: "watch", title: "机动刚大木0079", rec: "", bangumi: 336135 },
+    { date: "2025-12-31 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2026-01-01 20:00+08:00", type: "game", title: "天国拯救", rec: "", steam: 1771300 },
+    { date: "2026-01-02 14:00+08:00", type: "special", title: "客服小绿出现", rec: "", },
+    { date: "2026-01-03 19:00+08:00", type: "watch", title: "魔法晋书目录", rec: "", },
+    { date: "2026-01-04 19:00+08:00", type: "game", title: "糖豆人", rec: "", },
+  ] },
+    
   { year: 2025, week: 53, bilibili_url: "1152512988807168007", events: [
     { date: "2025-12-29 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-12-30 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2025-12-31 20:00+08:00", type: "watch", title: "哈皮牛爷", rec: "", },
-    { date: "2026-01-01 20:00+08:00", type: "special", title: "过年画点吉利头像", rec: "", },
-    { date: "2026-01-02 20:00+08:00", type: "sing", title: "唱会歌吧", rec: "", },
-    { date: "2026-01-03 19:00+08:00", type: "sub", title: "梦境之花", rec: "", },
-    { date: "2026-01-04 19:00+08:00", type: "watch", title: "魔法晋书目录", rec: "", },
+    { date: "2026-01-01 20:00+08:00", type: "special", title: "过年画点吉利头像", rec: "BV1WivXBGEVm", },
+    { date: "2026-01-02 20:00+08:00", type: "sing", title: "唱会歌吧", rec: "BV1VpihBvEQL", },
+    { date: "2026-01-03 19:00+08:00", type: "sub", title: "梦境之花", rec: "BV16BiiBfE8P", reason: "https://www.bilibili.com/opus/1152513285159911444" },
+    { date: "2026-01-04 19:00+08:00", type: "watch", title: "魔法晋书目录", rec: "BV1huinBeErC", },
   ] },
   
   { year: 2025, week: 52, bilibili_url: "1149526491904606227", events: [
