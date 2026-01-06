@@ -5,9 +5,9 @@
     "test": "biome check data/ && bun test"
   },
   "devDependencies": {
-    "@biomejs/biome": "^2.2.0",
+    "@biomejs/biome": "^2.3.11",
     "@types/bun": "latest",
-    "zod": "^4.0.17"
+    "zod": "^4.3.5"
   },
   "peerDependencies": {
     "typescript": "^5.9.2"
