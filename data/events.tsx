@@ -52,14 +52,24 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
+  { year: 2026, week: 3, bilibili_url: "1157348997446238215", events: [
+    { date: "2026-01-12 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2026-01-13 20:00+08:00", type: "radio", title: "三国电台", rec: "", },
+    { date: "2026-01-14 20:00+08:00", type: "rest", title: "", rec: "", },
+    { date: "2026-01-15 20:00+08:00", type: "game", title: "天国拯救", rec: "", steam: 1771300 },
+    { date: "2026-01-16 14:00+08:00", type: "watch", title: "电锯人", rec: "", bangumi: 470660 },
+    { date: "2026-01-17 19:00+08:00", type: "watch", title: "魔法晋书目录", rec: "", },
+    { date: "2026-01-18 19:00+08:00", type: "game", title: "天国拯救", rec: "", steam: 1771300 },
+  ] },
+
   { year: 2026, week: 2, bilibili_url: "1154748583742799875", events: [
     { date: "2026-01-05 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2026-01-06 20:00+08:00", type: "watch", title: "机动刚大木0079", rec: "", bangumi: 2691 },
+    { date: "2026-01-06 20:00+08:00", type: "watch", title: "机动刚大木0079", rec: "BV1k8qKB2ENh", bangumi: 50 },
     { date: "2026-01-07 20:00+08:00", type: "rest", title: "", rec: "", },
-    { date: "2026-01-08 20:00+08:00", type: "game", title: "天国拯救", rec: "", steam: 1771300 },
-    { date: "2026-01-09 14:00+08:00", type: "special", title: "客服小绿出现", rec: "", },
-    { date: "2026-01-10 19:00+08:00", type: "watch", title: "魔法晋书目录", rec: "", },
-    { date: "2026-01-11 19:00+08:00", type: "game", title: "糖豆人", rec: "", },
+    { date: "2026-01-08 20:00+08:00", type: "game", title: "天国拯救", rec: "BV19miRBvE4r", steam: 1771300 },
+    { date: "2026-01-09 14:00+08:00", type: "special", title: "客服小绿出现", rec: "BV1YcrKB3ECu", },
+    { date: "2026-01-10 19:00+08:00", type: "watch", title: "魔法晋书目录", rec: "BV1qn6UBeEj8", },
+    { date: "2026-01-11 19:00+08:00", type: "game", title: "糖豆人", rec: "BV1WKrFBCEoH", },
   ] },
 
   { year: 2025, week: 53, bilibili_url: "1152512988807168007", events: [
