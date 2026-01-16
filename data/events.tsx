@@ -57,7 +57,7 @@ export const events: WeekItem[] = [
     { date: "2026-01-13 20:00+08:00", type: "radio", title: "三国电台", rec: "", },
     { date: "2026-01-14 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2026-01-15 20:00+08:00", type: "game", title: "天国拯救", rec: "", steam: 1771300 },
-    { date: "2026-01-16 14:00+08:00", type: "watch", title: "电锯人", rec: "", bangumi: 470660 },
+    { date: "2026-01-16 20:00+08:00", type: "watch", title: "电锯人", rec: "", bangumi: 470660 },
     { date: "2026-01-17 19:00+08:00", type: "watch", title: "魔法晋书目录", rec: "", },
     { date: "2026-01-18 19:00+08:00", type: "game", title: "天国拯救", rec: "", steam: 1771300 },
   ] },
