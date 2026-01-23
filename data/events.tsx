@@ -58,7 +58,7 @@ export const events: WeekItem[] = [
     { date: "2026-01-21 20:00+08:00", type: "watch", title: "高达0079", bangumi: 50 },
     { date: "2026-01-22 20:00+08:00", type: "game", title: "真三国无双", },
     { date: "2026-01-23 20:00+08:00", type: "game", title: "真三国无双", },
-    { date: "2026-01-24 19:00+08:00", type: "game", title: "梦境之花", },
+    { date: "2026-01-24 19:00+08:00", type: "sub", title: "梦境之花", },
     { date: "2026-01-25 19:00+08:00", type: "watch", title: "魔法禁书目录", },
   ] },
 
