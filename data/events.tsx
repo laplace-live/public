@@ -52,6 +52,14 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
+  { year: 2026, week: 4, events: [
+    { date: "2026-01-21 20:00+08:00", type: "watch", title: "高达0079", },
+    { date: "2026-01-22 20:00+08:00", type: "game", title: "真三国无双", },
+    { date: "2026-01-23 20:00+08:00", type: "game", title: "真三国无双", },
+    { date: "2026-01-24 19:00+08:00", type: "sub", title: "梦境之花", },
+    { date: "2026-01-25 19:00+08:00", type: "watch", title: "魔法晋书目录", },
+  ] },
+
   { year: 2026, week: 3, bilibili_url: "1157348997446238215", events: [
     { date: "2026-01-12 20:00+08:00", type: "rest", title: "", rec: "", },
     { date: "2026-01-13 20:00+08:00", type: "radio", title: "三国电台", rec: "", },
