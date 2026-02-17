@@ -53,20 +53,20 @@ export const events: WeekItem[] = [
   // ] },
 
   { year: 2026, week: 8, bilibili_url: "1169953983460016145", events: [
-    { date: "2026-02-16 19:00+08:00", type: "special", title: "老春晚", },
-    { date: "2026-02-17 19:00+08:00", type: "special", title: "新春晚", },
+    { date: "2026-02-16 19:00+08:00", type: "watch", title: "老春晚", },
+    { date: "2026-02-17 19:00+08:00", type: "watch", title: "新春晚", },
     { date: "2026-02-18 20:00+08:00", type: "sing", title: "新春歌会~", },
-    { date: "2026-02-19 19:00+08:00", type: "game", title: "天国拯救", },
+    { date: "2026-02-19 19:00+08:00", type: "game", title: "天国拯救", steam: 1771300 },
     { date: "2026-02-20 19:00+08:00", type: "watch", title: "人鱼物语", },
     { date: "2026-02-21 19:00+08:00", type: "sub", title: "梦境之花", },
-    { date: "2026-02-22 19:00+08:00", type: "chat", title: "蝉在叫", },
+    { date: "2026-02-22 19:00+08:00", type: "watch", title: "蝉在叫", },
   ] },
 
   { year: 2026, week: 7, bilibili_url: "1167742680863604753", events: [
     { date: "2026-02-09 20:00+08:00", type: "rest", title: "", },
-    { date: "2026-02-10 20:00+08:00", type: "game", title: "天国拯救", },
+    { date: "2026-02-10 20:00+08:00", type: "game", title: "天国拯救", steam: 1771300 },
     { date: "2026-02-11 20:00+08:00", type: "rest", title: "", },
-    { date: "2026-02-12 20:00+08:00", type: "game", title: "天国拯救", },
+    { date: "2026-02-12 20:00+08:00", type: "game", title: "天国拯救", steam: 1771300 },
     { date: "2026-02-13 20:00+08:00", type: "watch", title: "哈基米 第二季", },
     { date: "2026-02-14 19:00+08:00", type: "watch", title: "就得看寒蝉啊我说", },
     { date: "2026-02-15 19:00+08:00", type: "watch", title: "同乐者", },
