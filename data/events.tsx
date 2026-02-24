@@ -52,6 +52,16 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
+  { year: 2026, week: 9, bilibili_url: "1172909376168525847", events: [
+    { date: "2026-02-23 20:00+08:00", type: "rest", title: "", },
+    { date: "2026-02-24 20:00+08:00", type: "watch", title: "寒蝉鸣泣之时", bangumi: 289 },
+    { date: "2026-02-25 20:00+08:00", type: "game", title: "伊势人鱼物语", steam: 2701440 },
+    { date: "2026-02-26 20:00+08:00", type: "watch", title: "同乐者", },
+    { date: "2026-02-27 20:00+08:00", type: "game", title: "生化危机", steam: 3764200 },
+    { date: "2026-02-28 19:00+08:00", type: "watch", title: "不是晋书目录", },
+    { date: "2026-03-01 19:00+08:00", type: "game", title: "糖豆人来临", steam: 1097150 },
+  ] },
+
   { year: 2026, week: 8, bilibili_url: "1169953983460016145", events: [
     { date: "2026-02-16 19:00+08:00", type: "watch", title: "老春晚", },
     { date: "2026-02-17 19:00+08:00", type: "watch", title: "新春晚", },
