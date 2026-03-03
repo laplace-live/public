@@ -54,7 +54,7 @@ export const events: WeekItem[] = [
 
   { year: 2026, week: 10, events: [
     { date: "2026-03-02 20:00+08:00", type: "rest", title: "", },
-    { date: "2026-03-03 20:00+08:00", type: "special", title: "元宵节快乐", },
+    { date: "2026-03-03 20:00+08:00", type: "watch", title: "元宵节快乐", },
     { date: "2026-03-04 20:00+08:00", type: "rest", title: "", },
     { date: "2026-03-05 20:00+08:00", type: "game", title: "救救里昂", steam: 3764200 },
     { date: "2026-03-06 20:00+08:00", type: "game", title: "救救格蕾丝", steam: 3764200 },
