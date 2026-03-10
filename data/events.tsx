@@ -54,10 +54,10 @@ export const events: WeekItem[] = [
 
   { year: 2026, week: 11, bilibili_url: "1178123616818036801", events: [
     { date: "2026-03-09 20:00+08:00", type: "rest", title: "", },
-    { date: "2026-03-10 20:00+08:00", type: "game", title: "寒蝉鸣泣之时", },
+    { date: "2026-03-10 20:00+08:00", type: "game", title: "寒蝉鸣泣之时", bangumi: 289 },
     { date: "2026-03-11 20:00+08:00", type: "rest", title: "", },
-    { date: "2026-03-12 20:00+08:00", type: "tbd", title: "里", },
-    { date: "2026-03-13 20:00+08:00", type: "tbd", title: "昂", },
+    { date: "2026-03-12 20:00+08:00", type: "game", title: "里", steam: 3764200 },
+    { date: "2026-03-13 20:00+08:00", type: "game", title: "昂", steam: 3764200 },
     { date: "2026-03-14 19:00+08:00", type: "special", title: "奶绿的生日会", },
     { date: "2026-03-15 19:00+08:00", type: "chat", title: "后日谈", },
   ] },
