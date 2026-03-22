@@ -57,9 +57,9 @@ export const events: WeekItem[] = [
     { date: "2026-03-17 20:00+08:00", type: "rest", title: "", },
     { date: "2026-03-18 20:00+08:00", type: "rest", title: "", },
     { date: "2026-03-19 20:00+08:00", type: "special", title: "生日会后日谈", },
-    { date: "2026-03-20 20:00+08:00", type: "game", title: "天国拯救", },
+    { date: "2026-03-20 20:00+08:00", type: "game", title: "天国拯救", steam: 1771300 },
     { date: "2026-03-21 19:00+08:00", type: "chat", title: "学习历史可以——", },
-    { date: "2026-03-22 19:00+08:00", type: "watch", title: "寒蝉鸣泣之时", },
+    { date: "2026-03-22 19:00+08:00", type: "watch", title: "寒蝉鸣泣之时", bangumi: 289 },
   ] },
 
   { year: 2026, week: 11, bilibili_url: "1178123616818036801", events: [
