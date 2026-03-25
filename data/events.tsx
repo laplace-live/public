@@ -53,13 +53,13 @@ export const events: WeekItem[] = [
   // ] },
 
   { year: 2026, week: 13, bilibili_url: "1183328674828517382", events: [
-    { date: "2026-03-30 20:00+08:00", type: "rest", title: "", },
-    { date: "2026-03-31 20:00+08:00", type: "game", title: "寒蝉鸣泣之时", },
-    { date: "2026-04-01 20:00+08:00", type: "game", title: "伊势人鱼物语", },
-    { date: "2026-04-02 20:00+08:00", type: "game", title: "亨利我来啦", },
-    { date: "2026-04-03 20:00+08:00", type: "special", title: "生日回后续", },
-    { date: "2026-04-04 19:00+08:00", type: "chat", title: "学习历史可以——", },
-    { date: "2026-04-05 19:00+08:00", type: "radio", title: "三国电台", },
+    { date: "2026-03-23 20:00+08:00", type: "rest", title: "", },
+    { date: "2026-03-24 20:00+08:00", type: "watch", title: "寒蝉鸣泣之时", bangumi: 289 },
+    { date: "2026-04-25 20:00+08:00", type: "game", title: "伊势人鱼物语", steam: 2701440 },
+    { date: "2026-04-26 20:00+08:00", type: "game", title: "亨利我来啦", },
+    { date: "2026-04-27 20:00+08:00", type: "special", title: "生日回后续", },
+    { date: "2026-04-28 19:00+08:00", type: "watch", title: "学习历史可以——", },
+    { date: "2026-04-29 19:00+08:00", type: "radio", title: "三国电台", },
   ] },
 
   { year: 2026, week: 12, bilibili_url: "1181471964742549520", events: [
