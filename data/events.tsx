@@ -57,8 +57,8 @@ export const events: WeekItem[] = [
     { date: "2026-04-21 20:00+08:00", type: "game", title: "哀鸿", },
     { date: "2026-04-22 20:00+08:00", type: "rest", title: "", },
     { date: "2026-04-23 20:00+08:00", type: "game", title: "伊势人鱼物语", steam: 2701440 },
-    { date: "2026-04-24 20:00+08:00", type: "game", title: "楚汉传奇", },
-    { date: "2026-04-25 19:00+08:00", type: "game", title: "电王我TRYTRY", },
+    { date: "2026-04-24 20:00+08:00", type: "watch", title: "楚汉传奇", },
+    { date: "2026-04-25 19:00+08:00", type: "watch", title: "电王我TRYTRY", },
     { date: "2026-04-26 19:00+08:00", type: "game", title: "一起玩糖豆人", steam: 1097150 },
   ] },
 
