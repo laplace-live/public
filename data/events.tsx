@@ -62,7 +62,7 @@ export const events: WeekItem[] = [
     { date: "2026-05-03 19:00+08:00", type: "game", title: "这是谐音梗", steam: 4164310 },
   ] },
 
-  { year: 2026, week: 17, events: [
+  { year: 2026, week: 17, bilibili_url: "1193712909274841088", events: [
     { date: "2026-04-20 20:00+08:00", type: "rest", title: "", },
     { date: "2026-04-21 20:00+08:00", type: "game", title: "哀鸿", },
     { date: "2026-04-22 20:00+08:00", type: "rest", title: "", },
@@ -132,7 +132,7 @@ export const events: WeekItem[] = [
     { date: "2026-03-15 19:00+08:00", type: "chat", title: "后日谈", },
   ] },
 
-  { year: 2026, week: 10, events: [
+  { year: 2026, week: 10, bilibili_url: "1175508123440381953", events: [
     { date: "2026-03-02 20:00+08:00", type: "rest", title: "", },
     { date: "2026-03-03 20:00+08:00", type: "watch", title: "元宵节快乐", },
     { date: "2026-03-04 20:00+08:00", type: "rest", title: "", },
