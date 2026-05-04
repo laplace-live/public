@@ -52,6 +52,16 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
+  { year: 2026, week: 19, events: [
+    { date: "2026-05-04 20:00+08:00", type: "rest", title: "", },
+    { date: "2026-05-05 20:00+08:00", type: "watch", title: "楚汉传奇", },
+    { date: "2026-05-06 20:00+08:00", type: "rest", title: "", },
+    { date: "2026-05-07 20:00+08:00", type: "game", title: "天国拯救", },
+    { date: "2026-05-08 20:00+08:00", type: "game", title: "光遇", },
+    { date: "2026-05-09 19:00+08:00", type: "watch", title: "看恐怖片(直)", },
+    { date: "2026-05-10 19:00+08:00", type: "chat", title: "这是谐音梗", },
+  ] },
+
   { year: 2026, week: 17, events: [
     { date: "2026-04-20 20:00+08:00", type: "rest", title: "", },
     { date: "2026-04-21 20:00+08:00", type: "game", title: "哀鸿", },
