@@ -58,7 +58,7 @@ export const events: WeekItem[] = [
     { date: "2026-05-06 20:00+08:00", type: "rest", title: "", },
     { date: "2026-05-07 20:00+08:00", type: "rest", title: "", },
     { date: "2026-05-08 20:00+08:00", type: "rest", title: "", },
-    { date: "2026-05-09 19:00+08:00", type: "watch", title: "假面骑士zzz", },
+    { date: "2026-05-09 19:00+08:00", type: "watch", title: "假面骑士ZZZ", },
     { date: "2026-05-10 19:00+08:00", type: "rest", title: "", },
   ] },
 
