@@ -53,8 +53,8 @@ export const events: WeekItem[] = [
   // ] },
 
   { year: 2026, week: 19, events: [
-    { date: "2026-05-04 20:00+08:00", type: "game", title: "伊势人鱼物语", },
-    { date: "2026-05-05 20:00+08:00", type: "chat", title: "来辣！", },
+    { date: "2026-05-04 20:00+08:00", type: "game", title: "伊势人鱼物语", steam：2701440},
+    { date: "2026-05-05 20:00+08:00", type: "chat", title: "休假杂谈回", },
     { date: "2026-05-06 20:00+08:00", type: "rest", title: "", },
     { date: "2026-05-07 20:00+08:00", type: "rest", title: "", },
     { date: "2026-05-08 20:00+08:00", type: "rest", title: "", },
