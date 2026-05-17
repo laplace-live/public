@@ -52,6 +52,16 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
+  { year: 2026, week: 20, events: [
+    { date: "2026-05-11 20:00+08:00", type: "rest", title: "", },
+    { date: "2026-05-12 20:00+08:00", type: "rest", title: "", },
+    { date: "2026-05-13 20:00+08:00", type: "rest", title: "", },
+    { date: "2026-05-14 20:00+08:00", type: "rest", title: "", },
+    { date: "2026-05-15 20:00+08:00", type: "rest", title: "", },
+    { date: "2026-05-16 19:00+08:00", type: "rest", title: "", },
+    { date: "2026-05-17 19:00+08:00", type: "rest", title: "", },
+  ] },
+
   { year: 2026, week: 19, events: [
     { date: "2026-05-04 20:00+08:00", type: "game", title: "来了！！！", steam: 2701440 },
     { date: "2026-05-05 20:00+08:00", type: "chat", title: "休假杂谈回", },
