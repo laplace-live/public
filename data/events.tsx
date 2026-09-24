@@ -52,19 +52,19 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
-  { year: 2026, week: 39, events: [
+  { year: 2026, week: 39, bilibili_url: "1250846728898215956", events: [
     { date: "2026-09-21 20:00+08:00", type: "rest", title: "", },
-    { date: "2026-09-22 20:00+08:00", type: "watch", title: "史!", },
+    { date: "2026-09-22 20:00+08:00", type: "watch", title: "史！", },
     { date: "2026-09-23 20:00+08:00", type: "rest", title: "", },
     { date: "2026-09-24 20:00+08:00", type: "game", title: "鬼!", },
-    { date: "2026-09-25 19:00+08:00", type: "watch", title: "看会儿v0.0", },
-    { date: "2026-09-26 19:00+08:00", type: "game", title: "糖!", },
+    { date: "2026-09-25 19:00+08:00", type: "watch", title: "看会儿0.0", },
+    { date: "2026-09-26 19:00+08:00", type: "game", title: "糖！", },
     { date: "2026-09-27 19:00+08:00", type: "special", title: "周年歌会", },
   ] },
 
   { year: 2026, week: 38, bilibili_url: "1248258770626150402", events: [
     { date: "2026-09-14 20:00+08:00", type: "rest", title: "", },
-    { date: "2026-09-15 20:00+08:00", type: "watch", title: "史!", },
+    { date: "2026-09-15 20:00+08:00", type: "watch", title: "史！", },
     { date: "2026-09-16 20:00+08:00", type: "game", title: "鬼武者", },
     { date: "2026-09-17 20:00+08:00", type: "game", title: "GAME TIME", },
     { date: "2026-09-18 20:00+08:00", type: "rest", title: "", },
@@ -124,7 +124,7 @@ export const events: WeekItem[] = [
 
   { year: 2026, week: 32, bilibili_url: "1232682320110026772", events: [
     { date: "2026-08-03 20:00+08:00", type: "rest", title: "", },
-    { date: "2026-08-04 20:00+08:00", type: "game", title: "助手!老婆!", rec: "BV1soMq6MEVW", },
+    { date: "2026-08-04 20:00+08:00", type: "game", title: "助手!老婆！", rec: "BV1soMq6MEVW", },
     { date: "2026-08-05 20:00+08:00", type: "rest", title: "", },
     { date: "2026-08-06 20:00+08:00", type: "watch", title: "哈基哼", rec: "BV1B9uW6dE3U", },
     { date: "2026-08-07 20:00+08:00", type: "game", title: "GAME TIME", rec: "BV1vxuN6AEYD", steam: 1771300 },
