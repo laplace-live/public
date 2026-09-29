@@ -52,6 +52,16 @@ export const events: WeekItem[] = [
   //   { date: "2023-00-00 19:00+08:00", type: "", title: "", rec: "", },
   // ] },
 
+  { year: 2026, week: 40, events: [
+    { date: "2026-09-28 20:00+08:00", type: "rest", title: "", },
+    { date: "2026-09-29 20:00+08:00", type: "chat", title: "谢下礼物", },
+    { date: "2026-09-30 20:00+08:00", type: "rest", title: "", },
+    { date: "2026-10-01 19:00+08:00", type: "watch", title: "国庆快乐看会儿0.0", },
+    { date: "2026-10-02 19:00+08:00", type: "watch", title: "欧布0.0", },
+    { date: "2026-10-03 19:00+08:00", type: "sub", title: "梦境之花", },
+    { date: "2026-10-04 19:00+08:00", type: "game", title: "鬼武者", },
+  ] },
+
   { year: 2026, week: 39, bilibili_url: "1250846728898215956", events: [
     { date: "2026-09-21 20:00+08:00", type: "rest", title: "", },
     { date: "2026-09-22 20:00+08:00", type: "watch", title: "史！", },
